@@ -1,0 +1,1060 @@
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	877
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	696
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	3
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	11
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	849
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	684
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	28
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	7
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	7
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	33
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	742
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	804
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	72
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	645
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	910
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	64
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	838
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	613
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	167
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	800
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	634
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	185
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	830
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	596
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	193
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	851
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	581
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	187
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	858
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	552
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	209
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	858
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	566
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	195
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	842
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	580
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	197
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	790
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	615
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	214
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	817
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	589
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	213
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	559
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	415
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	355
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	254
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	35
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	820
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	624
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	117
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	18
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	40
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	1075
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	510
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	34
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	County Commissioner	 District 1	380010	Alston Kelley	REP	105268785	67623	614
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	County Commissioner	 District 1	380010	Justin Hamrick	DEM	105277585	68359	437
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	County Commissioner	 District 1	380010	Marvin "Merv" Mattair	NPA	105275088	68356	539
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	29
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	910
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	643
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	66
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	923
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	642
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	54
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1219
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	319
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	81
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1118
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	411
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	90
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	49
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	264
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	2
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	57
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	243
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	55
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	249
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	14
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	52
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	260
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	194
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	99
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	25
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	190
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	102
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	26
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	188
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	105
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	25
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	195
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	97
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	26
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	199
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	90
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	29
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	203
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	87
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	28
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	184
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	107
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	174
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	113
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	31
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	176
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	110
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	32
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	27
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	92
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	168
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	28
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	3
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	51
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	182
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	81
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	2
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	2
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	82
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	229
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	7
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	185
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	113
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	20
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	212
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	90
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	16
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	249
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	50
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	19
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	237
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	61
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	20
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	1212
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	237
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1110
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	299
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	23
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	26
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	1019
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	403
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	61
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	953
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	471
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	59
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	716
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	602
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	165
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	611
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	692
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	180
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	692
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	607
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	184
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	699
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	597
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	187
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	698
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	589
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	195
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	681
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	615
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	187
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	697
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	599
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	187
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	688
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	601
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	194
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	688
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	598
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	197
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	660
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	410
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	68
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	311
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	34
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	1081
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	276
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	45
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	42
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	39
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	1277
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	151
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	55
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	County Commissioner	 District 5	380050	Nancy Moral	REP	11183652	67634	523
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	County Commissioner	 District 5	380050	Rick Davis	DEM	105270127	67627	798
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	County Commissioner	 District 5	380050	Adrian "A.D." Kinsey	NPA	105274746	68154	120
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	42
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	787
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	647
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	49
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	873
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	574
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	36
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1149
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	286
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	2
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	46
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1050
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	373
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	60
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	240
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	73
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	2
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	227
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	77
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	3
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	9
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	196
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	101
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	22
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	174
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	126
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	19
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	141
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	129
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	48
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	113
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	156
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	50
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	138
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	132
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	49
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	151
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	120
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	48
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	131
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	140
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	138
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	136
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	45
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	134
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	133
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	52
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	139
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	121
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	133
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	129
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	56
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	96
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	41
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	29
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	140
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	13
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	222
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	53
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	25
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	7
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	254
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	49
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	16
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	158
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	144
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	17
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	167
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	137
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	15
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	221
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	79
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	19
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	196
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	99
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	24
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	314
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	518
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	305
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	505
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	17
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	255
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	566
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	31
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	220
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	612
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	20
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	486
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	286
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	80
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	449
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	316
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	87
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	465
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	303
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	84
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	468
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	291
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	93
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	485
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	274
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	93
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	493
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	274
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	453
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	313
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	86
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	434
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	323
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	95
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	454
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	303
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	95
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	129
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	203
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	275
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	227
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	17
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	287
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	407
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	123
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	21
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	423
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	411
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	18
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	540
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	265
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	47
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	527
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	280
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	45
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	670
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	135
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	47
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	646
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	157
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	49
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	162
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	54
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	154
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	55
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	3
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	5
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	134
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	74
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	12
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	119
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	85
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	16
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	96
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	92
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	32
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	79
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	103
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	38
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	89
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	94
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	37
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	90
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	90
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	39
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	94
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	85
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	41
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	94
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	87
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	39
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	87
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	92
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	41
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	84
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	92
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	44
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	87
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	90
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	43
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	81
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	34
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	28
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	68
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	9
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	144
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	51
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	16
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	8
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	171
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	42
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	7
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	121
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	90
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	8
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	112
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	103
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	5
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	165
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	44
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	11
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	159
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	51
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	10
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	612
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	252
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	589
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	273
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	6
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	14
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	499
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	342
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	48
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	478
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	373
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	38
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	463
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	317
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	109
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	409
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	361
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	119
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	446
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	325
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	118
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	443
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	323
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	2
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	121
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	453
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	308
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	128
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	425
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	342
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	122
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	450
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	316
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	123
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	431
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	329
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	129
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	451
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	310
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	128
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	411
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	176
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	96
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	186
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	20
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	538
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	265
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	49
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	15
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	22
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	701
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	162
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	26
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	493
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	362
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	34
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	484
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	376
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	29
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	688
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	158
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	43
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	643
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	204
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	42
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	599
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	206
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	4
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	554
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	230
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	13
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	16
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	484
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	290
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	48
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	456
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	333
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	33
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	408
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	320
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	94
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	349
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	362
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	111
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	392
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	320
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	110
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	401
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	305
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	116
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	420
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	286
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	116
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	396
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	316
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	110
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	395
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	312
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	114
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	374
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	327
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	121
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	386
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	315
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	121
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	502
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	114
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	95
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	96
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	15
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	507
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	223
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	53
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	16
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	23
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	620
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	162
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	40
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	436
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	329
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	57
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	421
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	345
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	56
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	607
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	159
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	56
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	550
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	211
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	61
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	99
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	87
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	89
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	84
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	2
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	9
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	79
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	102
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	9
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	68
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	110
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	12
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	92
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	72
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	26
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	81
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	78
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	31
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	90
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	69
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	31
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	84
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	80
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	26
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	85
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	75
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	30
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	82
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	80
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	28
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	83
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	80
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	79
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	83
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	28
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	85
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	77
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	28
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	51
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	67
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	18
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	42
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	82
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	68
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	20
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	6
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	13
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	103
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	69
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	18
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	84
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	84
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	22
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	118
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	55
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	17
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	130
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	37
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	23
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	126
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	42
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	22
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	424
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	658
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	381
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	650
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	22
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	7
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	7
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	9
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	2
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	34
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	354
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	708
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	51
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	319
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	749
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	45
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	621
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	389
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	103
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	606
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	398
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	109
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	600
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	402
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	111
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	603
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	402
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	108
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	644
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	352
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	117
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	640
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	365
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	108
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	618
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	386
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	109
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	590
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	395
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	128
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	605
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	383
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	125
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	195
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	273
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	391
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	227
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	26
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	383
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	530
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	162
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	17
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	21
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	528
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	557
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	27
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	674
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	388
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	50
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	701
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	376
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	36
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	859
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	206
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	48
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	836
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	225
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	51
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	263
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	481
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	10
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	269
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	464
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	United States Senator	 	120000	UnderVotes	 	0	902	21
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	237
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	514
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	Representative in Congress	 District 5	140050	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	24
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	190
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	564
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	417
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	279
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	80
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	404
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	277
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	95
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	404
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	277
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	95
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	416
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	269
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	91
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	444
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	234
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	98
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	435
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	247
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	94
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	419
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	260
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	97
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	392
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	283
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	100
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	399
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	283
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	94
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Billy Washington	REP	105273142	68373	176
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kel M. Putnal	DEM	431044	67576	240
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renetta Warren Parrish	NPA	105275687	67955	255
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Cody Tuten	NPA	105280058	68364	89
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	16
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Superintendent of Schools	 	360000	Karen  Pickles	REP	105270956	68192	246
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Superintendent of Schools	 	360000	Marcus A. Hawkins Sr.	DEM	105275988	67604	385
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Superintendent of Schools	 	360000	Gwendolyn T. Hubbard	NPA	105269918	67607	119
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Superintendent of Schools	 	360000	Jeffrey "Mr. V" Veilleux	NPA	116723270	67616	12
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	NPA	105272709	68191	349
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Supervisor of Elections	 	375000	Jada Woods Williams	NPA	105274194	67620	405
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	22
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	County Commissioner	 District 5	380050	Nancy Moral	REP	11183652	67634	97
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	County Commissioner	 District 5	380050	Rick Davis	DEM	105270127	67627	397
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	County Commissioner	 District 5	380050	Adrian "A.D." Kinsey	NPA	105274746	68154	265
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	17
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	446
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	273
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	57
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	444
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	282
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	50
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	587
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	128
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	61
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	552
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	162
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11567	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	62

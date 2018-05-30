@@ -1,0 +1,405 @@
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	Trump / Pence	REP	0	65072	594
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	71
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	WriteinVotes	 	0	900	5
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	OverVotes	 	0	901	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	President of the United States	 	100000	UnderVotes	 	0	902	4
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	551
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	110
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	10
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	United States Senator	 	120000	UnderVotes	 	0	902	15
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	546
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	90
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	15
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4381	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	42
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	0	Tax Collector	 	355000	Charles B Hewett Jr	REP	104749438	67492	373
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	0	Tax Collector	 	355000	Shelia Bates Adams	DEM	104749291	67486	305
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	16
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	294
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	337
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	61
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	224
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	401
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	68
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	286
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	347
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	60
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	294
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	331
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	67
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	289
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	335
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	69
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	267
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	356
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	70
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	285
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	340
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	68
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	281
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	342
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	70
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	278
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	347
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	68
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	354
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	317
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	22
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	364
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	311
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	19
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	511
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	157
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	24
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	470
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	200
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	1	Day Community Center	888	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	24
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	Trump / Pence	REP	0	65072	445
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	80
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	President of the United States	 	100000	UnderVotes	 	0	902	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	406
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	95
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	15
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	United States Senator	 	120000	UnderVotes	 	0	902	15
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	411
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	84
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	8
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4381	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	35
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	0	Tax Collector	 	355000	Charles B Hewett Jr	REP	104749438	67492	263
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	0	Tax Collector	 	355000	Shelia Bates Adams	DEM	104749291	67486	266
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	11
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	239
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	243
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	57
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	196
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	278
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	65
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	227
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	253
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	60
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	223
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	256
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	61
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	224
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	246
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	70
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	221
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	257
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	61
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	216
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	262
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	62
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	221
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	259
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	229
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	249
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	62
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	304
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	212
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	22
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	302
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	217
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	20
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	400
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	112
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	28
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	373
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	131
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	2	Lafayette Public Library	718	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	36
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	Trump / Pence	REP	0	65072	723
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	85
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	WriteinVotes	 	0	900	7
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	President of the United States	 	100000	UnderVotes	 	0	902	5
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	663
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	128
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	15
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	United States Senator	 	120000	UnderVotes	 	0	902	15
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	645
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	115
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	20
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4381	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	49
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	0	Tax Collector	 	355000	Charles B Hewett Jr	REP	104749438	67492	482
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	0	Tax Collector	 	355000	Shelia Bates Adams	DEM	104749291	67486	334
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	14
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	349
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	407
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	74
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	300
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	446
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	84
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	342
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	411
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	77
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	349
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	394
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	87
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	325
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	401
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	104
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	325
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	405
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	98
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	333
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	395
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	101
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	335
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	393
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	99
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	330
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	402
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	97
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	438
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	338
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	53
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	463
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	317
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	50
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	605
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	174
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	51
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	540
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	230
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	3	Airline Community Center	1034	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	59
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	Trump / Pence	REP	0	65072	764
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	103
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	President of the United States	 	100000	UnderVotes	 	0	902	8
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	694
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	148
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	18
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	WriteinVotes	 	0	900	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	United States Senator	 	120000	UnderVotes	 	0	902	17
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	692
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	133
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	23
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4381	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	45
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	0	Tax Collector	 	355000	Charles B Hewett Jr	REP	104749438	67492	387
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	0	Tax Collector	 	355000	Shelia Bates Adams	DEM	104749291	67486	491
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	16
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	412
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	403
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	79
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	319
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	479
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	95
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	387
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	416
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	90
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	385
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	405
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	102
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	373
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	407
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	112
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	355
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	429
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	108
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	364
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	419
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	109
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	372
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	412
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	108
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	362
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	423
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	107
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	452
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	404
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	38
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	516
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	350
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	27
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	643
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	214
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	37
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	589
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	268
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	4	4th District Community Center 	1110	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	37
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	Trump / Pence	REP	0	65072	283
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	179
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	OverVotes	 	0	901	2
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	President of the United States	 	100000	UnderVotes	 	0	902	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	258
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	188
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	13
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	United States Senator	 	120000	UnderVotes	 	0	902	12
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	275
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	165
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	8
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4381	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	32
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	0	Tax Collector	 	355000	Charles B Hewett Jr	REP	104749438	67492	208
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	0	Tax Collector	 	355000	Shelia Bates Adams	DEM	104749291	67486	262
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	11
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	248
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	191
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	42
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	213
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	220
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	48
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	235
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	203
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	42
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	243
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	193
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	45
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	250
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	183
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	243
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	191
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	47
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	240
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	193
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	48
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	227
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	207
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	47
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	241
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	197
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	42
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	311
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	137
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	32
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	302
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	156
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	22
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	355
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	92
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	34
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	357
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	90
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LAF	Lafayette	10282	11/08/2016	2016 General Election	5	Mayo Community Center	712	0	0	4465	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	34

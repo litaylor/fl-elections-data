@@ -1,0 +1,909 @@
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	833
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	197
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	5
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	770
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	217
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	22
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	16
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	25
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	775
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	183
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	51
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	55
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	588
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	446
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	30
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	644
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	123
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	262
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	35
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	713
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	315
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	36
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	521
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	482
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	61
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	712
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	282
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	70
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	539
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	360
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	165
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	491
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	404
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	169
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	533
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	362
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	169
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	529
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	364
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	171
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	514
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	376
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	174
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	527
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	364
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	173
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	517
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	373
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	174
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	524
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	366
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	174
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	537
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	352
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	175
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	458
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	419
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	187
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	605
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	370
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	89
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	540
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	479
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	45
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	641
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	398
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	25
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	846
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	166
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	52
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	746
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	260
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	1	1	1485	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	58
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	402
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	90
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	361
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	109
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	8
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	21
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	377
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	85
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	25
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	20
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	287
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	207
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	13
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	328
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	54
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	115
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	10
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	368
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	121
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	282
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	194
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	31
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	344
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	122
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	40
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	274
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	156
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	77
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	241
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	187
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	79
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	265
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	164
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	78
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	267
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	166
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	74
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	261
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	172
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	74
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	280
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	152
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	75
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	265
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	166
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	76
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	267
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	163
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	77
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	269
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	162
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	76
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	205
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	214
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	88
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	257
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	190
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	60
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	259
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	235
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	13
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	354
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	138
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	15
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	384
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	102
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	20
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	368
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	113
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	2	2	714	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	26
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	1364
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	391
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	10
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	17
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1308
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	410
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	38
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	14
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	38
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	1360
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	320
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	60
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	75
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	1046
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	736
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	33
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	1082
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	207
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	491
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	35
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	1160
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	591
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	64
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	818
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	910
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	87
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	1262
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	467
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	86
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	985
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	539
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	291
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	943
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	573
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	299
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	964
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	550
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	301
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	952
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	556
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	307
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	927
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	570
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	318
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	965
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	537
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	312
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	917
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	577
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	321
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	935
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	557
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	323
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	948
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	541
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	326
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	856
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	626
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	333
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	1137
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	557
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	121
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	894
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	848
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	73
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1060
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	691
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	64
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1327
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	407
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	81
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1146
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	569
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	3	3	2259	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	100
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	861
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	728
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	12
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	881
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	661
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	36
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	23
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	WriteinVotes	 	0	900	5
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	35
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	878
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	633
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	71
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	77
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	779
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	823
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	57
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	774
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	399
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	432
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	54
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	949
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	639
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	71
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	718
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	841
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	100
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	855
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	700
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	104
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	986
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	472
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	201
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	935
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	513
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	211
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	958
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	495
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	206
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	968
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	484
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	207
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	963
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	490
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	206
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	975
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	479
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	205
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	943
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	506
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	210
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	983
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	465
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	211
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	993
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	458
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	208
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	760
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	673
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	226
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	913
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	621
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	125
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	933
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	650
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	76
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1148
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	450
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	61
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1349
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	225
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	85
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1288
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	283
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	4	4	2756	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	88
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	677
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	257
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	11
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	607
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	296
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	20
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	WriteinVotes	 	0	900	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	26
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	626
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	254
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	28
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	58
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	556
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	371
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	39
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	532
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	195
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	188
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	51
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	607
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	285
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	74
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	537
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	326
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	103
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	601
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	272
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	93
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	572
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	243
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	151
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	526
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	284
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	156
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	568
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	246
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	152
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	551
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	255
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	160
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	550
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	257
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	159
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	561
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	244
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	161
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	531
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	266
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	169
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	541
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	255
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	170
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	549
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	246
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	171
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	454
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	313
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	199
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	508
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	325
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	133
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	551
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	368
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	47
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	630
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	307
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	29
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	759
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	167
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	40
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	743
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	171
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	5	5	1443	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	52
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	1297
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	699
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	19
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	15
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1200
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	756
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	33
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	15
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	12
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	8
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	WriteinVotes	 	0	900	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	55
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	1280
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	631
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	81
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	109
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	1057
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	964
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	79
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	1037
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	373
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	626
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	65
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	1204
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	794
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	103
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	896
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	1077
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	128
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	1235
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	716
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	150
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1197
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	608
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	296
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1120
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	684
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	296
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1168
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	634
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	299
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	1173
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	627
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	301
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	1156
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	644
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	301
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	1177
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	606
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	318
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	1151
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	626
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	324
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	1168
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	610
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	323
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	1218
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	566
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	317
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	879
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	866
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	355
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	1170
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	753
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	178
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1133
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	862
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	105
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1349
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	674
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	78
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1615
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	379
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	107
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1531
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	449
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	6	6	2851	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	121
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	527
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	335
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	9
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	OverVotes	 	0	901	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	483
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	353
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	WriteinVotes	 	0	900	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	20
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	534
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	296
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	23
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	44
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	457
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	410
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	30
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	421
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	234
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	223
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	19
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	515
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	345
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	37
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	389
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	463
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	45
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	466
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	375
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	56
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	504
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	294
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	99
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	490
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	302
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	105
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	510
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	286
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	101
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	492
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	297
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	108
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	485
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	302
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	110
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	505
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	287
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	105
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	493
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	294
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	110
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	498
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	289
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	110
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	516
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	273
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	108
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	397
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	367
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	133
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	466
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	375
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	56
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	513
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	339
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	44
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	564
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	299
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	34
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	700
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	151
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	46
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	637
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	210
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	7	7	1317	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	50
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	1584
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	605
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	OverVotes	 	0	901	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	17
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1366
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	750
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	38
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	15
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	20
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	WriteinVotes	 	0	900	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	61
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	1436
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	589
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	99
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	143
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	1248
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	918
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	100
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	1128
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	459
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	591
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	88
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	1390
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	753
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	124
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	1172
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	927
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	168
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	1428
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	648
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	191
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1260
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	658
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	349
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1176
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	734
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	356
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1233
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	678
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	355
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	1238
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	658
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	371
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	1220
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	678
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	369
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	1264
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	620
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	382
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	1232
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	648
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	387
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	1232
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	645
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	390
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	1270
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	613
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	384
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	1011
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	864
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	392
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	1086
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	930
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	251
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1317
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	842
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	108
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1456
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	750
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	61
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1812
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	354
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	101
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1676
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	470
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	8	8	3350	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	121
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	725
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	306
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	25
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	11
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	676
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	327
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	22
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	36
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	712
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	277
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	43
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	53
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	608
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	440
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	37
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	572
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	180
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	298
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	35
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	681
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	354
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	50
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	559
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	462
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	64
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	653
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	360
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	72
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	586
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	332
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	167
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	557
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	357
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	171
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	581
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	333
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	171
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	591
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	321
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	173
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	580
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	332
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	173
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	594
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	317
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	174
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	589
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	314
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	182
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	596
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	314
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	175
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	624
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	283
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	178
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	447
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	444
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	194
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	543
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	455
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	87
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	561
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	475
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	49
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	762
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	290
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	33
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	856
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	165
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	64
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	803
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	211
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	9	9	1660	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	71
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	552
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	163
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	5
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	8
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	523
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	183
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	16
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	532
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	156
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	32
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	32
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	426
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	295
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	31
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	444
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	107
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	181
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	20
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	494
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	222
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	36
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	433
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	270
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	49
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	498
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	193
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	61
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	402
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	227
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	123
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	366
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	261
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	125
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	388
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	240
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	124
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	378
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	245
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	129
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	369
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	254
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	129
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	389
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	234
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	129
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	377
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	245
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	130
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	370
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	249
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	133
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	403
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	217
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	132
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	336
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	274
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	142
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	329
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	337
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	86
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	366
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	349
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	37
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	488
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	235
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	29
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	575
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	137
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	40
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	548
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	150
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	10	10	1134	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	54
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	President of the United States	 	100000	Trump / Pence	REP	0	65072	534
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	188
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	President of the United States	 	100000	WriteinVotes	 	0	900	4
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	President of the United States	 	100000	OverVotes	 	0	901	2
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	President of the United States	 	100000	UnderVotes	 	0	902	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	472
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	225
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	10
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	6
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	United States Senator	 	120000	UnderVotes	 	0	902	18
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	474
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	200
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	29
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	19433	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	43
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	Sheriff	 	335000	Noel Stephen	REP	106137550	66996	412
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	Sheriff	 	335000	Michael Hazellief	NPA	106134741	66979	292
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	42
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	Property Appraiser	 	340000	Mickey Bandi	REP	106147463	66998	396
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	Property Appraiser	 	340000	Steve "Kahuna" Cates	DEM	106135939	66999	177
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	Property Appraiser	 	340000	Sharon Wallace	NPA	106138985	67001	141
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	32
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 1	380010	David E. Hazellief	REP	106125107	66987	487
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 1	380010	Michael Slayton	NPA	106134056	67006	207
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	52
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 3	380030	Brad Goodbread	REP	106125798	67008	423
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 3	380030	Bobby (Robert) M Keefe Jr.	NPA	106128949	67009	247
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	76
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 5	380050	Kelly Owens	REP	106142260	67014	471
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 5	380050	Weston Basil Harvey	DEM	114814099	67013	197
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	78
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	426
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	192
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	128
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	403
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	206
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	137
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	423
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	190
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	133
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	Yes	NOP	112155965	10	416
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	No	NOP	112155965	20	193
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	137
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	Yes	NOP	101464311	10	412
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	No	NOP	101464311	20	199
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	135
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	Yes	NOP	112440389	10	419
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	No	NOP	112440389	20	191
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	136
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	Yes	NOP	112157253	10	400
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	No	NOP	112157253	20	205
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Robert M. Gross	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	141
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	Yes	NOP	105198202	10	407
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	No	NOP	105198202	20	201
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Spencer D. Levine	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	138
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	Yes	NOP	101878734	10	431
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	No	NOP	101878734	20	176
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Retention of Melanie G. May	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	139
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Michael J. McNicholas	NOP	105822401	65148	347
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	Robert "Bob" Meadows	NOP	104609219	65189	247
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Circuit Judge	 19th Judicial Circuit, Group 6	551906	UnderVotes	 	0	902	152
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	School Board	 District 4	610004	Amanda Fuchswanz	NOP	106131163	67017	358
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	School Board	 District 4	610004	Levi Johnson	NOP	115171423	67018	280
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	108
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	443
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	252
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	50
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	434
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	272
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	40
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	579
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	117
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	50
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	577
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	119
+OKE	Okeechobee	10282	11/08/2016	2016 General Election	11	11	1038	0	0	20008	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	50

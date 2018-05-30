@@ -1,0 +1,1001 @@
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	934
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	399
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	12
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	7
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	885
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	401
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	39
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	7
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	8
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	6
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	46
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	856
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	419
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	42
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	85
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	733
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	509
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	164
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	660
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	579
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	167
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	717
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	520
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	169
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	719
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	515
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	172
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	755
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	478
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	173
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	731
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	501
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	174
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	704
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	524
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	178
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	708
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	516
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	181
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	721
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	509
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	176
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	753
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	616
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	37
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	998
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	393
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	15
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1128
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	235
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	43
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1092
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	272
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	42
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1398
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	495
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	17
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1321
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	521
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	55
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	13
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	10
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	5
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	45
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1317
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	478
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	73
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	116
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	960
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	801
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	227
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	893
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	861
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	234
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	939
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	796
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	253
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	949
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	772
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	267
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	965
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	757
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	266
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	946
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	776
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	266
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	904
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	811
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	272
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	921
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	792
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	275
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	958
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	762
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	268
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	920
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	1029
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	39
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1345
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	617
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	26
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1619
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	324
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	45
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1509
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	419
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	60
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1551
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	691
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	11
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	5
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1484
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	665
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	69
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	13
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	17
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	11
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	7
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	8
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	67
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1455
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	651
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	88
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	3
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	145
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1196
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	887
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	257
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1072
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	1004
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	266
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1149
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	918
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	275
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1172
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	890
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	280
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1231
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	855
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	256
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	1192
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	882
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	267
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	1158
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	907
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	276
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1158
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	909
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	275
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	1191
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	880
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	271
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1276
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	986
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	79
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1549
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	745
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	47
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1863
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	392
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	87
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1832
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	428
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	82
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	635
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	303
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	6
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	4
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	585
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	328
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	24
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	7
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	19
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	580
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	312
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	28
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	51
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	448
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	377
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	150
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	407
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	414
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	154
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	419
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	404
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	152
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	425
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	392
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	158
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	450
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	367
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	158
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	439
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	375
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	161
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	423
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	384
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	168
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	419
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	389
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	167
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	415
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	396
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	164
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	398
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	552
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	25
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	707
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	249
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	19
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	747
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	189
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	39
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	696
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	236
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	43
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1758
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	377
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	12
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	11
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1610
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	437
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	38
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	13
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	20
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	6
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	65
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1619
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	390
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	46
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	6
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	136
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	981
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	965
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	251
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	872
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	1065
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	260
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	944
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	982
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	271
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	952
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	965
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	279
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	990
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	931
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	276
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	938
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	975
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	284
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	926
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	989
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	282
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	930
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	980
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	286
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	946
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	967
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	284
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1147
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	991
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	59
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1308
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	849
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	40
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1710
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	415
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	72
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1585
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	541
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	71
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	319
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	51
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	1
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	286
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	66
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	15
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	295
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	53
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	9
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	20
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	160
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	173
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	45
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	137
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	198
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	43
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	156
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	173
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	49
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	154
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	174
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	50
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	152
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	178
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	142
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	188
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	48
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	143
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	184
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	51
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	146
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	182
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	50
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	142
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	184
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	52
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	193
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	182
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	3
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	245
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	129
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	4
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	298
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	71
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	9
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	288
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	82
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	8
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1081
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	859
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	5
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	7
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	2
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1072
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	822
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	39
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	7
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	3
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	45
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1034
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	806
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	40
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	3
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	116
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1074
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	673
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	252
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1015
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	719
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	264
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1050
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	677
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	271
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1049
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	669
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	281
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1112
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	621
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	3
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	263
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	1068
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	648
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	283
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	1008
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	706
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	285
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1001
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	713
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	285
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	1042
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	672
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	285
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1010
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	918
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	69
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1317
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	641
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	39
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1617
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	308
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	72
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1511
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	406
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	82
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1699
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	451
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	9
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	5
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1565
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	493
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	57
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	12
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	15
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	6
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	45
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1591
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	469
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	55
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	94
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1102
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	851
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	259
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	992
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	947
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	274
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1056
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	883
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	274
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1076
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	859
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	278
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1105
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	837
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	271
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	1052
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	876
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	285
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	1004
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	919
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	290
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1045
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	874
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	294
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	1057
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	869
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	287
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1112
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	1050
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	51
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1466
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	709
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	38
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1791
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	368
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	54
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1707
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	440
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	66
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1347
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	395
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	8
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	6
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	6
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1205
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	460
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	61
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	19
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	19
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	10
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	6
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	4
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	35
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1221
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	422
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	50
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	6
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	120
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	834
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	742
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	242
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	757
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	816
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	246
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	804
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	767
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	248
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	830
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	740
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	249
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	867
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	702
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	250
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	820
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	741
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	256
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	784
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	776
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	259
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	820
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	732
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	267
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	809
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	749
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	260
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	865
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	889
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	65
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1265
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	503
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	51
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1400
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	342
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	77
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1338
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	404
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	77
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	608
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	96
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	571
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	116
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	14
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	13
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	578
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	93
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	12
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	39
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	304
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	326
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	93
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	259
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	373
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	91
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	298
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	331
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	94
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	303
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	323
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	97
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	311
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	314
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	97
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	283
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	341
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	99
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	293
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	326
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	104
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	296
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	327
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	100
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	292
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	331
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	99
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	311
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	388
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	24
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	362
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	344
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	17
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	541
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	161
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	21
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	481
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	217
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	25
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	588
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	307
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	3
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	563
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	305
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	18
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	2
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	11
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	538
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	302
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	18
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	51
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	448
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	348
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	114
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	418
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	376
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	116
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	442
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	354
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	114
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	442
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	349
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	119
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	461
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	332
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	117
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	435
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	355
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	120
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	438
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	348
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	124
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	441
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	348
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	121
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	433
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	357
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	120
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	394
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	488
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	28
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	607
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	291
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	12
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	675
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	194
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	41
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	610
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	262
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	38
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1017
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	263
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	12
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	9
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	944
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	281
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	33
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	12
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	11
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	7
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	7
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	44
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	934
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	283
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	37
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	81
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	600
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	585
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	154
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	534
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	654
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	151
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	572
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	613
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	154
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	582
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	598
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	159
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	606
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	571
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	162
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	584
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	594
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	161
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	568
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	606
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	165
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	554
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	618
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	167
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	594
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	581
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	164
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	735
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	576
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	28
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	829
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	490
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	20
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1082
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	220
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	37
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1026
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	269
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	44
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	840
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	414
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	8
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	5
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	823
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	399
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	26
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	8
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	WriteinVotes	 	0	900	4
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	United States Senator	 	120000	UnderVotes	 	0	902	36
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26219	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	795
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26219	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	379
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26219	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	51
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26219	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	5
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26219	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26219	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	83
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	650
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	506
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	157
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	576
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	571
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	166
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	627
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	525
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	162
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	640
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	512
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	162
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	662
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	497
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	155
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	635
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	514
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	164
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	614
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	529
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	171
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	611
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	533
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	169
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	610
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	535
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	168
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	728
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	521
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	64
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	772
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	497
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	45
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1031
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	214
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	69
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	963
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	283
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26833	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	68

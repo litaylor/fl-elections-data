@@ -1,0 +1,929 @@
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	1315
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	612
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	11
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1190
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	687
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	53
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	18
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	45
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1188
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	682
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	47
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	88
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	1212
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	699
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	97
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	885
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	1041
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	82
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	881
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	969
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	158
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	984
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	924
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	100
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	851
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	1001
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	156
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	734
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	1088
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	186
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1025
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	721
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	261
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	991
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	769
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	248
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1035
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	726
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	247
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1009
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	720
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	279
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1045
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	698
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	265
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	1042
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	691
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	275
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	1017
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	711
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	280
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	985
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	737
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	286
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	1018
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	703
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	287
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	845
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	1105
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	58
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1525
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	448
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	35
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1584
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	355
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	69
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1445
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	462
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	101
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	2608
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1085
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	110
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	28
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	2467
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	1181
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	80
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	23
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	7
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	WriteinVotes	 	0	900	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	84
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	2510
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	1117
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	86
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	153
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	2400
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	1337
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	134
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	1805
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	1924
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	143
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	1907
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	1725
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	240
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	1619
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	2074
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	179
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	1629
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	2027
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	216
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	1742
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	1863
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	267
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	2139
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	1244
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	488
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1985
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	1397
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	490
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	2108
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	1283
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	481
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	2119
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	1237
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	516
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	2192
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	1169
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	511
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	2115
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	1237
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	520
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	2117
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	1220
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	535
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	2031
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	1306
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	535
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	2106
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	1232
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	534
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1879
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	1892
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	101
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	2715
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	1078
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	79
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	3192
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	561
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	119
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	2777
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	927
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	168
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	626
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	350
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	570
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	388
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	21
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	604
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	340
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	19
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	44
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	527
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	445
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	35
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	390
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	586
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	31
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	611
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	336
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	60
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	419
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	547
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	41
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	424
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	533
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	50
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	662
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	306
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	39
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	531
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	348
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	128
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	505
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	375
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	127
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	533
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	354
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	120
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	539
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	345
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	123
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	551
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	331
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	125
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	547
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	331
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	129
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	536
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	338
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	133
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	508
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	365
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	134
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	526
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	346
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	135
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	451
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	520
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	36
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	664
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	311
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	32
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	791
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	178
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	38
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	727
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	232
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	48
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	133
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	12
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	128
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	14
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	7
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	127
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	7
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	113
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	39
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	79
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	70
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	108
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	42
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	46
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	97
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	59
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	84
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	122
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	24
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	7
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	61
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	65
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	27
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	56
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	73
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	24
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	68
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	63
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	22
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	60
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	70
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	23
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	63
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	66
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	24
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	62
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	68
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	23
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	61
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	69
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	23
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	62
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	68
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	23
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	60
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	71
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	22
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	79
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	70
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	103
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	48
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	123
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	26
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	109
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	39
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	230
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	86
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	199
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	105
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	7
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	214
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	90
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	213
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	98
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	167
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	147
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	13
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	82
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	226
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	19
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	147
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	163
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	17
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	126
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	174
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	27
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	125
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	166
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	36
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	175
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	116
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	36
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	169
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	119
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	39
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	175
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	112
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	40
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	176
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	102
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	49
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	183
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	96
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	182
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	98
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	47
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	176
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	100
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	51
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	166
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	110
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	51
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	179
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	97
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	51
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	139
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	179
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	256
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	65
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	263
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	53
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	11
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	234
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	80
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	13
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	860
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	265
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	794
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	312
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	26
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	20
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	810
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	282
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	29
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	55
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	737
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	391
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	50
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	550
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	594
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	34
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	679
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	433
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	66
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	415
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	710
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	53
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	460
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	653
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	65
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	640
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	466
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	72
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	574
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	447
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	157
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	537
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	486
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	155
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	582
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	448
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	148
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	591
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	431
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	156
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	599
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	425
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	154
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	607
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	420
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	151
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	597
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	420
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	161
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	560
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	451
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	166
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	589
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	428
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	161
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	550
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	595
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	33
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	793
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	361
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	24
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	956
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	170
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	52
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	867
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	255
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	56
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	1764
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	576
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	11
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1645
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	664
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	49
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	12
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	43
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1690
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	600
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	52
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	97
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	1568
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	781
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	94
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	1195
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	1172
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Senator	 District 3	240030	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	76
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	1226
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	1079
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	139
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	988
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	1361
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	95
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	1082
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	1219
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	143
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	1111
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	1154
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	179
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1279
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	873
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	292
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1203
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	954
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	287
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1290
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	878
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	276
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1287
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	877
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	280
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1310
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	845
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	289
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	1283
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	873
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	288
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	1280
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	874
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	290
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1246
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	907
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	291
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	1296
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	860
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	288
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1070
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	1294
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	79
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1651
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	740
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	53
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1888
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	473
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	83
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1703
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	634
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	107
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	466
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	241
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	433
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	264
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	13
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	433
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	263
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	31
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	431
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	272
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	33
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	342
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	368
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	26
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	277
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	408
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	51
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	360
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	342
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	34
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	368
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	304
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	64
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	302
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	376
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	58
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	371
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	251
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	114
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	357
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	263
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	116
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	367
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	257
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	112
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	371
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	238
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	127
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	382
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	228
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	126
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	378
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	230
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	128
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	359
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	248
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	129
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	360
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	243
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	133
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	360
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	243
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	133
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	288
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	424
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	24
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	561
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	159
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	561
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	153
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	22
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	522
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	178
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	36
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	319
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	83
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	268
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	124
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	7
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	287
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	103
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	14
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	14
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	226
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	182
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	189
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	215
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	14
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	240
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	157
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	21
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	123
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	282
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	13
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	187
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	215
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	221
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	178
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	19
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	202
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	168
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	48
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	201
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	169
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	48
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	202
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	168
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	48
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	206
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	161
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	51
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	218
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	150
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	50
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	207
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	161
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	50
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	210
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	156
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	52
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	205
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	161
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	52
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	208
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	159
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	51
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	214
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	187
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	17
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	299
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	109
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	334
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	66
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	18
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	327
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	68
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	23
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	280
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	103
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	263
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	111
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	12
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	267
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	105
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	13
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	256
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	125
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	13
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	204
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	182
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	197
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	165
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	32
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	189
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	188
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	17
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	202
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	158
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	34
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	158
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	205
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	31
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	198
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	132
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	64
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	187
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	140
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	67
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	204
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	125
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	65
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	200
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	118
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	76
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	203
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	117
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	74
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	200
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	119
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	75
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	204
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	113
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	77
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	194
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	119
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	81
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	208
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	106
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	80
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	178
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	209
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	7
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	276
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	114
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	304
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	73
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	17
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	300
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	77
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	17
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	797
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	445
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	755
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	465
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	20
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	32
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	753
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	455
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	29
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	52
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	752
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	484
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	57
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	534
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	720
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	39
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	620
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	584
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	89
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	622
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	605
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	66
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	529
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	672
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	91
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	530
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	652
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	111
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	736
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	418
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	138
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	702
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	453
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	138
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	742
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	423
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	128
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	739
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	408
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	146
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	752
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	398
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	143
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	747
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	401
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	145
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	726
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	414
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	153
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	709
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	434
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	150
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	729
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	415
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	149
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	602
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	649
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	42
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	937
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	325
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	31
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1026
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	218
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	49
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	940
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	292
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	61
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	1114
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	490
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1061
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	537
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	35
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	12
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	United States Senator	 	120000	UnderVotes	 	0	902	32
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1059
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	530
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	36
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	68
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	1055
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	574
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	68
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	844
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	790
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	State Senator	 District 3	240030	UnderVotes	 	0	902	63
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	Property Appraiser	 	640000	Brad Harvey	NOP	108818191	66867	785
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	Property Appraiser	 	640000	Stephen Remke	NOP	108826661	66866	800
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	Property Appraiser	 	640000	UnderVotes	 	0	902	112
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 1	680001	Howard Kessler	NOP	108823957	66874	796
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 1	680001	Ralph Thomas	NOP	108822347	66873	839
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 1	680001	UnderVotes	 	0	902	62
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 3	680003	John Shuff	NOP	108826098	66880	668
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 3	680003	Mike Stewart	NOP	108826301	66881	928
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	101
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 5	680005	Richard Harden	NOP	108818013	66884	678
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 5	680005	Chuck Hess	NOP	108822286	66885	901
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	118
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	888
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	608
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	201
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	821
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	674
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	202
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	868
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	634
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	195
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	879
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	607
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	211
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	897
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	585
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	215
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	890
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	594
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	213
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	866
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	613
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	218
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	866
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	614
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	217
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	883
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	597
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	217
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	851
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	802
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	44
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1303
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	358
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	36
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1434
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	204
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	59
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1263
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	362
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	20045	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	72

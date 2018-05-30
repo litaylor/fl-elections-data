@@ -1,0 +1,4 @@
+SUM	Sumter	9547	11/06/2012	2012 General Election	SUM109	109 COLONY COTTAGE 9	6477	0	0	0	Village Community Development District No. 7	 Seat 4	855024	Janice E. Thompson	NOP	117177278	56994	2290
+SUM	Sumter	9547	11/06/2012	2012 General Election	SUM109	109 COLONY COTTAGE 9	6477	0	0	0	Village Community Development District No. 7	 Seat 4	855024	Jerry Vicenti	NOP	116435545	56528	2294
+SUM	Sumter	9547	11/06/2012	2012 General Election	SUM109	109 COLONY COTTAGE 9	6477	0	0	0	Village Community Development District No. 7	 Seat 4	855024	OverVotes	 	0	901	0
+SUM	Sumter	9547	11/06/2012	2012 General Election	SUM109	109 COLONY COTTAGE 9	6477	0	0	0	Village Community Development District No. 7	 Seat 4	855024	UnderVotes	 	0	902	1342

@@ -1,0 +1,898 @@
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	609
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	174
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	8
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	11
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	600
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	161
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	592
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	180
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	38
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	224
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	581
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	505
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	305
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	595
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	221
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	424
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	366
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	38
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	556
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	42
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	45
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	168
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	17
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	288
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	277
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	235
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	28
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	County Commissioner	 District 1	380010	Edward Holley	REP	102535222	68143	286
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	County Commissioner	 District 1	380010	Danny Ray Wise	DEM	102536274	67053	250
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	County Commissioner	 District 1	380010	Nathan Goodman	NPA	102534766	68022	271
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	390
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	351
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	87
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	352
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	379
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	97
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	390
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	350
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	88
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	352
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	380
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	96
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	357
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	367
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	104
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	354
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	371
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	102
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	366
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	356
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	106
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	350
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	370
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	108
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	364
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	353
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	111
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	463
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	320
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	44
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	512
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	292
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	24
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	625
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	165
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	38
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	593
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	191
+CAL	Calhoun	10282	11/08/2016	2016 General Election	101	101,202,401,501 Neal Civic Center	1158	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	44
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	408
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	110
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	376
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	124
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	17
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	14
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	375
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	136
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	10
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	25
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	173
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	354
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	19
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	354
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	181
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	11
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	390
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	134
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	22
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	247
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	264
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	35
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	380
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	30
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	31
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	94
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	11
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	154
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	171
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	198
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	County Commissioner	 District 1	380010	Edward Holley	REP	102535222	68143	168
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	County Commissioner	 District 1	380010	Danny Ray Wise	DEM	102536274	67053	219
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	County Commissioner	 District 1	380010	Nathan Goodman	NPA	102534766	68022	146
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	233
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	250
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	63
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	185
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	290
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	71
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	224
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	251
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	71
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	196
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	276
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	74
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	204
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	272
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	70
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	207
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	269
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	70
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	210
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	255
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	81
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	206
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	258
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	82
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	214
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	251
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	81
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	313
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	195
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	38
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	336
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	185
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	25
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	407
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	100
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	39
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	366
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	136
+CAL	Calhoun	10282	11/08/2016	2016 General Election	102	102 Westside VFD	788	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	44
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	666
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	93
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	605
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	105
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	32
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	24
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	620
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	106
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	19
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	41
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	284
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	475
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	28
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	343
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	432
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	495
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	270
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	22
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	381
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	385
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	424
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	62
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	266
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	174
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	124
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	469
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	318
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	385
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	84
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	285
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	424
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	78
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	310
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	396
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	81
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	299
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	405
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	83
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	305
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	397
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	85
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	288
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	413
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	86
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	292
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	411
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	84
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	281
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	408
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	98
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	292
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	396
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	99
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	School Board	 District 2	610002	Ray Howell	NOP	102535627	67917	298
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	School Board	 District 2	610002	Kevin O'Bryan	NOP	102532853	68144	441
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	48
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	451
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	304
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	32
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	489
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	269
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	29
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	639
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	118
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	30
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	574
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	177
+CAL	Calhoun	10282	11/08/2016	2016 General Election	201	201 Altha Comm Center	1077	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	36
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	580
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	156
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	543
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	166
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	19
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	25
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	560
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	168
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	17
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	38
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	238
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	516
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	29
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	478
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	286
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	19
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	558
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	209
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	16
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	358
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	391
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	529
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	31
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	38
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	167
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	236
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	245
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	271
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	31
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	316
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	396
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	71
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	278
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	432
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	73
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	324
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	384
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	75
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	295
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	403
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	85
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	294
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	406
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	83
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	284
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	416
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	83
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	306
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	394
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	83
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	297
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	400
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	86
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	313
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	382
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	88
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	School Board	 District 2	610002	Ray Howell	NOP	102535627	67917	475
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	School Board	 District 2	610002	Kevin O'Bryan	NOP	102532853	68144	265
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	43
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	421
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	327
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	35
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	477
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	281
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	25
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	575
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	175
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	33
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	546
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	196
+CAL	Calhoun	10282	11/08/2016	2016 General Election	202	101,202,401,501 Neal Civic Center	1048	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	41
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	826
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	121
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	11
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	17
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	748
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	129
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	39
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	10
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	41
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	769
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	144
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	45
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	48
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	535
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	420
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	52
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	568
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	400
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	39
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	646
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	320
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	41
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	493
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	478
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	36
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	514
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	44
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	130
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	277
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	42
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	224
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	110
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	617
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	56
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	County Commissioner	 District 3	380030	Lee Shelton	DEM	102532381	67923	462
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	County Commissioner	 District 3	380030	Jeral Hall	NPA	102533946	67064	498
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	47
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	414
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	490
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	103
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	383
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	520
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	104
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	405
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	492
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	110
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	411
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	482
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	114
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	414
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	484
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	109
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	404
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	492
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	111
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	384
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	492
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	131
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	377
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	494
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	136
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	391
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	480
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	136
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	585
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	368
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	54
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	689
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	279
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	39
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	809
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	141
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	57
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	755
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	190
+CAL	Calhoun	10282	11/08/2016	2016 General Election	301	301 Shelton Park Lib	1433	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	62
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	421
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	44
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	398
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	47
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	401
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	55
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	8
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	183
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	291
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	301
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	172
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	14
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	312
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	168
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	219
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	249
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	19
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	307
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	40
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	33
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	93
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	145
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	110
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	213
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	19
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	County Commissioner	 District 3	380030	Lee Shelton	DEM	102532381	67923	232
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	County Commissioner	 District 3	380030	Jeral Hall	NPA	102533946	67064	240
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	194
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	245
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	48
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	171
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	273
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	43
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	187
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	255
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	45
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	173
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	267
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	47
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	176
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	262
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	49
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	175
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	264
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	48
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	178
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	259
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	50
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	174
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	261
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	52
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	181
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	253
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	53
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	265
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	201
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	306
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	165
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	16
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	357
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	110
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	346
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	116
+CAL	Calhoun	10282	11/08/2016	2016 General Election	302	302,502 Carr-Clark VFD	653	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	25
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	182
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	339
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	165
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	330
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	184
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	329
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	10
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	73
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	452
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	334
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	193
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	16
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	412
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	113
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	235
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	269
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	39
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	323
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	24
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	60
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	116
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	196
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	118
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	202
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	27
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	289
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	205
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	49
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	278
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	219
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	46
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	291
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	204
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	48
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	285
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	209
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	49
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	290
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	201
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	52
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	281
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	213
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	49
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	289
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	204
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	50
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	267
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	215
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	61
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	273
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	207
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	63
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	360
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	143
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	40
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	368
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	148
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	27
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	427
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	84
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	32
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	427
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	82
+CAL	Calhoun	10282	11/08/2016	2016 General Election	401	101,202,401,501 Neal Civic Center	775	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	46
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	40
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	10
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	45
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	8
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	40
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	33
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	36
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	35
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	42
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	28
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	16
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	32
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	33
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	16
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	32
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	14
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	14
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	35
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	14
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	33
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	14
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	33
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	19
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	27
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	26
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	42
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	11
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	40
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	13
+CAL	Calhoun	10282	11/08/2016	2016 General Election	402	402,503 Kinard Library	71	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	481
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	122
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	472
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	114
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	11
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	486
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	107
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	31
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	204
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	404
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	434
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	187
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	10
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	458
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	158
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	309
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	285
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	37
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	403
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	26
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	38
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	149
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	216
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	214
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	178
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	County Commissioner	 District 5	380050	Harold Pickron	DEM	102536977	67926	250
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	County Commissioner	 District 5	380050	Gene Bailey	NPA	102533114	67067	360
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	318
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	246
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	67
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	279
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	283
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	69
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	308
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	254
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	69
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	287
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	270
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	74
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	296
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	262
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	73
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	285
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	273
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	73
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	285
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	263
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	83
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	275
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	270
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	86
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	292
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	255
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	84
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	361
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	239
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	31
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	405
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	203
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	498
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	99
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	451
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	141
+CAL	Calhoun	10282	11/08/2016	2016 General Election	501	101,202,401,501 Neal Civic Center	880	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	39
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	132
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	17
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	119
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	22
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	114
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	31
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	72
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	76
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	98
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	53
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	116
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	35
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	101
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	43
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	95
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	25
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	45
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	36
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	67
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	County Commissioner	 District 5	380050	Harold Pickron	DEM	102536977	67926	58
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	County Commissioner	 District 5	380050	Gene Bailey	NPA	102533114	67067	91
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	4
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	63
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	81
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	62
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	84
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	65
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	80
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	8
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	60
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	84
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	63
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	81
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	63
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	81
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	63
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	81
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	61
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	83
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	67
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	77
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	9
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	114
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	37
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	117
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	130
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	20
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	130
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	502	302,502 Carr-Clark VFD	206	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	Trump / Pence	REP	0	65072	304
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	60
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	President of the United States	 	100000	UnderVotes	 	0	902	2
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	265
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	67
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	11
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	7
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	United States Senator	 	120000	UnderVotes	 	0	902	17
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	277
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	67
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	22
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	157
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	198
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8426	State Senator	 District 3	240030	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Carla A Hand	NPA	102535818	67044	236
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Renee Attaway Crawford	NPA	102530204	67921	134
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	8
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Sheriff	 	335000	Glenn Kimbrel	DEM	102534347	67906	264
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Sheriff	 	335000	William "Eddie" Dalton	NPA	102538378	67066	99
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Property Appraiser	 	340000	Carla Trickey Peacock	REP	102529530	67908	218
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Property Appraiser	 	340000	Kathy Tatum Herrman	NPA	102535582	67096	134
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	26
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Superintendent of Schools	 	360000	Ralph B. Yoder	NPA	102530841	67902	252
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Superintendent of Schools	 	360000	Jimmy Marshall	NPA	102533054	68017	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Superintendent of Schools	 	360000	Ivey McClain	NPA	108897135	68141	34
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Superintendent of Schools	 	360000	Kelly Edenfield King	NPA	102529866	68140	57
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Supervisor of Elections	 	375000	Zane Wood	NPA	105265459	67040	130
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Supervisor of Elections	 	375000	Terri G. Waldron	NPA	102536318	67965	63
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Supervisor of Elections	 	375000	Sharon Chason	NPA	102535850	68021	167
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	18
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	County Commissioner	 District 5	380050	Harold Pickron	DEM	102536977	67926	125
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	County Commissioner	 District 5	380050	Gene Bailey	NPA	102533114	67067	245
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	8
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	152
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	179
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	47
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	141
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	192
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	45
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	142
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	190
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	46
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	137
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	192
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	49
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	145
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	184
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	49
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	140
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	190
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	48
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	136
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	185
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	57
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	132
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	189
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	57
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	144
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	173
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	61
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	245
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	109
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	23
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	239
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	124
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	15
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	301
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	56
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	21
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	270
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	88
+CAL	Calhoun	10282	11/08/2016	2016 General Election	503	402,503 Kinard Library	507	0	0	8596	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	20

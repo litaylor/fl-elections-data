@@ -1,0 +1,1044 @@
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	197
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	51
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	197
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	44
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	7
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	191
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	51
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	9
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	19
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	73
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	164
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	27
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	150
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	113
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	135
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	122
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	13
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	144
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	110
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	126
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	98
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	46
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	112
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	111
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	47
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	125
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	97
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	48
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	118
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	103
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	49
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	118
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	100
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	52
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	126
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	93
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	51
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	110
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	106
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	54
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	126
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	89
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	55
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	119
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	96
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	55
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	117
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	94
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	59
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	112
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	97
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	61
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	121
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	90
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	59
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	116
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	91
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	63
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	138
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	123
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	150
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	112
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	8
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	210
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	48
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	12
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	188
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	69
+GLA	Glades	10282	11/08/2016	2016 General Election	1	1 American Legion	335	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	13
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	227
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	68
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	227
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	66
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	218
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	66
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	10
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	150
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	122
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	33
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	188
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	106
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	180
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	119
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	10
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	172
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	122
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	153
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	107
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	48
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	159
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	104
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	46
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	153
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	106
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	50
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	158
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	101
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	50
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	160
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	97
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	52
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	170
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	87
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	52
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	156
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	101
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	52
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	162
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	94
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	53
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	168
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	88
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	53
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	160
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	94
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	55
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	154
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	99
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	56
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	155
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	96
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	58
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	162
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	91
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	1
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	55
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	157
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	147
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	204
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	103
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	239
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	56
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	14
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	234
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	59
+GLA	Glades	10282	11/08/2016	2016 General Election	2	2 Ortona Comm Ctr	408	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	130
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	63
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	136
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	53
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	1
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	126
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	60
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	10
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	59
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	121
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	21
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	119
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	81
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	3
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	102
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	93
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	8
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	95
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	103
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	98
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	77
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	28
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	89
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	83
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	94
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	80
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	29
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	96
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	76
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	102
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	72
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	29
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	107
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	66
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	30
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	91
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	81
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	105
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	68
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	30
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	97
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	76
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	30
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	97
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	75
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	92
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	79
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	32
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	93
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	78
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	32
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	102
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	71
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	30
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	107
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	86
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	10
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	143
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	55
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	165
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	24
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	14
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	150
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	40
+GLA	Glades	10282	11/08/2016	2016 General Election	3	3 Moore Haven Doyle Conn Bldg	294	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	13
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	125
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	21
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	112
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	20
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	108
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	25
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	8
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	59
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	74
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	12
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	86
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	54
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	10
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	80
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	62
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	8
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	107
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	39
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	56
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	62
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	32
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	51
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	65
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	62
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	52
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	36
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	51
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	61
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	38
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	55
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	58
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	37
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	50
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	63
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	37
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	52
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	61
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	37
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	56
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	58
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	36
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	53
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	61
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	36
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	54
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	58
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	38
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	51
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	61
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	38
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	51
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	61
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	38
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	55
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	56
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	39
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	74
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	66
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	10
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	96
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	50
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	114
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	27
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	116
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	27
+GLA	Glades	10282	11/08/2016	2016 General Election	4	4 Palmdale Comm Ctr	225	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	553
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	181
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	8
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	569
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	142
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	10
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	18
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	528
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	165
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	30
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	35
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	448
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	256
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	27
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	27
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	435
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	251
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	72
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	442
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	266
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	50
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	437
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	257
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	64
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	413
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	224
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	121
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	356
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	284
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	118
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	402
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	235
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	121
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	386
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	246
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	126
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	394
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	230
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	134
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	397
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	228
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	133
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	353
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	271
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	134
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	399
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	226
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	133
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	396
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	230
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	132
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	363
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	257
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	138
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	374
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	246
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	138
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	377
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	241
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	140
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	383
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	234
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	141
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	371
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	356
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	471
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	264
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	23
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	577
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	147
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	556
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	164
+GLA	Glades	10282	11/08/2016	2016 General Election	5	5 Muse VFD	1231	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	38
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	102
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	255
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	President of the United States	 	100000	OverVotes	 	0	901	1
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	138
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	213
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	11
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	129
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	217
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	12
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	14
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	60
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	270
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	35
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	259
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	104
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	148
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	207
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	17
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	117
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	243
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	12
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	229
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	113
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	30
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	212
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	125
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	35
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	225
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	116
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	214
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	120
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	38
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	209
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	124
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	39
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	229
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	103
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	40
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	199
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	133
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	40
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	217
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	117
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	38
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	216
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	116
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	40
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	205
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	120
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	47
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	206
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	115
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	51
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	204
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	119
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	49
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	201
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	120
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	51
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	224
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	128
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	20
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	223
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	128
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	21
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	304
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	48
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	20
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	292
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	57
+GLA	Glades	10282	11/08/2016	2016 General Election	6	6 Moore Haven Doyle Conn Bldg	648	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	23
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	379
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	101
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	359
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	103
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	14
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	13
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	343
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	110
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	12
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	27
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	178
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	284
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	26
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	299
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	162
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	264
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	205
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	23
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	304
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	172
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	255
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	178
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	59
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	222
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	204
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	66
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	249
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	177
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	66
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	239
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	187
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	66
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	244
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	178
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	70
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	256
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	169
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	67
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	227
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	195
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	70
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	254
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	170
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	68
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	252
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	173
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	67
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	235
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	184
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	73
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	237
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	180
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	75
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	236
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	178
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	78
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	249
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	169
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	74
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	287
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	186
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	19
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	313
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	167
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	12
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	416
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	55
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	21
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	377
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	89
+GLA	Glades	10282	11/08/2016	2016 General Election	7	7 Lakeport Comm Ctr	792	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	26
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	606
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	198
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	3
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	507
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	259
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	16
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	10
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	526
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	219
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	45
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	31
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	361
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	312
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	128
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	20
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	541
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	212
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	68
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	433
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	335
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	53
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	451
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	310
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	60
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	438
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	280
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	103
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	395
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	314
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	112
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	435
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	276
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	110
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	427
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	281
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	113
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	433
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	273
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	115
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	454
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	249
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	118
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	405
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	301
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	115
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	441
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	264
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	116
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	441
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	265
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	115
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	433
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	264
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	124
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	410
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	287
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	124
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	415
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	279
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	127
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	439
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	255
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	127
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	445
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	347
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	29
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	539
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	266
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	645
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	146
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	30
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	622
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	172
+GLA	Glades	10282	11/08/2016	2016 General Election	8	8 Buckhead Ridge Comm Ctr	1138	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	27
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	75
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	19
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	74
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	19
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	1
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	68
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	20
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	1
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	41
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	50
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	5
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	54
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	35
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	51
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	42
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	3
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	68
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	27
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	44
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	40
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	12
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	41
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	40
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	41
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	40
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	40
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	41
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	37
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	42
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	17
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	48
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	34
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	14
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	43
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	37
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	44
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	36
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	44
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	36
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	43
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	36
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	17
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	44
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	35
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	17
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	45
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	34
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	17
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	41
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	39
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	16
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	60
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	36
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	65
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	30
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	86
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	9
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	74
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	21
+GLA	Glades	10282	11/08/2016	2016 General Election	9	9 Lakeport Comm Ctr	149	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	45
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	49
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	49
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	42
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	55
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	42
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	5
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	25
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	74
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	41
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	55
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	39
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	57
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	56
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	43
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	3
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	55
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	46
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	55
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	46
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	59
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	42
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	58
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	42
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	64
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	36
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	64
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	36
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	58
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	42
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	61
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	39
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	63
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	37
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	61
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	39
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	61
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	39
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	61
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	39
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	63
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	37
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	43
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	59
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	71
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	31
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	83
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	18
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	72
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	28
+GLA	Glades	10282	11/08/2016	2016 General Election	10	10 Lakeport Comm Ctr	201	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	240
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	51
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	228
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	53
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	220
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	54
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	12
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	11
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	84
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	185
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	26
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	165
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	125
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	150
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	140
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	163
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	126
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	8
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	139
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	124
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	118
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	144
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	35
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	137
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	126
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	128
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	135
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	142
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	121
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	143
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	120
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	123
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	138
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	36
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	136
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	127
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	34
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	141
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	123
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	33
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	132
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	122
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	43
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	126
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	129
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	42
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	126
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	129
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	42
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	137
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	115
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	45
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	128
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	155
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	14
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	188
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	97
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	12
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	241
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	41
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	207
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	71
+GLA	Glades	10282	11/08/2016	2016 General Election	11	11 Moore Haven Doyle Conn Bldg	408	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	19
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	1
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	112
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	13
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	97
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6475	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	3
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	103
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	103
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	4
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	82
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	31
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	1
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	42
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	67
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	8
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	101
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	71
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	37
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	72
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	35
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	76
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	32
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	76
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	34
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	84
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	25
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	5
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	79
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	29
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	78
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	29
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	7
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	74
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	34
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	82
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	26
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	74
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	30
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	10
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	68
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	34
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	12
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	75
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	29
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	10
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	71
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	34
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	77
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	29
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	8
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	75
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	35
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	94
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	14
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	6
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	96
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	10
+GLA	Glades	10282	11/08/2016	2016 General Election	12	12 Washington Park	160	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	8
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	Trump / Pence	REP	0	65072	316
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	102
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	President of the United States	 	100000	UnderVotes	 	0	902	4
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	318
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	85
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	7
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6475	United States Senator	 	120000	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6473	Representative in Congress	 District 17	140170	Tom Rooney	REP	112324497	65217	310
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6473	Representative in Congress	 District 17	140170	April Freeman	DEM	118485187	64416	96
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6473	Representative in Congress	 District 17	140170	John W Sawyer, III	NPA	109319756	65016	15
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6473	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	9
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Sheriff	 	335000	Susan Harrelle	REP	104282191	68600	236
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Sheriff	 	335000	David  Hardin	DEM	104282436	68596	158
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Sheriff	 	335000	Robert A Wilson	NPA	104283832	68603	28
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	8
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Superintendent of Schools	 	360000	Scott Bass	DEM	104281771	68629	278
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Superintendent of Schools	 	360000	Andy Ringstaff	INT	104278756	68632	123
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	29
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Supervisor of Elections	 	375000	Aletris Farnam	REP	104281820	68637	257
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Supervisor of Elections	 	375000	Angie  Woodward Hough	DEM	107883727	68646	153
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	20
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	County Commissioner	 District 3	380030	Donald E Strenth	REP	104280736	68616	236
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	68613	166
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	28
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	250
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	132
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	48
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	224
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	158
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	48
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	253
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	128
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	49
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	253
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	121
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	56
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	243
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	130
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	57
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	254
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	117
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	59
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	218
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	155
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	57
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	259
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	113
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	58
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	247
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	125
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	58
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	229
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	143
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	58
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	247
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	124
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	59
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	247
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	120
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	63
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	256
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	110
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	64
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	207
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	208
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	15
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	258
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	158
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	14
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	329
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	84
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	17
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	292
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	118
+GLA	Glades	10282	11/08/2016	2016 General Election	13	13 Indian Hills FD	637	0	0	6611	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	20

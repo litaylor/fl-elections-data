@@ -1,0 +1,1125 @@
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	403
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	390
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	252
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	WriteinVotes	 	0	900	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	397
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	24
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	298
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	362
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	220
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	452
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	178
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	339
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	54
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	101
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	209
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	457
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	159
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	500
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	379
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	237
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	66
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	347
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	265
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	70
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	366
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	244
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	72
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	364
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	246
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	72
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	396
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	215
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	71
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	379
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	222
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	354
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	238
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	89
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	345
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	250
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	87
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	348
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	244
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	90
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	374
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	284
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	24
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	425
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	239
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	535
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	124
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	482
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	173
+TAY	Taylor	10282	11/08/2016	2016 General Election	1	1 - 1st Mth	896	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	27
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	657
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	116
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	582
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	187
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	14
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	595
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	168
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	14
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	33
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	449
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	318
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	281
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	516
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	355
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	314
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	42
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	91
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	357
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	434
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	262
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	517
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	31
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	395
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	336
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	79
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	346
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	383
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	81
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	391
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	339
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	80
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	402
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	324
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	84
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	413
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	318
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	79
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	383
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	347
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	80
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	390
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	335
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	85
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	382
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	343
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	85
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	382
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	343
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	85
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	455
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	332
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	531
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	267
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	637
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	150
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	599
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	185
+TAY	Taylor	10282	11/08/2016	2016 General Election	2	2 TTI	1100	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	26
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	591
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	97
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	535
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	140
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	17
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	WriteinVotes	 	0	900	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	551
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	128
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	466
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	225
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	328
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	373
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	15
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	370
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	161
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	33
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	147
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	326
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	370
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	20
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	301
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	373
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	42
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	County Commissioner	 District 3	380030	Sean Andrew Murphy	REP	110162644	68093	230
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	County Commissioner	 District 3	380030	Frank Russell	DEM	108377174	67832	303
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	County Commissioner	 District 3	380030	James N Cruse	NPA	108379001	67713	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	County Commissioner	 District 3	380030	Lonnie A Houck Jr	NPA	108376107	67710	124
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	County Commissioner	 District 3	380030	Eddie Cullaro	NPA	110401578	67836	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	361
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	279
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	76
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	328
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	305
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	83
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	349
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	284
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	83
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	352
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	267
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	97
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	355
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	259
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	102
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	343
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	268
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	105
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	349
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	262
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	105
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	341
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	272
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	103
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	347
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	262
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	107
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	School Board	 District 3	610003	Valena Reed Driggers	NOP	108378944	67712	409
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	School Board	 District 3	610003	Jeanne "Jeannie" Mathis	NOP	108378942	68394	262
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	45
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	416
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	279
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	493
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	215
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	8
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	582
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	115
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	524
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	174
+TAY	Taylor	10282	11/08/2016	2016 General Election	3	3 Blue Creek	931	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	102
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	82
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	28
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	81
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	28
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	59
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	53
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	32
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	85
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	67
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	26
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	15
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	37
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	77
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	38
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	74
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	County Commissioner	 District 3	380030	Sean Andrew Murphy	REP	110162644	68093	17
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	County Commissioner	 District 3	380030	Frank Russell	DEM	108377174	67832	64
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	County Commissioner	 District 3	380030	James N Cruse	NPA	108379001	67713	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	County Commissioner	 District 3	380030	Lonnie A Houck Jr	NPA	108376107	67710	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	County Commissioner	 District 3	380030	Eddie Cullaro	NPA	110401578	67836	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	52
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	52
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	45
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	56
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	49
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	53
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	15
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	51
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	50
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	50
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	50
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	17
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	51
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	48
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	52
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	48
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	17
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	52
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	48
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	17
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	53
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	46
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	School Board	 District 3	610003	Valena Reed Driggers	NOP	108378944	67712	49
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	School Board	 District 3	610003	Jeanne "Jeannie" Mathis	NOP	108378942	68394	67
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	58
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	49
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	68
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	44
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	93
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	17
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	89
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	4	4 Salem	150	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	597
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	95
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	549
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	129
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	15
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	15
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	539
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	115
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	42
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	439
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	247
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	30
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	379
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	311
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	26
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	462
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	77
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	29
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	135
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	336
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	346
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	34
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	325
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	335
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	56
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	County Commissioner	 District 3	380030	Sean Andrew Murphy	REP	110162644	68093	257
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	County Commissioner	 District 3	380030	Frank Russell	DEM	108377174	67832	278
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	County Commissioner	 District 3	380030	James N Cruse	NPA	108379001	67713	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	County Commissioner	 District 3	380030	Lonnie A Houck Jr	NPA	108376107	67710	38
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	County Commissioner	 District 3	380030	Eddie Cullaro	NPA	110401578	67836	112
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	338
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	257
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	121
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	294
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	303
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	119
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	332
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	264
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	120
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	326
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	260
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	130
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	326
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	253
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	137
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	305
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	275
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	136
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	313
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	261
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	142
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	315
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	261
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	140
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	316
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	255
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	145
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	School Board	 District 3	610003	Valena Reed Driggers	NOP	108378944	67712	106
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	School Board	 District 3	610003	Jeanne "Jeannie" Mathis	NOP	108378942	68394	545
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	65
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	353
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	320
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	462
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	241
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	582
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	112
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	537
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	148
+TAY	Taylor	10282	11/08/2016	2016 General Election	5	5 Stein Comm Ctr	886	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	31
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	361
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	63
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	305
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	103
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	8
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	317
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	86
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	228
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	187
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	216
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	209
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	187
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	134
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	40
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	71
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	180
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	237
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	20
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	135
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	275
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	26
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	200
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	180
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	57
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	184
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	197
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	56
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	198
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	185
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	54
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	194
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	186
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	193
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	187
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	57
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	191
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	185
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	61
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	183
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	194
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	60
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	188
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	188
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	61
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	183
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	190
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	64
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	248
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	169
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	20
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	269
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	156
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	344
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	74
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	309
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	105
+TAY	Taylor	10282	11/08/2016	2016 General Election	6	6 Shady Grove	526	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	940
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	123
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	838
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	195
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	WriteinVotes	 	0	900	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	15
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	874
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	147
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	47
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	618
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	426
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	45
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	459
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	612
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	499
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	372
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	48
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	153
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	430
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	638
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	289
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	766
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	34
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	530
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	457
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	102
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	459
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	526
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	104
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	516
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	467
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	106
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	521
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	460
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	108
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	533
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	454
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	102
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	507
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	468
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	114
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	487
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	485
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	117
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	484
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	482
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	123
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	502
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	462
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	125
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	598
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	452
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	39
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	630
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	438
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	856
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	198
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	35
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	737
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	311
+TAY	Taylor	10282	11/08/2016	2016 General Election	7	7 Johnson Strip	1393	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	41
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	486
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	163
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	444
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	190
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	WriteinVotes	 	0	900	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	451
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	171
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	31
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	319
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	321
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	26
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	243
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	412
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	243
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	268
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	37
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	109
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	227
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	419
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	20
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	193
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	446
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	27
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	335
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	264
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	67
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	300
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	297
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	69
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	330
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	264
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	72
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	336
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	254
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	76
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	341
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	251
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	74
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	327
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	260
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	79
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	325
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	259
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	82
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	315
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	264
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	87
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	319
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	263
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	84
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	320
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	317
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	29
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	373
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	272
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	521
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	121
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	24
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	458
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	177
+TAY	Taylor	10282	11/08/2016	2016 General Election	8	8 United Steel Bdg	926	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	31
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	438
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	71
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	390
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	105
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	410
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	81
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	26
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	309
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	196
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	203
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	317
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	226
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	183
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	89
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	265
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	255
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	137
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	378
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	County Commissioner	 District 5	380050	Thomas Demps	DEM	108376626	67833	143
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	County Commissioner	 District 5	380050	Junior Dice	INT	108378874	67837	373
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	244
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	203
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	283
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	41
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	242
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	242
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	246
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	41
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	246
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	41
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	224
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	260
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	232
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	252
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	241
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	46
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	231
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	253
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	287
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	226
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	14
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	318
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	202
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	416
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	97
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	14
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	372
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	138
+TAY	Taylor	10282	11/08/2016	2016 General Election	9	9 Forest Cap	685	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	17
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	449
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	72
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	384
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	109
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	403
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	94
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	28
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	284
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	228
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	229
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	299
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	242
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	180
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	35
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	73
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	255
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	270
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	138
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	377
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	County Commissioner	 District 3	380030	Sean Andrew Murphy	REP	110162644	68093	114
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	County Commissioner	 District 3	380030	Frank Russell	DEM	108377174	67832	235
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	County Commissioner	 District 3	380030	James N Cruse	NPA	108379001	67713	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	County Commissioner	 District 3	380030	Lonnie A Houck Jr	NPA	108376107	67710	142
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	County Commissioner	 District 3	380030	Eddie Cullaro	NPA	110401578	67836	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	256
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	223
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	55
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	218
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	259
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	57
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	238
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	56
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	245
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	223
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	66
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	243
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	224
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	67
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	247
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	221
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	66
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	241
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	224
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	69
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	223
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	241
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	70
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	246
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	222
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	66
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	School Board	 District 3	610003	Valena Reed Driggers	NOP	108378944	67712	273
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	School Board	 District 3	610003	Jeanne "Jeannie" Mathis	NOP	108378942	68394	223
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	38
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	263
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	246
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	340
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	181
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	424
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	96
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	14
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	376
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	142
+TAY	Taylor	10282	11/08/2016	2016 General Election	10	10 Lakeside Bapt	696	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	519
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	46
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	449
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	100
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	WriteinVotes	 	0	900	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	471
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	79
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	14
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	20
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	343
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	221
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	253
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	325
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	310
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	179
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	69
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	295
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	279
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	188
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	374
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	County Commissioner	 District 3	380030	Sean Andrew Murphy	REP	110162644	68093	103
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	County Commissioner	 District 3	380030	Frank Russell	DEM	108377174	67832	273
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	County Commissioner	 District 3	380030	James N Cruse	NPA	108379001	67713	28
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	County Commissioner	 District 3	380030	Lonnie A Houck Jr	NPA	108376107	67710	161
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	County Commissioner	 District 3	380030	Eddie Cullaro	NPA	110401578	67836	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	9
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	253
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	265
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	67
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	213
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	312
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	60
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	247
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	274
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	64
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	262
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	257
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	66
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	258
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	256
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	71
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	244
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	272
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	69
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	246
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	266
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	73
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	246
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	266
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	73
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	241
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	272
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	72
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	School Board	 District 3	610003	Valena Reed Driggers	NOP	108378944	67712	312
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	School Board	 District 3	610003	Jeanne "Jeannie" Mathis	NOP	108378942	68394	226
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	47
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	290
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	273
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	364
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	213
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	8
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	465
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	102
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	409
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	157
+TAY	Taylor	10282	11/08/2016	2016 General Election	11	11 Kelly Grade	738	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	405
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	271
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	381
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	301
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	8
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	389
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	282
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	18
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	299
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	384
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	29
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	268
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	432
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	204
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	344
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	43
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	110
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	232
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	459
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	158
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	524
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	30
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	371
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	276
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	65
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	356
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	289
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	67
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	375
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	273
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	64
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	364
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	278
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	70
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	384
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	260
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	68
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	390
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	249
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	73
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	374
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	261
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	77
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	350
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	284
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	78
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	367
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	270
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	75
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	408
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	282
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	22
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	467
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	233
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	12
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	589
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	100
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	547
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	140
+TAY	Taylor	10282	11/08/2016	2016 General Election	12	12 Shrine	961	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	134
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	682
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	OverVotes	 	0	901	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	140
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	655
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	7
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	155
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	642
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	33
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	112
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	689
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	34
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	119
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	693
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	23
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	123
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	579
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	91
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	13
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	75
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	732
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	28
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	74
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	722
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	39
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	County Commissioner	 District 5	380050	Thomas Demps	DEM	108376626	67833	698
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	County Commissioner	 District 5	380050	Junior Dice	INT	108378874	67837	121
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	491
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	237
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	107
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	486
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	263
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	86
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	491
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	251
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	93
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	488
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	255
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	92
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	531
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	198
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	106
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	505
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	223
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	107
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	480
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	241
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	113
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	457
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	265
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	113
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	483
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	240
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	112
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	566
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	211
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	57
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	620
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	173
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	42
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	668
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	112
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	55
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	643
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	134
+TAY	Taylor	10282	11/08/2016	2016 General Election	13	13 Jerkn	1124	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	58
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	President of the United States	 	100000	Trump / Pence	REP	0	65072	848
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	102
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	President of the United States	 	100000	WriteinVotes	 	0	900	5
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	747
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	164
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	29
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	11
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	WriteinVotes	 	0	900	1
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	United States Senator	 	120000	UnderVotes	 	0	902	21
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	758
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	161
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	47
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	595
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	345
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12089	State Senator	 District 3	240030	UnderVotes	 	0	902	42
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Calvin  Cone	REP	108375177	67840	411
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Annie Mae Murphy	DEM	108375812	68100	555
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	16
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Sheriff	 	335000	Wayne Padgett	REP	108375960	67700	412
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Sheriff	 	335000	"Cla" Parker	DEM	108378136	67838	359
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Sheriff	 	335000	Danny McLeod	NPA	108377269	67721	59
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Sheriff	 	335000	Kelly J "Shakey" Blaske	NPA	108384066	68379	6
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Sheriff	 	335000	Roy Dennis Woods	NPA	108387135	68383	136
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Property Appraiser	 	340000	James K McHargue	REP	108381256	67715	475
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Property Appraiser	 	340000	Bruce A Ratliff	DEM	108383195	68390	473
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	34
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Superintendent of Schools	 	360000	Daryll Gunter	REP	108378886	68395	243
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Superintendent of Schools	 	360000	Danny  Glover Jr	DEM	108383079	68110	713
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	26
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	482
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	380
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	120
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	416
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	456
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	110
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	462
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	407
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	113
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	479
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	390
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	113
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	483
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	384
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	115
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	458
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	401
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	123
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	455
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	399
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	128
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	445
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	406
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	131
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	444
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	406
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	132
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	517
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	429
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	36
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	586
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	371
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	25
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	781
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	170
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	31
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	670
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	271
+TAY	Taylor	10282	11/08/2016	2016 General Election	14	14 Sport Complex	1291	0	0	12303	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	41

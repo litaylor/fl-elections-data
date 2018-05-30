@@ -1,0 +1,858 @@
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	1312
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	290
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	4
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	President of the United States	 	100000	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	11
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1117
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	373
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	52
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	17
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	WriteinVotes	 	0	900	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	53
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1159
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	338
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	47
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	99
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	1198
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	367
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	State Representative	 District 21	260210	WriteinVotes	 	0	900	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	State Representative	 District 21	260210	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	77
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	1332
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	252
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	61
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	1006
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	53
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	514
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	72
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	897
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	674
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	74
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	938
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	569
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	136
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	422
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	299
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	338
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	503
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	83
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	755
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	661
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	228
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	682
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	735
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	226
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	724
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	700
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	219
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	761
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	657
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	226
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	776
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	646
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	222
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	775
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	646
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	224
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	741
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	666
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	238
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	715
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	691
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	239
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	740
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	665
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	239
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	766
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	762
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	117
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	927
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	660
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	57
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	997
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	607
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	41
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1270
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	315
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	59
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1205
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	384
+DIX	Dixie	10282	11/08/2016	2016 General Election	1	1 1ST DIST. CO. BLDG	2273	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	56
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	300
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	58
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	254
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	78
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	20
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	261
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	65
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	36
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	277
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	69
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	23
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	327
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	26
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	226
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	115
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	216
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	133
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	20
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	207
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	144
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	57
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	99
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	85
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	111
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	17
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	127
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	180
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	62
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	120
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	190
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	59
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	126
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	185
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	58
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	148
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	169
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	52
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	143
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	171
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	55
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	136
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	174
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	58
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	131
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	179
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	59
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	134
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	176
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	138
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	171
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	60
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	157
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	190
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	22
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	172
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	164
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	33
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	179
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	160
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	30
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	264
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	72
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	33
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	250
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	87
+DIX	Dixie	10282	11/08/2016	2016 General Election	2	2 MASONIC LODGE	506	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	32
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	1539
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	316
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	21
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1352
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	404
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	60
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	18
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	11
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	53
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1380
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	371
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	75
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	90
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	1398
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	431
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	State Representative	 District 21	260210	WriteinVotes	 	0	900	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	State Representative	 District 21	260210	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	85
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	1488
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	342
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	86
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	1202
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	70
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	556
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	89
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	968
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	821
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	128
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	1048
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	724
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	144
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	528
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	386
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	394
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	485
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	122
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	904
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	789
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	224
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	802
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	882
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	233
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	874
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	816
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	227
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	907
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	765
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	245
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	928
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	744
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	245
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	886
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	782
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	248
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	876
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	787
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	254
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	832
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	824
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	259
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	886
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	773
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	258
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	941
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	823
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	153
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1065
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	771
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	81
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1251
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	618
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	48
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1529
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	320
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	68
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1463
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	370
+DIX	Dixie	10282	11/08/2016	2016 General Election	4	4 OLD TOWN CTR	2728	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	84
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	269
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	39
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	254
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	42
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	8
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	256
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	37
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	263
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	40
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	10
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	238
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	53
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	22
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	179
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	100
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	18
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	183
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	96
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	34
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	165
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	129
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	19
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	125
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	49
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	48
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	68
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	23
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	124
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	140
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	49
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	102
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	161
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	50
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	124
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	138
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	51
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	124
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	136
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	53
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	130
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	130
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	53
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	114
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	145
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	54
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	122
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	137
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	54
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	117
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	141
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	55
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	124
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	134
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	55
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	151
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	126
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	36
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	163
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	135
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	15
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	166
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	134
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	13
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	243
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	55
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	15
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	212
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	86
+DIX	Dixie	10282	11/08/2016	2016 General Election	5	5 SUWANNEE CO. CTR	407	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	15
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	661
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	82
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	OverVotes	 	0	901	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	559
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	130
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	37
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	585
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	105
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	15
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	55
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	609
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	114
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	State Representative	 District 21	260210	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	State Representative	 District 21	260210	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	37
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	642
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	97
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	23
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	452
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	28
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	259
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	23
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	422
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	313
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	27
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	441
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	288
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	33
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	138
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	169
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	203
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	225
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	27
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	331
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	335
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	95
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	293
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	371
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	98
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	302
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	352
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	108
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	323
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	331
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	108
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	328
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	325
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	109
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	304
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	345
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	113
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	306
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	345
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	111
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	290
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	361
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	111
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	306
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	346
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	110
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	369
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	347
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	46
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	423
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	297
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	42
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	408
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	330
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	24
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	548
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	173
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	41
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	527
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	192
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	6	6 CO. BLDG. HWY 55-A	1054	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	42
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	240
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	29
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	202
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	49
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	211
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	37
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	22
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	224
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	37
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	14
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	246
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	24
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	166
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	95
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	177
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	89
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	9
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	111
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	157
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	26
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	81
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	78
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	84
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	6
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	88
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	149
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	38
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	79
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	153
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	43
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	87
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	150
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	38
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	95
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	140
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	85
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	146
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	44
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	84
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	148
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	43
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	87
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	143
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	45
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	86
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	144
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	45
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	91
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	140
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	44
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	132
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	131
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	123
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	134
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	18
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	119
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	144
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	207
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	52
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	185
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	70
+DIX	Dixie	10282	11/08/2016	2016 General Election	7	7 CO. BLDG. WARD AVE	351	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	20
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	597
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	345
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	6
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	529
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	325
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	23
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	8
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	14
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	7
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	64
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	554
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	306
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	27
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	82
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	593
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	313
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	State Representative	 District 21	260210	WriteinVotes	 	0	900	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	63
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	809
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	120
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	42
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	650
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	67
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	225
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	29
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	566
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	347
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	58
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	515
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	388
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	67
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	157
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	267
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	222
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	260
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	65
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	434
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	363
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	174
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	399
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	393
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	179
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	431
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	365
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	175
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	427
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	358
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	186
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	426
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	364
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	181
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	416
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	370
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	185
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	408
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	368
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	195
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	409
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	376
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	186
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	420
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	367
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	184
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	498
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	413
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	60
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	535
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	340
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	95
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	548
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	354
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	69
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	714
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	167
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	90
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	686
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	185
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	9	9 CITY HALL	1320	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	99
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	376
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	37
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	President of the United States	 	100000	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	317
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	75
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	8
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	WriteinVotes	 	0	900	4
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	13
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	323
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	59
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	29
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	350
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	57
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	379
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	35
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	9
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	282
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	119
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	10
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	251
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	163
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	9
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	217
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	193
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	13
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	44
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	117
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	101
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	152
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	9
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	159
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	206
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	58
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	143
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	223
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	57
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	151
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	212
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	60
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	160
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	196
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	67
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	161
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	194
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	68
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	143
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	209
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	71
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	149
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	202
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	72
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	146
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	206
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	71
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	157
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	196
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	70
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	184
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	228
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	11
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	211
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	184
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	27
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	181
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	223
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	18
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	337
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	65
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	21
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	285
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	112
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	10	10 COUNTY BLDG	526	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	25
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	283
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	38
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	247
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	57
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	263
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	42
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	254
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	56
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	State Representative	 District 21	260210	WriteinVotes	 	0	900	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	14
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	267
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	44
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	14
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	192
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	11
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	105
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	17
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	206
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	95
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	24
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	178
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	113
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	34
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	98
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	101
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	101
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	9
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	136
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	158
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	31
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	110
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	176
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	38
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	136
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	153
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	36
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	129
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	154
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	42
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	128
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	156
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	41
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	120
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	164
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	40
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	124
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	163
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	38
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	123
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	159
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	42
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	129
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	157
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	39
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	178
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	123
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	24
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	150
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	164
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	11
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	193
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	121
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	11
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	246
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	69
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	10
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	216
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	94
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	11	11 JENA CO. CTR	403	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	14
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	President of the United States	 	100000	Trump / Pence	REP	0	65072	245
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	36
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	President of the United States	 	100000	UnderVotes	 	0	902	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	209
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	49
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	8
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	United States Senator	 	120000	UnderVotes	 	0	902	12
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	207
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	46
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	5
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	24
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	222
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	44
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9671	State Representative	 District 21	260210	UnderVotes	 	0	902	16
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	Sheriff	 	335000	Dewey H. Hatcher Sr.	NPA	103227449	65753	226
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	Sheriff	 	335000	Christopher Paul Cambron	NPA	122000568	65374	39
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	17
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	Superintendent of Schools	 	360000	Mike Aaron Thomas	NPA	103225165	65609	152
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	Superintendent of Schools	 	360000	Jimmie L. Green Jr.	NPA	121917933	65598	14
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	Superintendent of Schools	 	360000	Cheryl C. Pridgeon	NPA	103228083	65605	95
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	21
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 1	380010	Wade Eugene Higginbotham	NPA	103226660	65600	143
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 1	380010	Micah Jon Davis	NPA	103229864	65599	118
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	21
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	NPA	103229709	65602	137
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 3	380030	Jody Robson	NPA	103227272	65601	118
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	27
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 5	380050	Nancy Benita Corbin	REP	103226574	65603	40
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 5	380050	Brandon Arren Ross	NPA	103238647	66000	66
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 5	380050	James T. Valentine	NPA	103226729	65604	101
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 5	380050	David D. Osteen	NPA	103225578	65597	58
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	17
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	92
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	132
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	57
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	83
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	139
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	60
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	85
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	139
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	58
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	85
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	131
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	66
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	87
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	131
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	64
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	88
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	127
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	67
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	82
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	136
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	80
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	137
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	65
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	82
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	135
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	65
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	School Board	 District 1	610001	Crystal M. Bush	NOP	103229656	65607	140
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	School Board	 District 1	610001	Patrick W. Bell	NOP	103228081	65606	107
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	35
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	160
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	107
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	15
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	150
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	117
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	15
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	206
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	61
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	15
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	184
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	79
+DIX	Dixie	10282	11/08/2016	2016 General Election	12	12 HORSESHOE BCH 	355	0	0	9923	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	19

@@ -1,0 +1,1016 @@
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	63
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	217
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	52
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	222
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	57
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	221
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	80
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	189
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	240
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	26
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	38
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	238
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	9
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	200
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	70
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	15
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	240
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	42
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	182
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	67
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	36
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	186
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	58
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	41
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	182
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	64
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	39
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	170
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	75
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	167
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	74
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	44
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	166
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	78
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	41
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	169
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	73
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	43
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	198
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	59
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	28
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	189
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	83
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	12
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	78
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	172
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	35
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	113
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	144
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	27
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	66
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	182
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	56
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	190
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	38
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	50
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	190
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	45
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	79
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	167
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	39
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	59
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	187
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	39
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	101
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	149
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	35
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	68
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	177
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	40
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	98
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	150
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	62
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	179
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	1	ROCK BLUFF 01	357	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	44
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	80
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	104
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	46
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	133
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	4
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	68
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	117
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	4
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	73
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	108
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	8
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	39
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	139
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	149
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	82
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	99
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	8
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	157
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	28
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	110
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	62
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	112
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	55
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	22
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	115
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	58
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	105
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	65
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	115
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	55
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	102
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	68
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	105
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	66
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	18
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	128
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	46
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	15
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	102
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	77
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	10
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	65
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	106
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	18
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	109
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	64
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	70
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	98
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	21
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	54
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	108
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	27
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	46
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	112
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	31
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	64
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	97
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	28
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	59
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	99
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	31
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	94
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	69
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	26
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	64
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	96
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	29
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	98
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	65
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	26
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	51
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	109
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	2	ANNEX 02	282	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	29
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	628
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	159
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	418
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	330
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	27
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	9
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	21
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	576
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	217
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	12
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	406
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	343
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	57
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	216
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	549
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	41
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	325
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	464
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	347
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	437
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	21
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	681
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	117
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	8
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	382
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	315
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	109
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	359
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	300
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	147
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	348
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	328
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	130
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	375
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	305
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	126
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	388
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	291
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	127
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	386
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	288
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	132
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	388
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	287
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	130
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	387
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	334
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	85
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	410
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	362
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	34
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	395
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	320
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	91
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	447
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	288
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	71
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	299
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	410
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	97
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	264
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	423
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	119
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	236
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	441
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	129
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	404
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	290
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	112
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	316
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	384
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	106
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	429
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	285
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	90
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	313
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	377
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	116
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	412
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	296
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	98
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	261
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	428
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	3	BRISTOL 03	1046	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	117
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	614
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	134
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	7
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	434
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	297
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	12
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	12
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	14
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	574
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	185
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	10
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	389
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	341
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	40
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	201
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	535
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	34
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	324
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	431
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	15
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	322
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	424
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	24
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	656
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	112
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	332
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	330
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	107
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	331
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	315
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	123
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	328
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	328
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	114
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	340
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	315
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	115
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	356
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	294
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	120
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	348
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	300
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	121
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	358
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	286
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	126
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	351
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	339
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	80
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	350
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	387
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	33
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	385
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	299
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	86
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	446
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	259
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	65
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	280
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	401
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	89
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	263
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	409
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	98
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	216
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	428
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	126
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	397
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	266
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	104
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	272
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	401
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	94
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	395
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	281
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	94
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	290
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	376
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	104
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	391
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	296
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	83
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	233
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	427
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	4	LAKE MYSTIC 04	1011	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	110
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	362
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	102
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	257
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	190
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	6
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	8
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	305
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	161
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	7
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	179
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	279
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	96
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	355
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	23
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	187
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	282
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	260
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	204
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	410
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	58
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	6
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	229
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	187
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	58
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	212
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	187
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	75
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	213
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	199
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	62
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	224
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	179
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	71
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	238
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	163
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	73
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	227
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	173
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	73
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	230
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	168
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	76
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	220
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	206
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	48
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	260
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	195
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	232
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	194
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	48
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	271
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	170
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	33
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	175
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	241
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	58
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	163
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	254
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	57
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	129
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	261
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	84
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	246
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	171
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	57
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	163
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	253
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	58
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	256
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	172
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	46
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	194
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	217
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	63
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	247
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	176
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	51
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	139
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	270
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	5	HOSFORD 05	621	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	65
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	363
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	132
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	208
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	265
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	12
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	7
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	329
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	175
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	252
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	236
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	23
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	113
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	371
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	27
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	192
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	307
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	12
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	194
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	305
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	425
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	81
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	263
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	172
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	76
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	245
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	187
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	79
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	246
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	174
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	91
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	239
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	186
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	86
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	248
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	170
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	93
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	238
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	185
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	87
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	247
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	173
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	91
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	259
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	207
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	45
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	272
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	212
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	27
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	222
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	216
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	73
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	283
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	173
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	55
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	171
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	260
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	80
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	162
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	270
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	79
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	119
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	293
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	99
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	205
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	230
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	76
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	169
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	268
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	74
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	258
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	183
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	69
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	197
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	233
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	81
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	257
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	186
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	68
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	141
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	286
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	6	TELOGIA 06	691	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	84
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	84
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	25
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	46
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	57
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	71
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	38
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	49
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	52
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	10
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	28
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	73
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	10
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	40
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	70
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	26
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	76
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	9
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	102
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	6
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	39
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	49
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	23
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	42
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	32
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	35
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	51
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	25
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	50
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	24
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	49
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	25
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	50
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	24
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	38
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	48
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	25
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	54
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	34
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	23
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	56
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	44
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	11
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	48
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	45
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	18
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	63
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	33
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	14
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	41
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	49
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	21
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	28
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	60
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	23
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	32
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	54
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	25
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	50
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	24
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	37
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	48
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	26
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	61
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	34
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	48
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	41
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	22
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	55
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	36
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	20
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	29
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	55
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	7	SUMATRA 07	156	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	27
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	107
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	69
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	3
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	78
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	93
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	103
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	75
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	79
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	96
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	8
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	42
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	132
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	9
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	61
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	115
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	7
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Sheriff	 	335000	Donnie E Conyers	DEM	105262701	56484	89
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	57793	86
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	8
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Tax Collector	 	355000	Marie Goodman	DEM	102532433	56488	151
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Tax Collector	 	355000	Teddy Eubanks	NPA	105262883	57797	26
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	6
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	93
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	73
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	87
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	70
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	26
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	92
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	70
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	21
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	87
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	77
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	94
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	67
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	21
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	93
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	71
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	95
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	68
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	20
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	105
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	58
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	20
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	School Board	 District 1	610001	Logan E Kever	NOP	105264884	56499	120
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	School Board	 District 1	610001	Michael Wright	NOP	105266376	58574	52
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	11
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	71
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	93
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	109
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	59
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	15
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	74
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	90
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	19
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	48
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	118
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	17
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	43
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	119
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	21
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	79
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	79
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	25
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	69
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	100
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	14
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	99
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	68
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	80
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	86
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	16
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	107
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	62
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	13
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	67
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	98
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LIB	Liberty	9547	11/06/2012	2012 General Election	8	ORANGE 08	246	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	18

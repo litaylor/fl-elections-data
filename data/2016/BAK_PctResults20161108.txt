@@ -1,0 +1,909 @@
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	1277
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	727
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	5
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	13
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1263
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	659
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	31
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	12
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	8
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	54
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	1204
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	768
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	80
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	1067
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	885
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	100
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	644
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	780
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	622
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	6
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	1437
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	579
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	36
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	1003
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	999
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	50
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	964
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	871
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	169
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	48
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	816
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	1175
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	61
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1006
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	813
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	233
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	866
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	931
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	252
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	955
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	846
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	251
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	914
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	876
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	259
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	952
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	823
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	276
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	914
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	859
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	277
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	897
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	875
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	278
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	901
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	870
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	280
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	916
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	867
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	268
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1140
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	756
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	156
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1290
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	633
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	129
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1592
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	299
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	161
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1487
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	398
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	166
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	1903
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	498
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	15
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	9
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1832
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	497
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	46
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	11
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	20
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	7
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	62
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	1707
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	664
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	111
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	1659
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	695
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	128
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	1104
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	481
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	879
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	1871
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	552
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	59
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	1535
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	880
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	67
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	1421
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	805
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	193
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	63
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	1170
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	1222
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	89
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1168
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	970
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	4
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	340
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	993
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	1139
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	349
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1100
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	1033
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	348
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1132
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	990
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	5
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	355
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1174
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	941
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	366
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	1097
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	1011
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	373
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	1096
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	1011
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	374
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1100
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	999
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	382
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	1114
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	1004
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	362
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1378
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	965
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	137
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1575
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	811
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	96
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1943
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	398
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	141
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1814
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	501
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	164
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	2281
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	363
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	17
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	14
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	2216
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	364
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	56
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	8
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	7
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	7
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	7
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	51
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	2095
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	536
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	100
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	2016
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	587
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	127
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	1242
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	409
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	1067
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	12
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	2179
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	507
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	45
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	1813
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	848
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	68
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	1582
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	857
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	223
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	69
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	1377
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	1264
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	90
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1331
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	1090
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	5
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	305
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1132
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	1263
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	334
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1240
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	1153
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	337
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1274
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	1096
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	360
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1292
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	1067
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	372
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	1212
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	1142
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	377
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	1219
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	1137
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	4
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	371
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1235
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	1119
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	375
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	1251
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	1108
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	5
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	367
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1530
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	1095
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	104
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1766
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	897
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	67
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	2230
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	393
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	108
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	2052
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	548
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	129
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	153
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	8
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	139
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	18
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	3
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	127
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	32
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	5
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	125
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	30
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	9
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	60
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	17
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	86
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	140
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	22
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	113
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	48
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	3
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	94
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	52
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	14
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	4
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	97
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	57
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	10
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	76
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	71
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	17
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	51
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	88
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	24
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	60
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	81
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	23
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	71
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	69
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	24
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	68
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	70
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	26
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	64
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	76
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	24
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	64
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	76
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	24
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	72
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	67
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	25
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	65
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	75
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	24
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	82
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	80
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	114
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	47
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	3
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	130
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	26
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	8
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	114
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	41
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	9
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	430
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	34
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	407
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	46
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	13
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	10
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	373
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	101
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	11
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	369
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	105
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	11
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	262
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	44
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	177
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	422
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	62
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	357
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	120
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	8
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	317
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	122
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	35
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	11
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	283
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	190
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	12
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	254
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	187
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	43
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	203
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	237
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	45
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	233
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	207
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	45
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	238
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	203
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	43
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	229
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	206
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	223
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	211
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	50
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	233
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	205
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	47
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	236
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	200
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	49
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	233
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	204
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	47
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	279
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	189
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	17
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	329
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	149
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	7
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	407
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	69
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	9
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	399
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	72
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	14
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	1330
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	147
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	6
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	5
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1305
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	147
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	12
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	33
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	1236
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	206
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	67
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	1117
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	321
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	71
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	734
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	119
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	644
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	12
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	1205
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	279
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	25
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	1049
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	417
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	43
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	952
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	427
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	97
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	33
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	818
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	650
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	41
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	667
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	657
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	183
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	526
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	788
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	194
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	620
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	699
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	190
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	654
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	646
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	208
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	662
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	639
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	208
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	586
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	709
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	214
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	611
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	684
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	212
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	657
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	637
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	214
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	633
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	664
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	212
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	787
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	657
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	63
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	880
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	587
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	42
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1215
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	233
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	61
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1065
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	362
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	81
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	745
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	59
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	4
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	693
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	80
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	21
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	3
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	14
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	659
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	132
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	25
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	617
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	172
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	26
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	337
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	96
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	381
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	680
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	126
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	10
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	555
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	237
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	24
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	535
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	194
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	61
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	26
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	480
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	315
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	21
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	373
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	362
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	81
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	312
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	415
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	89
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	350
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	378
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	88
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	370
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	355
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	91
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	379
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	345
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	92
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	356
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	363
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	97
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	352
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	369
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	94
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	364
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	358
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	94
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	361
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	362
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	93
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	441
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	342
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	33
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	474
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	316
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	26
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	656
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	126
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	34
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	601
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	178
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	37
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	2029
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	212
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	22
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	4
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	7
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1906
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	260
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	44
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	9
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	20
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	7
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	10
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	5
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	48
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	1819
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	397
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	94
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	1702
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	496
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	111
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	1122
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	257
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	912
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	19
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	1897
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	362
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	51
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	1613
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	616
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	81
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	1434
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	632
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	172
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	72
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	1283
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	950
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	76
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1012
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	990
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	308
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	835
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	1157
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	318
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	938
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	1051
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	320
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	977
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	989
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	343
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	967
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	991
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	352
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	916
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	1041
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	352
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	916
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	1033
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	358
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	946
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	1007
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	356
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	967
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	990
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	350
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1285
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	904
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	121
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1378
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	846
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	86
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1799
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	389
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	122
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1624
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	527
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	156
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	146
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	64
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	140
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	64
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	6
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	United States Senator	 	120000	UnderVotes	 	0	902	5
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	Representative in Congress	 District 5	140050	Glo Smith	REP	102878928	64825	130
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	65204	76
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	12
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	State Representative	 District 10	260100	Elizabeth Porter	REP	103184276	64538	124
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	State Representative	 District 10	260100	Jerry Lawrence Bullard	DEM	104306119	65225	85
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	State Representative	 District 10	260100	UnderVotes	 	0	902	9
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Sheriff	 	335000	Scotty Rhoden	REP	100595188	68091	66
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Sheriff	 	335000	Gerald A. Ruise Sr.	DEM	100598477	68094	66
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Sheriff	 	335000	Gerald D.  Gonzalez	NPA	100597459	68090	85
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Tax Collector	 	355000	Amy Dopson Dugger	REP	100595611	68104	142
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Tax Collector	 	355000	Gordon Crews	DEM	100590799	68103	70
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	6
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 1	380010	James "The Giant" Croft	REP	100591925	68074	124
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 1	380010	Steve  Harvey	DEM	100588830	68073	89
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	5
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 3	380030	Cathy Rhoden	REP	100591454	68078	122
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 3	380030	R. L.  Starling	DEM	100591569	68082	73
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 3	380030	Brian "Kaz" Kazmierczak	NPA	102826882	68076	15
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	8
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 5	380050	Bobby  Steele	REP	100603004	68081	95
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	68080	112
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	11
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	115
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	76
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	27
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	103
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	86
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	29
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	108
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	82
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	28
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	110
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	80
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	28
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	110
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	79
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	29
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	110
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	79
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	29
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	111
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	78
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	29
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	107
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	81
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	30
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	106
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	84
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	28
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	126
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	81
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	11
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	141
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	68
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	9
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	176
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	28
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	14
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	169
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	31
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	15147	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	18

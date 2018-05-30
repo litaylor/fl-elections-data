@@ -1,0 +1,792 @@
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	1077
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	186
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	974
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	228
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	19
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	14
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	40
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1003
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	214
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	26
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	49
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	766
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	460
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	66
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	894
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	316
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	64
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	County Commissioner	 District 1	380010	Freddie Whitfield	REP	104293322	67805	633
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	County Commissioner	 District 1	380010	Tony Justice	DEM	104290819	67804	587
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	County Commissioner	 District 1	380010	Ronald Mock	NPA	104296517	67808	58
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	14
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	530
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	633
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	129
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	464
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	678
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	150
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	518
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	628
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	146
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	516
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	623
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	153
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	533
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	601
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	157
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	505
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	627
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	160
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	508
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	623
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	160
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	495
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	634
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	162
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	524
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	612
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	156
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	827
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	420
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	45
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	882
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	386
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	23
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1047
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	199
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	46
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1008
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	233
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	1	HONEYVILLE COMMUNITY CENTER	1944	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	51
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	904
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	233
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	831
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	287
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	24
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	27
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	869
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	268
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	34
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	27
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	680
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	478
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	42
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	773
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	347
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	67
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	11
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	491
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	619
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	88
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	460
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	636
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	104
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	463
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	634
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	103
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	494
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	608
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	98
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	494
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	598
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	108
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	473
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	614
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	113
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	476
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	617
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	107
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	477
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	610
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	113
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	497
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	598
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	105
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	732
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	419
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	49
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	810
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	358
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	32
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	963
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	188
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	48
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	903
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	245
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	2	FIRST PENTECOSTAL CHURCH	1738	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	52
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	923
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	291
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	10
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	933
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	273
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	31
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	10
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	28
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	902
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	278
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	67
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	40
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	740
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	501
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	48
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	860
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	318
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	91
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	19
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	626
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	526
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	136
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	569
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	574
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	146
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	611
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	529
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	149
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	637
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	487
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	165
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	655
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	470
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	164
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	622
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	498
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	169
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	609
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	513
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	166
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	617
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	499
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	170
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	628
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	494
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	167
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	747
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	501
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	40
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	890
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	373
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	26
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1006
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	247
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	36
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	920
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	319
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	3	ST. JOE BEACH FIRE STATION	1815	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	50
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	414
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	517
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	449
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	476
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	15
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	431
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	488
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	22
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	25
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	315
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	615
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	36
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	503
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	403
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	40
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	21
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	529
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	348
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	89
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	490
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	360
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	117
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	501
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	353
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	113
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	507
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	361
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	99
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	522
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	343
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	101
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	513
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	344
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	110
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	505
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	360
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	102
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	494
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	374
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	99
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	521
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	348
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	98
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	568
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	351
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	47
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	674
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	256
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	37
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	748
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	175
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	44
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	714
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	206
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	4	PORT ST. JOE FIRE STATION	1323	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	47
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	1095
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	212
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1080
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	214
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	32
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	28
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1083
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	206
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	44
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	31
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	805
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	506
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	55
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	998
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	266
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	95
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	County Commissioner	 District 5	380050	Phil Mccroan	REP	104291363	67815	1086
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	County Commissioner	 District 5	380050	Michael Barrett	NPA	122811746	67819	257
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	23
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	666
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	539
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	161
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	559
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	630
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	177
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	629
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	551
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	185
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	644
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	545
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	175
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	632
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	553
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	181
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	616
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	567
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	183
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	622
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	558
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	186
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	621
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	563
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	181
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	635
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	552
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	179
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	708
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	613
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	44
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	819
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	508
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	39
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1048
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	271
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	47
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	976
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	337
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	5	CENTENNIAL BUILDING	1763	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	53
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	160
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	25
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	150
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	32
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	156
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	31
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	107
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	82
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	7
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	110
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	69
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	17
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	77
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	108
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	11
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	68
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	116
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	12
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	73
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	110
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	78
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	105
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	77
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	106
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	70
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	111
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	15
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	73
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	110
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	75
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	108
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	71
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	112
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	120
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	70
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	124
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	70
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	156
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	34
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	157
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	34
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	6	WHITE CITY FIRE STATION	254	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	407
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	175
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	430
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	158
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	428
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	153
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	17
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	13
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	345
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	249
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	18
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	450
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	99
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	49
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	14
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	County Commissioner	 District 5	380050	Phil Mccroan	REP	104291363	67815	339
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	County Commissioner	 District 5	380050	Michael Barrett	NPA	122811746	67819	242
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	31
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	334
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	184
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	93
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	304
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	203
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	105
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	323
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	184
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	105
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	319
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	183
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	109
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	332
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	172
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	108
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	321
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	180
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	111
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	324
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	176
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	111
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	315
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	184
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	113
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	329
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	171
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	112
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	350
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	246
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	16
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	433
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	165
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	14
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	467
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	121
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	24
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	415
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	170
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	7	CAPE SAN BLAS FIRE STATION	726	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	27
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	133
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	34
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	131
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	36
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	127
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	33
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	12
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	93
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	71
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	12
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	123
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	46
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	6
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	County Commissioner	 District 1	380010	Freddie Whitfield	REP	104293322	67805	107
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	County Commissioner	 District 1	380010	Tony Justice	DEM	104290819	67804	65
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	County Commissioner	 District 1	380010	Ronald Mock	NPA	104296517	67808	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	67
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	88
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	21
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	55
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	96
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	25
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	63
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	87
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	26
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	67
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	84
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	25
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	63
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	87
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	26
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	61
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	88
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	27
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	63
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	87
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	26
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	59
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	91
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	26
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	62
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	89
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	25
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	116
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	57
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	124
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	48
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	4
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	136
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	31
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	9
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	136
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	31
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	8	HOWARD CREEK FIRE STATION	249	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	9
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	Trump / Pence	REP	0	65072	216
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	47
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	President of the United States	 	100000	UnderVotes	 	0	902	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	213
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	46
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	United States Senator	 	120000	UnderVotes	 	0	902	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	206
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	47
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	16
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	179
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	89
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	State Senator	 District 3	240030	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10043	State Senator	 District 3	240030	UnderVotes	 	0	902	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	0	Sheriff	 	335000	Mike Harrison	REP	104287145	67799	201
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	0	Sheriff	 	335000	Ricky Edward Tolbert	DEM	115010214	67800	61
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	0	Sheriff	 	335000	Timothy Martin Hightower	NPA	104290521	67798	12
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	136
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	119
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	22
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	128
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	125
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	24
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	135
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	118
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	24
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	137
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	111
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	29
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	142
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	103
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	32
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	134
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	111
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	32
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	137
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	109
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	31
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	134
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	112
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	30
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	139
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	108
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	30
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	175
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	92
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	10
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	197
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	77
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	3
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	226
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	43
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	8
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	219
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	49
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+GUL	Gulf	10282	11/08/2016	2016 General Election	9	OVERSTREET FIRE STATION	398	0	0	10210	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	9

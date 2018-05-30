@@ -1,0 +1,709 @@
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	581
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	128
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	536
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	151
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	8
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	14
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	540
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	137
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	17
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	33
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	564
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	141
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	23
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	234
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	475
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	19
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	567
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	129
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	32
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	321
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	338
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	69
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	276
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	388
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	64
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	304
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	359
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	65
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	305
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	357
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	66
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	322
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	342
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	64
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	300
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	362
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	66
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	296
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	362
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	70
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	295
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	360
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	72
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	299
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	357
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	72
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	367
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	341
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	19
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	404
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	307
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	17
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	567
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	135
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	26
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	496
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	202
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1A	1A Trenton Center	1002	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	30
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	300
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	72
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	286
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	79
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	7
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	286
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	78
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	300
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	77
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	State Representative	 District 21	260210	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	12
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	145
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	236
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	317
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	60
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	13
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	204
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	146
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	40
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	183
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	167
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	40
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	196
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	153
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	41
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	192
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	153
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	45
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	193
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	151
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	46
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	196
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	150
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	44
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	184
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	161
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	45
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	186
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	161
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	43
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	191
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	155
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	44
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	185
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	193
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	12
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	225
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	158
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	7
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	306
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	72
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	12
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	264
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	111
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1B	1B Library	504	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	15
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	117
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	123
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	114
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	124
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	126
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	110
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	129
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	113
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	61
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	182
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	8
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	159
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	77
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	15
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	139
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	87
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	25
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	123
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	103
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	25
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	136
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	92
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	23
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	131
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	95
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	25
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	148
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	81
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	22
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	138
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	88
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	25
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	129
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	95
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	128
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	95
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	28
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	132
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	92
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	27
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	142
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	95
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	14
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	140
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	103
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	8
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	203
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	36
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	12
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	170
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	68
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	1C	1C Library	363	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	13
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	1052
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	171
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	985
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	210
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	27
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	10
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	26
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	997
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	165
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	32
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	70
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	1056
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	163
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	State Representative	 District 21	260210	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	45
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	466
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	769
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	31
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	1023
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	186
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	57
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	576
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	519
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	171
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	487
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	605
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	174
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	553
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	542
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	171
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	563
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	527
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	176
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	579
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	515
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	171
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	543
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	550
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	173
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	548
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	543
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	175
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	542
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	549
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	175
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	560
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	534
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	172
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	645
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	589
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	32
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	681
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	567
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	17
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	964
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	262
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	40
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	844
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	370
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	2A	2A Donnie Center	1619	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	52
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	903
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	160
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	8
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	7
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	843
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	197
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	21
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	29
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	833
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	183
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	25
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	64
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	873
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	188
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	State Representative	 District 21	260210	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	44
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	395
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	681
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	30
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	816
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	243
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	47
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	453
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	526
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	127
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	386
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	598
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	122
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	437
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	542
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	126
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	436
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	538
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	132
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	459
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	520
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	127
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	437
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	540
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	129
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	424
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	547
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	135
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	422
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	549
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	134
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	445
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	527
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	133
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	480
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	605
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	20
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	650
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	440
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	16
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	865
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	212
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	29
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	793
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	278
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	3A	3A Bell Community Center	1501	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	35
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	869
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	178
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	13
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	808
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	206
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	33
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	13
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	11
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	27
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	820
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	196
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	36
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	51
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	871
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	189
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	State Representative	 District 21	260210	WriteinVotes	 	0	900	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	44
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	448
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	637
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	22
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	773
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	280
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	54
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	487
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	502
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	116
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	431
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	568
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	108
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	473
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	518
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	116
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	498
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	494
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	115
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	523
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	478
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	106
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	502
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	499
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	106
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	483
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	513
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	111
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	478
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	519
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	110
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	491
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	508
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	108
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	528
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	555
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	24
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	658
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	440
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	862
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	226
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	19
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	811
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	267
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	4A	4A Cruse Center	1530	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	28
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	501
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	89
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	456
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	112
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	12
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	8
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	471
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	96
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	17
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	18
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	473
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	105
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	State Representative	 District 21	260210	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	24
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	301
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	290
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	12
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	421
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	151
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	31
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	288
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	249
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	66
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	255
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	286
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	62
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	283
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	257
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	63
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	283
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	254
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	66
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	284
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	254
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	65
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	268
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	272
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	63
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	271
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	265
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	67
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	276
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	260
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	67
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	290
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	247
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	66
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	281
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	309
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	12
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	358
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	239
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	456
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	132
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	15
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	436
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	153
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	5A	5A N Gilchrist Fire Station	833	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	14
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	1063
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	179
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1004
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	199
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	32
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	10
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	22
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	996
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	192
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	38
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	54
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	1015
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	220
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	47
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	687
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	559
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	36
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	979
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	233
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	70
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	581
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	558
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	141
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	487
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	661
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	134
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	572
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	573
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	137
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	565
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	565
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	152
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	580
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	556
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	146
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	549
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	578
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	155
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	543
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	580
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	158
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	552
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	571
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	158
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	562
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	563
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	157
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	506
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	749
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	27
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	814
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	444
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	24
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1007
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	239
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	36
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	910
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	323
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	6A	6A Osteen Center	1644	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	49
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	731
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	146
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	675
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	176
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	17
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	8
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	21
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	688
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	159
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	19
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11220	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	41
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	723
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	162
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	26
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	413
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	478
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	20
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	678
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	181
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	52
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	434
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	359
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	118
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	365
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	426
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	120
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	403
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	387
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	121
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	398
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	385
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	128
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	418
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	367
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	126
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	391
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	392
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	128
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	403
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	378
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	130
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	392
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	389
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	130
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	407
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	378
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	126
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	427
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	469
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	15
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	605
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	292
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	14
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	697
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	196
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	18
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	642
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	241
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	7A	7A Osceola Center	1212	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	28
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	President of the United States	 	100000	Trump / Pence	REP	0	65072	623
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	212
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	President of the United States	 	100000	WriteinVotes	 	0	900	5
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	President of the United States	 	100000	UnderVotes	 	0	902	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	596
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	221
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	18
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	United States Senator	 	120000	UnderVotes	 	0	902	18
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11220	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	597
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11220	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	212
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11220	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	22
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11220	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11220	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	40
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	65243	635
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	State Representative	 District 21	260210	Marihelen Wheeler	DEM	100428206	65345	206
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11222	State Representative	 District 21	260210	UnderVotes	 	0	902	31
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	0	Tax Collector	 	355000	Donna Stacy	REP	104271354	68130	367
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	0	Tax Collector	 	355000	Barbara J Merritt	DEM	104273236	68129	486
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	19
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	67995	636
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	0	County Commissioner	 District 3	380030	Richard  Esseck	NPA	104275186	67993	178
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	58
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	431
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	323
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	118
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	377
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	383
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	112
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	418
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	337
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	117
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	444
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	312
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	116
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	464
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	294
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	113
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	440
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	320
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	112
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	440
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	311
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	121
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	434
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	319
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	119
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	423
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	330
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	119
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	421
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	432
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	19
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	639
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	226
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	7
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	706
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	145
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	21
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	664
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	176
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+GIL	Gilchrist	10282	11/08/2016	2016 General Election	8A	8A Southeast Center	1215	0	0	11423	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	31

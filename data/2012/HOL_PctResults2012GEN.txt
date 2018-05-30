@@ -1,0 +1,1107 @@
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	691
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	152
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	5
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	547
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	267
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	20
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	13
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	21
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	U.S. Representative	 District 1	140010	Jeff Miller	REP	107607935	55514	648
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	U.S. Representative	 District 1	140010	Jim Bryan	DEM	108863837	55336	162
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	U.S. Representative	 District 1	140010	Calen Fretts	LBT	119013206	55564	24
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	U.S. Representative	 District 1	140010	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	U.S. Representative	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	U.S. Representative	 District 1	140010	UnderVotes	 	0	902	35
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	608
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	223
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	38
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	648
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	183
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	37
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	254
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	376
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	85
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	109
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	27
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	420
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	419
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	30
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	373
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	464
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	32
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	431
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	403
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	35
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	517
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	335
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	17
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	470
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	367
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	32
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	358
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	444
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	66
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	333
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	442
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	94
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	344
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	442
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	83
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	356
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	435
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	77
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	384
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	400
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	84
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	382
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	406
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	379
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	411
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	79
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	315
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	439
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	115
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	546
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	267
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	55
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	600
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	230
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	39
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	363
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	438
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	67
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	375
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	429
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	63
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	358
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	450
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	58
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	548
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	277
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	43
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	355
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	451
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	61
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	562
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	261
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	45
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	460
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	342
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	66
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	620
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	195
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	53
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	334
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	458
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	1	PONCE DE LEON	1212	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	75
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	699
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	131
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	14
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	559
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	240
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	16
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	12
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	25
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	U.S. Representative	 District 1	140010	Jeff Miller	REP	107607935	55514	660
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	U.S. Representative	 District 1	140010	Jim Bryan	DEM	108863837	55336	140
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	U.S. Representative	 District 1	140010	Calen Fretts	LBT	119013206	55564	12
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	U.S. Representative	 District 1	140010	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	U.S. Representative	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	U.S. Representative	 District 1	140010	UnderVotes	 	0	902	40
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	604
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	180
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	68
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	646
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	162
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	44
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	216
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	403
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	87
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	122
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	15
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	409
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	429
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	14
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	377
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	454
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	21
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	358
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	472
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	22
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	470
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	370
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	12
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	427
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	399
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	25
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	309
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	417
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	126
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	307
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	398
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	146
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	321
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	401
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	130
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	316
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	397
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	139
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	330
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	379
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	143
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	316
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	397
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	139
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	319
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	392
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	141
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	457
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	319
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	76
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	474
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	282
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	95
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	544
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	236
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	71
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	334
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	418
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	99
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	341
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	409
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	99
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	316
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	420
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	114
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	543
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	235
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	72
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	349
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	410
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	91
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	523
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	246
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	81
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	416
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	333
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	101
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	559
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	203
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	88
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	250
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	471
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	2	PINE LOG	1177	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	129
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	577
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	113
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	456
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	204
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	21
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	6
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	U.S. Representative	 District 1	140010	Jeff Miller	REP	107607935	55514	505
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	U.S. Representative	 District 1	140010	Jim Bryan	DEM	108863837	55336	158
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	U.S. Representative	 District 1	140010	Calen Fretts	LBT	119013206	55564	14
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	U.S. Representative	 District 1	140010	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	U.S. Representative	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	U.S. Representative	 District 1	140010	UnderVotes	 	0	902	20
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	468
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	187
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	43
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	484
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	169
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	42
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	169
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	273
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	107
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	122
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	17
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	324
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	356
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	299
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	381
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	18
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	253
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	424
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	21
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	308
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	372
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	18
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	358
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	320
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	20
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	242
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	380
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	76
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	234
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	369
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	94
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	235
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	379
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	84
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	223
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	397
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	78
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	240
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	378
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	80
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	235
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	381
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	253
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	363
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	81
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	319
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	275
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	104
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	390
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	257
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	51
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	436
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	227
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	34
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	298
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	351
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	49
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	275
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	367
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	55
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	229
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	409
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	59
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	415
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	241
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	42
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	276
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	367
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	53
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	451
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	198
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	49
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	346
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	288
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	64
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	466
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	178
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	53
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	202
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	421
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	3	NEW HOPE	951	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	75
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1045
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	149
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	8
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	12
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	884
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	254
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	25
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	15
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	41
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	U.S. Representative	 District 1	140010	Jeff Miller	REP	107607935	55514	955
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	U.S. Representative	 District 1	140010	Jim Bryan	DEM	108863837	55336	191
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	U.S. Representative	 District 1	140010	Calen Fretts	LBT	119013206	55564	27
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	U.S. Representative	 District 1	140010	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	U.S. Representative	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	U.S. Representative	 District 1	140010	UnderVotes	 	0	902	50
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	850
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	292
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	81
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	886
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	267
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	68
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	401
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	349
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	213
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	184
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	48
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	680
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	520
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	23
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	562
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	626
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	35
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	569
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	605
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	49
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	528
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	655
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	39
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	705
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	483
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	34
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	422
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	663
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	138
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	385
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	662
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	175
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	387
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	680
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	156
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	388
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	680
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	155
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	442
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	617
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	163
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	450
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	610
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	163
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	458
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	606
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	158
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	477
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	526
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	220
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	708
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	407
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	107
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	823
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	327
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	73
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	522
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	585
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	116
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	587
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	535
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	99
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	459
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	622
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	141
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	756
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	388
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	77
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	517
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	597
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	108
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	789
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	351
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	82
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	647
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	460
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	114
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	835
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	299
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	88
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	402
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	670
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	4	BETHLEHEM	1631	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	150
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	349
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	66
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	261
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	119
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	21
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	6
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	16
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	U.S. Representative	 District 1	140010	Jeff Miller	REP	107607935	55514	304
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	U.S. Representative	 District 1	140010	Jim Bryan	DEM	108863837	55336	87
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	U.S. Representative	 District 1	140010	Calen Fretts	LBT	119013206	55564	5
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	U.S. Representative	 District 1	140010	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	U.S. Representative	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	U.S. Representative	 District 1	140010	UnderVotes	 	0	902	27
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	245
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	145
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	33
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	282
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	116
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	25
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	132
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	111
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	65
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	73
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	34
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	181
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	232
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	180
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	226
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	17
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	194
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	214
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	15
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	198
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	217
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	8
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	201
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	209
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	12
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	157
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	224
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	42
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	161
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	209
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	53
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	154
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	224
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	45
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	167
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	204
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	52
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	180
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	188
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	55
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	166
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	203
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	54
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	177
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	194
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	52
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	183
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	164
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	76
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	245
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	136
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	42
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	284
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	106
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	33
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	172
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	206
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	45
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	176
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	210
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	37
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	154
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	226
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	43
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	221
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	169
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	32
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	187
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	202
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	34
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	259
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	126
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	38
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	207
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	170
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	46
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	290
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	89
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	44
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	148
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	225
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	5	GRITNEY	585	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	49
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1502
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	225
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	11
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	8
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	1241
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	422
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	38
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	17
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	49
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 1	140010	Jeff Miller	REP	107607935	55514	963
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 1	140010	Jim Bryan	DEM	108863837	55336	212
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 1	140010	Calen Fretts	LBT	119013206	55564	24
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 1	140010	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 1	140010	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 1	140010	UnderVotes	 	0	902	45
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	436
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	71
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	17
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	1248
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	408
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	114
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	1306
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	382
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	80
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	479
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	532
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	330
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	296
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	105
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	1057
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	681
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	32
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	752
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	980
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	38
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	717
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	1004
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	49
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	1045
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	661
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	64
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	1041
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	690
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	39
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	685
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	939
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	145
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	643
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	951
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	175
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	646
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	965
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	159
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	697
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	907
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	166
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	775
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	823
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	171
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	771
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	831
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	168
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	786
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	824
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	160
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	626
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	877
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	267
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	1074
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	567
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	127
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	1187
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	488
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	95
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	775
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	856
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	138
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	773
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	859
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	138
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	729
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	892
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	149
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	1139
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	540
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	4
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	87
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	788
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	860
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	122
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	1163
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	499
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	108
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	938
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	691
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	139
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	1224
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	434
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	112
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	649
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	962
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	6	NOMA	2369	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	158
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1223
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	228
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	4
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	6
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	11
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	970
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	407
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	45
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	24
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	40
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	1152
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	293
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	5
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	36
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	1079
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	324
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	86
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	1046
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	363
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	78
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	504
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	341
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	307
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	200
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	115
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	832
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	630
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	27
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	722
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	728
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	39
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	782
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	668
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	39
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	829
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	612
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	48
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	810
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	649
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	29
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	587
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	750
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	152
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	572
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	727
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	190
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	555
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	759
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	175
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	562
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	750
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	177
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	621
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	691
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	177
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	604
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	699
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	185
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	615
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	698
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	176
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	628
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	670
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	191
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	846
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	511
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	131
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	901
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	478
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	110
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	635
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	707
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	146
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	620
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	732
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	137
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	558
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	776
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	155
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	910
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	483
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	95
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	649
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	730
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	109
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	909
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	463
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	117
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	733
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	624
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	132
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	941
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	428
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	119
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	556
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	773
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	7	WEST BONIFAY	2160	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	160
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	833
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	200
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	671
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	323
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	23
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	13
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	18
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	778
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	246
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	23
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Senator	 District 1	240010	Don Gaetz	REP	106002987	54857	718
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Senator	 District 1	240010	Richard Harrison	NPA	104722797	57349	265
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Senator	 District 1	240010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Senator	 District 1	240010	UnderVotes	 	0	902	66
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Representative	 District 5	260050	Marti Coley	REP	104722415	55108	728
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Representative	 District 5	260050	Travis W. Pitts	NPA	108883799	57821	261
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Representative	 District 5	260050	WriteinVotes	 	0	900	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	59
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Clerk of the Circuit Court	 	320000	Don Hersman Jr.	REP	104589397	55995	359
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Clerk of the Circuit Court	 	320000	Kyle Hudson	DEM	104589692	55981	249
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Clerk of the Circuit Court	 	320000	Tim Wells	NPA	104582036	56177	204
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Clerk of the Circuit Court	 	320000	Marsha Farmer Sherrouse	NPA	104580479	56000	173
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Clerk of the Circuit Court	 	320000	John King Jr.	NPA	104585416	55984	46
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Sheriff	 	335000	Tim Brown	REP	104581926	56005	638
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Sheriff	 	335000	John Braxton Jr.	NPA	108891057	56004	387
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	23
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Property Appraiser	 	340000	Felecia Fisanick	REP	104581786	56069	482
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Property Appraiser	 	340000	Otis Corbin Jr.	DEM	104581568	56008	540
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	26
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Superintendent of Schools	 	360000	Terry Mears	REP	106573941	56014	488
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Superintendent of Schools	 	360000	Eddie Dixon	DEM	104580966	56011	540
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	21
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	56072	612
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 1	380010	Jim King	DEM	104579392	56071	399
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	38
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 3	380030	David Whitaker	REP	104583855	56076	567
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 3	380030	Phillip Music	DEM	104580008	56075	455
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	27
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	448
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	523
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	78
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	420
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	527
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	101
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	424
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	538
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	87
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	465
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	491
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	93
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	503
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	452
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	94
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	504
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	447
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	3
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	95
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	507
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	447
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	94
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	School Board	 District 2	610002	Wilburn G Baker	NOP	104580321	56081	428
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	School Board	 District 2	610002	Debbie Kolmetz	NOP	104581100	56082	478
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	143
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	617
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	356
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	76
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	661
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	325
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	61
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	455
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	510
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	84
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	461
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	503
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	85
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	413
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	549
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	87
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	649
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	342
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	58
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	425
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	548
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	75
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	654
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	332
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	63
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	507
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	454
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	88
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	662
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	313
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	74
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	383
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	564
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	2
+HOL	Holmes	9547	11/06/2012	2012 General Election	8	EAST BONIFAY	1475	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	100

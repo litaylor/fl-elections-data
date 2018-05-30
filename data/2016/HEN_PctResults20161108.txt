@@ -1,0 +1,1158 @@
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	392
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1674
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	567
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	1439
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	21
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	15
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	70
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	496
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	1526
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	113
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	1078
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	123
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	932
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	1078
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	114
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	943
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	315
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	1727
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	93
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	844
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	1199
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	88
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	415
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	1632
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	88
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1202
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	569
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	364
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1212
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	562
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	361
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1223
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	553
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	359
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	1203
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	568
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	364
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	1211
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	526
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	398
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	1282
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	473
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	380
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	1141
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	598
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	396
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	1188
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	539
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	408
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	1198
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	531
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	406
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	1166
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	567
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	402
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	1139
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	548
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	447
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	1108
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	549
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	478
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	1124
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	530
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	481
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1215
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	626
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	291
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1289
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	589
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	256
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1478
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	354
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	300
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1419
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	406
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	309
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	1477
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	794
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	15
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1564
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	626
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	40
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	16
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	74
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	1412
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	766
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	170
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	1826
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	57
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	464
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	1836
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	59
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	453
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	846
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	1393
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	109
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	1573
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	710
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	64
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	1520
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	741
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	87
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1370
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	600
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	377
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1276
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	712
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	360
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1338
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	646
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	363
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	1350
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	625
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	373
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	1357
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	597
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	393
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	1407
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	541
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	400
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	1262
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	681
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	403
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	1367
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	573
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	407
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	1368
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	570
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	410
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	1314
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	633
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	401
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	1325
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	625
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	398
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	1293
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	633
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	422
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	1349
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	569
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	430
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1227
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	991
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	130
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1458
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	790
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	99
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1757
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	427
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	164
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1629
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	527
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	192
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	1262
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	625
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	14
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1319
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	533
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	38
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	49
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	1249
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	588
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	131
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	1540
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	46
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	381
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	1537
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	43
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	387
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	830
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	1064
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	74
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	1356
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	557
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	55
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	1290
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	599
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	79
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	County Commissioner	 District 3	380030	Mitchell Wills	REP	104334295	66365	1062
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	County Commissioner	 District 3	380030	Don Davis	DEM	104335590	65937	810
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	96
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	1116
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	536
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	315
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	1027
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	616
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	323
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	1134
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	508
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	324
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	1087
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	532
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	347
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	1113
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	510
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	344
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	1149
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	471
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	347
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	1002
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	604
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	360
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	1126
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	493
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	347
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	1128
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	495
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	344
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	1049
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	555
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	363
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	1046
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	547
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	374
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	1063
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	530
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	374
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	1097
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	473
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	397
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 1	781801	Dewey A. Tyler	NOP	111668709	66617	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 1	781801	Michael J. "Mike" Welch	NOP	111649946	65676	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	Kenneth Knight Thompson	NOP	111530484	67330	27
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	Mo Yasin	NOP	111391151	65874	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	UnderVotes	 	0	902	6
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 5	781805	Katy Hoover	NOP	111608461	65862	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 5	781805	Nathan Stout	NOP	111465993	67260	16
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 5	781805	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Lehigh Acres Municipal Services Improvement District	 Seat 5	781805	UnderVotes	 	0	902	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1042
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	805
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	120
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1228
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	646
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	93
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1434
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	380
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	154
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1314
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	486
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	168
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	52
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	56
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	64
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	41
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	58
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	61
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	93
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	23
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	97
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	23
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	43
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	76
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	53
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	66
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	45
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	74
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	County Commissioner	 District 5	380050	Larry D. Lowman	REP	104327298	66366	63
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	County Commissioner	 District 5	380050	Karson Turner	DEM	104342680	66794	55
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	6
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	65
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	50
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	63
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	53
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	66
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	49
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	66
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	48
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	66
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	47
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	75
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	39
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	60
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	50
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	14
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	65
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	48
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	68
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	46
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	66
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	45
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	64
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	48
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	61
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	50
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	63
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	50
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	39
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	81
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	91
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	29
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	95
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	22
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	7
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	87
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	30
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	7
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	217
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	57
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	222
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	55
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	194
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	70
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	24
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	223
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	56
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	220
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	59
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	119
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	156
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	212
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	64
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	211
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	64
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	County Commissioner	 District 3	380030	Mitchell Wills	REP	104334295	66365	149
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	County Commissioner	 District 3	380030	Don Davis	DEM	104335590	65937	126
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	154
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	93
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	40
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	135
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	109
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	44
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	147
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	96
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	45
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	140
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	102
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	46
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	150
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	90
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	48
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	148
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	94
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	46
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	134
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	109
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	45
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	148
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	95
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	45
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	147
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	95
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	46
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	138
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	98
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	52
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	138
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	99
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	51
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	138
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	100
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	50
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	139
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	97
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	52
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	113
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	163
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	168
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	105
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	15
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	194
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	68
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	186
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	74
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	28
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	677
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	395
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	7
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	697
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	354
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	19
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	27
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	632
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	397
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	85
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	814
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	29
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	271
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	812
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	28
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	273
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	362
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	696
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	56
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	605
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	471
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	38
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	560
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	509
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	45
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	County Commissioner	 District 5	380050	Larry D. Lowman	REP	104327298	66366	413
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	County Commissioner	 District 5	380050	Karson Turner	DEM	104342680	66794	656
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	44
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	635
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	302
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	177
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	609
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	328
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	177
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	628
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	313
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	173
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	607
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	307
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	200
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	610
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	302
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	202
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	639
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	279
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	196
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	566
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	343
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	205
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	633
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	275
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	206
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	621
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	287
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	206
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	599
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	296
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	219
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	593
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	296
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	225
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	587
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	299
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	228
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	590
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	294
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	230
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 2	821072	Luis E. Napoles	NOP	110238624	67825	39
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 2	821072	Cecilia Solano-Guzman	NOP	104324067	66795	47
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 2	821072	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 2	821072	UnderVotes	 	0	902	17
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 4	821074	Brian Carr	NOP	111348487	68554	28
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 4	821074	James T. Herrmann	NOP	104343085	67937	14
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 4	821074	Denise Barreiro Miller	NOP	109412592	67835	41
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 4	821074	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	0	Central County Water Control District	 Seat 4	821074	UnderVotes	 	0	902	20
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	629
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	389
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	96
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	697
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	339
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	77
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	850
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	163
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	100
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	798
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	204
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	112
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	1121
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	288
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	7
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	14
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1156
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	255
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	22
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	28
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	1091
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	292
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	91
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	1200
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	21
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	253
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	1198
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	14
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	262
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	522
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	898
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	54
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	968
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	470
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	36
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	1024
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	410
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	40
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	813
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	407
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	254
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	755
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	462
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	257
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	809
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	404
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	261
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	776
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	419
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	279
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	772
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	421
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	281
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	798
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	390
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	286
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	713
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	474
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	287
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	794
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	389
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	291
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	780
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	405
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	289
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	747
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	438
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	289
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	756
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	418
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	299
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	745
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	422
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	307
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	758
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	402
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	314
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	698
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	701
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	75
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	862
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	551
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	61
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1030
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	342
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	101
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	873
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	475
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	126
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	274
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	109
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	273
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	102
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	16
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	264
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	120
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	22
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	319
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	76
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	323
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	72
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	192
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	188
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	205
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	184
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	17
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	261
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	118
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	27
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	County Commissioner	 District 5	380050	Larry D. Lowman	REP	104327298	66366	181
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	County Commissioner	 District 5	380050	Karson Turner	DEM	104342680	66794	201
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	24
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	242
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	97
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	67
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	221
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	123
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	62
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	239
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	105
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	62
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	223
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	116
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	67
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	210
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	126
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	70
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	247
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	91
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	68
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	209
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	125
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	72
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	239
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	93
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	74
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	229
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	108
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	69
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	213
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	115
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	78
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	217
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	112
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	77
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	205
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	116
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	85
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	219
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	102
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	84
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	210
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	173
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	23
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	281
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	105
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	20
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	316
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	64
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	299
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	78
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	29
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	380
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	351
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	436
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	283
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	19
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	403
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	314
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	50
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	560
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	22
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	185
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	551
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	20
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	196
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	300
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	438
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	29
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	429
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	315
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	23
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	405
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	329
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	33
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	464
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	189
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	114
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	440
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	212
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	115
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	452
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	196
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	119
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	451
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	202
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	114
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	462
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	188
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	117
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	488
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	162
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	117
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	431
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	214
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	122
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	478
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	168
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	121
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	460
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	180
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	127
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	433
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	212
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	122
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	467
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	173
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	127
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	439
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	194
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	134
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	450
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	181
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	136
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	423
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	286
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	57
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	507
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	207
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	53
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	605
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	93
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	69
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	554
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	138
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	75
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	343
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	266
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	6
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	385
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	204
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	United States Senator	 	120000	UnderVotes	 	0	902	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	65305	406
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	Representative in Congress	 District 25	140250	Alina Valdes	DEM	102103601	64653	198
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	38
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17059	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	64407	468
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17059	State Senator	 District 28	240280	WriteinVotes	 	0	900	19
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17059	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17059	State Senator	 District 28	240280	UnderVotes	 	0	902	155
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	State Representative	 District 80	260800	Byron Donalds	REP	103089553	64617	459
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	State Representative	 District 80	260800	WriteinVotes	 	0	900	23
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	State Representative	 District 80	260800	UnderVotes	 	0	902	160
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Russell Tidaback	REP	120104731	66792	285
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara Cox Butler	DEM	104341661	65851	302
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	55
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Sheriff	 	335000	Steve Whidden	DEM	104328476	65504	259
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	66367	335
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	48
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Superintendent of Schools	 	360000	Paul Puletti	REP	104334514	66368	308
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Superintendent of Schools	 	360000	Rick Murphy	DEM	104328926	66793	280
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	54
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	367
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	153
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	122
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	366
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	150
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	126
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	361
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	151
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	130
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	Yes	NOP	111256009	10	367
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	No	NOP	111256009	20	145
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of John Badalamenti	Second District Court of Appeal	520201	UnderVotes	 	0	902	130
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	Yes	NOP	110428269	10	358
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	No	NOP	110428269	20	154
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Marva L. Crenshaw	Second District Court of Appeal	520202	UnderVotes	 	0	902	130
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	Yes	NOP	110410421	10	373
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	No	NOP	110410421	20	142
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Patricia J Kelly	Second District Court of Appeal	520203	UnderVotes	 	0	902	127
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	Yes	NOP	106723453	10	346
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	No	NOP	106723453	20	160
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Nelly N. Khouzam	Second District Court of Appeal	520204	UnderVotes	 	0	902	136
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	Yes	NOP	111199912	10	358
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	No	NOP	111199912	20	148
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Matt Lucas	Second District Court of Appeal	520205	UnderVotes	 	0	902	136
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	Yes	NOP	106966049	10	365
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	No	NOP	106966049	20	143
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Robert Morris	Second District Court of Appeal	520206	UnderVotes	 	0	902	134
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	Yes	NOP	110423113	10	353
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	No	NOP	110423113	20	155
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Stevan Travis Northcutt	Second District Court of Appeal	520207	UnderVotes	 	0	902	134
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	Yes	NOP	110520840	10	352
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	No	NOP	110520840	20	146
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Samuel Salario, Jr.	Second District Court of Appeal	520208	UnderVotes	 	0	902	144
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	Yes	NOP	113787369	10	337
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	No	NOP	113787369	20	163
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Craig C. Villanti	Second District Court of Appeal	520209	UnderVotes	 	0	902	142
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	Yes	NOP	105307802	10	347
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	No	NOP	105307802	20	147
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Retention of Douglas Alan Wallace	Second District Court of Appeal	520210	UnderVotes	 	0	902	148
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 2	821072	Luis E. Napoles	NOP	110238624	67825	324
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 2	821072	Cecilia Solano-Guzman	NOP	104324067	66795	213
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 2	821072	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 2	821072	UnderVotes	 	0	902	105
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 4	821074	Brian Carr	NOP	111348487	68554	149
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 4	821074	James T. Herrmann	NOP	104343085	67937	103
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 4	821074	Denise Barreiro Miller	NOP	109412592	67835	280
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 4	821074	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	0	Central County Water Control District	 Seat 4	821074	UnderVotes	 	0	902	110
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	370
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	196
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	76
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	365
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	210
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	67
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	466
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	94
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	82
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	474
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	85
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17477	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	83

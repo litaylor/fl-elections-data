@@ -1,0 +1,783 @@
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1104
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	676
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	3
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	837
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	859
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	37
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	13
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	54
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	1206
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	368
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	7
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	219
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	370
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	1387
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	43
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	678
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	1038
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	84
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	645
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	1093
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	61
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	778
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	837
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	183
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	752
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	822
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	226
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	752
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	827
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	221
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	749
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	820
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	231
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	807
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	771
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	222
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	794
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	766
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	239
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	785
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	780
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	234
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	991
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	641
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	4
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	164
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	1176
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	487
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	3
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	134
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	680
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	918
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	202
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	669
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	916
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	215
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	661
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	900
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	238
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	965
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	656
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	177
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	848
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	829
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	120
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	1094
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	567
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	137
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	817
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	817
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	164
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	1157
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	511
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	131
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	668
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	949
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	11	1A Sanderson	2235	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	181
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1683
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	534
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	9
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	2
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	13
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	1282
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	846
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	38
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	27
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	59
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	1761
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	325
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	5
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	164
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	493
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	1721
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	41
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	1047
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	1129
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	79
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	921
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	1266
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	68
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	1021
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	1001
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	233
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	995
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	999
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	261
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	986
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	1007
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	262
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	1004
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	971
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	280
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	1121
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	854
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	280
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	1111
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	848
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	295
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	1113
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	861
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	281
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	1296
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	780
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	179
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	1500
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	639
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	116
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	941
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	1095
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	219
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	950
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	1093
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	211
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	942
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	1055
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	257
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	1332
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	758
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	163
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	1025
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	1096
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	133
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	1439
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	676
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	139
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	1091
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	985
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	178
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	1514
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	598
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	141
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	951
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	1085
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	21	2A South Macclenny	2740	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	217
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	2042
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	400
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	12
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	6
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	12
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	1587
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	758
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	39
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	15
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	82
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	2028
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	307
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	8
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	140
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	592
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	1848
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	41
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	1168
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	1232
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	83
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	1124
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	1274
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	84
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	1084
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	1142
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	256
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	1044
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	1151
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	286
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	1040
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	1160
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	281
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	1072
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	1106
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	304
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	1163
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	1012
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	307
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	1171
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	992
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	3
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	317
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	1171
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	1011
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	301
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	1539
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	737
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	207
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	1742
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	612
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	129
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	1128
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	1119
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	236
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	1119
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	1143
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	219
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	1116
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	1089
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	277
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	1584
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	730
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	169
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	1204
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	1122
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	156
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	1664
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	642
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	176
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	1266
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	1007
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	210
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	1751
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	571
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	161
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	1071
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	1168
+BAK	Baker	9547	11/06/2012	2012 General Election	31	3A North Macclenny	3046	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	244
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	117
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	18
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	2
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	84
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	46
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	4
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	2
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	111
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	21
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	8
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	22
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	114
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	63
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	72
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	5
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	58
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	78
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	4
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	60
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	71
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	9
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	48
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	77
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	15
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	46
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	81
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	13
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	56
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	73
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	11
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	53
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	72
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	15
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	55
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	67
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	17
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	58
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	69
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	13
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	81
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	54
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	5
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	93
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	44
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	3
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	59
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	77
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	4
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	59
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	76
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	5
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	61
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	73
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	6
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	85
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	50
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	4
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	63
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	74
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	3
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	78
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	60
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	2
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	56
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	78
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	6
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	86
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	51
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	3
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	54
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	79
+BAK	Baker	9547	11/06/2012	2012 General Election	41	4A Baxter	187	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	7
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	380
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	65
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	3
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	301
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	130
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	15
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	5
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	390
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	49
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	17
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	107
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	342
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	226
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	216
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	14
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	215
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	228
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	13
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	188
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	219
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	49
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	170
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	226
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	59
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	175
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	225
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	56
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	183
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	216
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	206
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	192
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	58
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	205
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	191
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	60
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	200
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	196
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	60
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	278
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	145
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	33
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	299
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	133
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	24
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	171
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	247
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	38
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	178
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	245
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	33
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	193
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	218
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	45
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	276
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	151
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	29
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	210
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	219
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	27
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	316
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	117
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	23
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	203
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	223
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	30
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	321
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	111
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	24
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	154
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	266
+BAK	Baker	9547	11/06/2012	2012 General Election	42	4B Taylor	581	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	36
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1155
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	140
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	3
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	926
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	324
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	24
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	26
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	1143
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	104
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	2
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	55
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	255
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	1033
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	14
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	607
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	655
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	42
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	635
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	629
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	40
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	427
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	743
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	133
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	411
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	745
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	147
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	405
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	753
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	146
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	421
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	707
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	175
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	521
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	619
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	164
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	508
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	622
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	174
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	507
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	624
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	173
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	836
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	371
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	97
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	882
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	347
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	75
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	623
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	561
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	120
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	572
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	615
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	117
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	571
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	586
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	146
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	882
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	346
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	76
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	587
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	640
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	76
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	835
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	381
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	87
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	632
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	555
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	116
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	876
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	343
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	85
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	531
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	637
+BAK	Baker	9547	11/06/2012	2012 General Election	43	4C Macedonia	1501	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	136
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	625
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	96
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	473
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	209
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	13
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	13
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	22
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	622
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	81
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	1
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	28
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	180
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	539
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	13
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	392
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	318
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	22
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	401
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	313
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	18
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	276
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	397
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	59
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	265
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	404
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	63
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	262
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	408
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	62
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	290
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	376
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	64
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	332
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	336
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	63
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	322
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	344
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	66
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	327
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	343
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	62
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	437
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	242
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	53
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	512
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	182
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	38
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	284
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	391
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	57
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	318
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	360
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	54
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	312
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	345
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	74
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	460
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	225
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	46
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	304
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	385
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	43
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	479
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	207
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	46
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	357
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	325
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	50
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	509
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	176
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	47
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	253
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	418
+BAK	Baker	9547	11/06/2012	2012 General Election	44	4D Cuyler	914	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	61
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1752
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	299
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	6
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	11
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	1355
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	609
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	45
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	21
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	55
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	1730
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	247
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	4
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	105
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	546
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	1505
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	34
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	1092
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	926
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	69
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	1073
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	954
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	60
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	820
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	1067
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	200
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	762
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	1080
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	245
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	767
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	1090
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	229
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	790
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	1035
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	262
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	901
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	932
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	252
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	907
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	911
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	267
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	907
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	919
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	261
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	1297
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	638
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	150
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	1402
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	582
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	2
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	101
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	891
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	989
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	207
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	885
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	1009
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	193
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	913
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	947
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	227
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	1322
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	599
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	165
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	976
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	996
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	112
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	1317
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	628
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	138
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	1008
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	909
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	166
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	1425
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	528
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	130
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	820
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	1053
+BAK	Baker	9547	11/06/2012	2012 General Election	51	5A Glen St. Mary	2559	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	211
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	116
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	82
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	95
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	102
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	55165	132
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	U.S. Representative	 District 4	140040	Jim Klauder	NPA	105939011	55445	40
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	30
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Sheriff	 	335000	Cameron Coward	REP	108074995	59472	33
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Sheriff	 	335000	Joey B. Dobson	DEM	100590934	59471	167
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	County Commissioner	 District 3	380030	Leonard Davis	REP	100590877	59481	94
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	County Commissioner	 District 3	380030	Gordon Crews	DEM	100590799	59480	94
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	15
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	County Commissioner	 District 5	380050	Eddie Davis	REP	100596967	59492	69
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	County Commissioner	 District 5	380050	Mark Hartley	DEM	100594556	59482	120
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	14
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	98
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	88
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	17
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	102
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	81
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	20
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	101
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	86
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	16
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	101
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	86
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	16
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	102
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	84
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	17
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	101
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	85
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	17
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	102
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	85
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	16
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	110
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	77
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	16
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	126
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	66
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	11
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	71
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	114
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	17
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	67
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	115
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	20
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	73
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	110
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	20
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	106
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	82
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	15
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	94
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	100
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	9
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	117
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	73
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	13
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	86
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	101
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	16
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	130
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	61
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	12
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	68
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	120
+BAK	Baker	9547	11/06/2012	2012 General Election	61	6A Olustee	243	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	15

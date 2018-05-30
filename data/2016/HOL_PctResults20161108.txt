@@ -1,0 +1,898 @@
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	781
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	93
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	721
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	114
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	24
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	21
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	6966	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	65364	698
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	6966	Representative in Congress	 District 1	140010	Steven Specht	DEM	100553938	65680	159
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	6966	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	6966	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	42
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	695
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	180
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	24
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	638
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	241
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	20
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	437
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	224
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	223
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	15
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	706
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	173
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	20
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	524
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	345
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	30
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	407
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	45
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	120
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	268
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	40
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	19
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	648
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	224
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	27
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	396
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	415
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	88
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	359
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	446
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	93
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	408
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	409
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	81
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	411
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	396
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	92
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	393
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	409
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	97
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	371
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	427
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	100
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	383
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	414
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	102
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	390
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	404
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	104
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	391
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	402
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	105
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	405
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	470
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	24
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	519
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	343
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	37
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	565
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	311
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	23
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	721
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	150
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	28
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	686
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	179
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	33
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	784
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	91
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	8
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	746
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	111
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	16
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	22
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	6966	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	65364	721
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	6966	Representative in Congress	 District 1	140010	Steven Specht	DEM	100553938	65680	137
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	6966	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	6966	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	58
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	696
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	198
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	22
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	600
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	299
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	17
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	369
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	264
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	268
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	15
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	669
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	226
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	21
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	482
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	400
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	34
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	324
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	67
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	148
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	305
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	47
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	25
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	670
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	214
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	32
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	351
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	428
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	137
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	300
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	477
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	139
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	349
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	434
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	133
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	330
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	448
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	138
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	332
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	444
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	140
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	321
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	452
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	143
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	317
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	458
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	141
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	306
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	469
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	141
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	315
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	456
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	145
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	558
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	323
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	35
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	516
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	353
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	45
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	487
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	397
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	32
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	703
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	166
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	47
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	665
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	199
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	50
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	642
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	77
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	603
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	84
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	14
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	23
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	6966	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	65364	580
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	6966	Representative in Congress	 District 1	140010	Steven Specht	DEM	100553938	65680	109
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	6966	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	6966	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	47
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	544
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	160
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	32
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	367
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	361
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	8
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	320
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	175
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	227
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	14
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	521
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	197
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	18
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	412
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	293
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	31
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	291
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	148
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	78
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	155
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	41
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	22
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	544
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	149
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	43
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	320
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	328
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	88
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	266
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	378
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	92
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	307
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	341
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	88
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	308
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	349
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	79
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	307
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	349
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	80
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	306
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	347
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	83
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	298
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	353
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	85
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	284
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	364
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	87
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	306
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	345
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	85
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	419
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	297
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	20
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	470
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	231
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	35
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	373
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	338
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	25
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	573
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	128
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	35
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	554
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	146
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	36
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	1077
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	105
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	12
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1006
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	127
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	39
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	16
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	11
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	22
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	6966	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	65364	998
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	6966	Representative in Congress	 District 1	140010	Steven Specht	DEM	100553938	65680	166
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	6966	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	6966	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	64
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	874
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	318
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	36
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	450
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	751
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	27
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	580
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	236
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	393
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	19
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	862
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	337
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	29
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	709
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	473
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	46
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	404
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	249
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	116
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	377
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	36
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	46
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	799
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	379
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	50
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	498
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	577
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	151
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	377
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	683
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	167
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	510
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	571
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	145
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	488
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	591
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	149
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	471
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	605
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	152
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	444
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	630
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	154
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	458
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	616
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	154
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	456
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	619
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	153
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	455
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	614
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	159
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	663
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	511
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	54
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	742
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	422
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	64
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	652
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	526
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	49
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	924
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	241
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	61
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	879
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	279
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	70
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	390
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	30
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	354
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	38
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	14
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	17
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	6966	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	65364	351
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	6966	Representative in Congress	 District 1	140010	Steven Specht	DEM	100553938	65680	55
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	6966	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	6966	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	29
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	311
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	102
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	22
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	261
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	166
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	8
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	135
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	197
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	93
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	312
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	116
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	7
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	236
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	188
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	11
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	147
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	94
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	34
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	139
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	11
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	287
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	134
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	14
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	190
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	193
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	52
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	160
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	217
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	58
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	185
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	195
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	55
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	176
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	197
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	62
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	173
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	200
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	62
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	167
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	206
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	62
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	175
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	195
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	171
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	201
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	63
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	176
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	198
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	61
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	256
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	161
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	18
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	276
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	127
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	32
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	254
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	155
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	26
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	332
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	75
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	28
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	324
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	77
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	34
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	1667
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	126
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	7
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1567
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	153
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	34
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	20
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	44
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	6966	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	65364	1043
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	6966	Representative in Congress	 District 1	140010	Steven Specht	DEM	100553938	65680	150
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	6966	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	6966	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	66
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	4056	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	498
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	4056	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	41
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	4056	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	17
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	4056	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	4056	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	4056	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	28
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	1329
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	444
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	70
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	939
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	866
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	36
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	978
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	375
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	459
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	30
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	1304
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	492
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	47
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	1044
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	740
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	57
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	770
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	200
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	231
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	520
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	47
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	75
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	1253
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	519
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	71
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	769
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	857
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	216
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	650
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	963
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	230
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	857
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	784
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	202
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	768
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	849
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	225
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	756
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	854
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	232
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	706
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	903
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	232
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	725
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	883
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	235
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	722
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	885
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	236
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	724
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	871
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	248
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	964
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	795
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	84
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	1170
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	583
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	89
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	993
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	785
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	65
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1394
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	361
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	88
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1351
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	385
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	107
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	1307
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	180
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	1266
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	180
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	33
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	11
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	16
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	25
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	4056	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	1236
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	4056	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	201
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	4056	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	48
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	4056	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	4056	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	4056	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	56
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	1128
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	377
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	38
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	812
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	709
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	22
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	633
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	452
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	434
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	24
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	1187
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	324
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	32
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	832
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	675
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	36
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	580
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	145
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	215
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	492
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	50
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	60
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	821
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	680
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	42
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	664
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	715
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	163
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	545
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	838
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	157
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	675
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	698
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	170
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	655
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	719
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	169
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	644
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	719
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	179
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	617
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	751
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	173
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	601
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	768
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	174
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	612
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	752
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	179
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	617
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	745
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	181
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	805
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	677
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	61
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	977
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	510
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	55
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	825
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	672
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	46
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	1226
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	260
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	57
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	1109
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	370
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	64
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	835
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	151
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	776
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	169
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	26
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	7
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	12
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	United States Senator	 	120000	UnderVotes	 	0	902	20
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	4056	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	814
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	4056	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	158
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	4056	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	15
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	4056	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	4056	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	4056	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	33
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	State Representative	 District 5	260050	Brad Drake	REP	108863917	64507	716
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	State Representative	 District 5	260050	Jamey Westbrook	NPA	104722304	65018	266
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	State Representative	 District 5	260050	UnderVotes	 	0	902	40
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Sheriff	 	335000	John Tate	REP	104587959	65397	509
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Sheriff	 	335000	Jason French	NPA	104583159	65392	488
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	25
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Property Appraiser	 	340000	Bryan Bell	REP	104582214	65400	421
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Property Appraiser	 	340000	Tammie Harrison	DEM	104588735	65401	266
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Property Appraiser	 	340000	Calvin Sherrouse	NPA	104580562	65444	322
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	13
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Tax Collector	 	355000	Harry Bell	REP	104581252	65407	749
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Tax Collector	 	355000	Jackie Faircloth Jr	NPA	104579897	65408	255
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	18
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Superintendent of Schools	 	360000	Terry L. Mears	REP	106573941	65412	502
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Superintendent of Schools	 	360000	Janis Lee Johnson	DEM	104579357	65411	499
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	21
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 1	380010	Bobby Sasnett	REP	104579385	65417	368
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 1	380010	Ron French	NPA	104581834	65414	103
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 1	380010	Karen Byrd O'Steen	NPA	104580572	65420	158
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 1	380010	Brandon Newsom	NPA	104585600	65416	338
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 1	380010	Donald Edward Tate	NPA	104581455	65418	29
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	26
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 5	380050	Clint Erickson	REP	104588078	65425	521
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 5	380050	Bill Parish	DEM	104580965	65424	477
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	24
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	455
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	475
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	90
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	382
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	550
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	90
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	475
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	454
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	93
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	430
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	498
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	93
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	433
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	494
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	95
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	406
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	518
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	96
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	429
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	495
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	98
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	411
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	514
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	97
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	422
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	503
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	97
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	School Board	 District 2	690002	Wilburn Baker	NOP	104580321	65441	513
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	School Board	 District 2	690002	Debbie Kolmetz	NOP	104581100	65442	482
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	School Board	 District 2	690002	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	0	School Board	 District 2	690002	UnderVotes	 	0	902	27
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	615
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	366
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	40
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	555
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	434
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	33
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	805
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	179
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	37
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	721
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	257
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11230	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	44

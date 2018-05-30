@@ -1,0 +1,334 @@
+CountyCode	CountyName	ElectionNumber	ElectionDate	ElectionName	Precinct	PollingLocation	ReVoters	RegDem	RegRep	RegOth	ContestName	DistrictName	ContestID	CanName	CanParty	VoterID	CanAcct	CanVotes
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	Lange Sykes	NOP		1	1445
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	1513
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	Norman Wells	NOP		3	1096
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	Laura Moss	NOP		4	1583
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	1131
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	Tony Young	NOP		6	1341
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	OverVotes			901	15
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	City of Vero Beach		730030	UnderVotes			902	2873
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	Lange Sykes	NOP		1	562
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	546
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	Norman Wells	NOP		3	453
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	Laura Moss	NOP		4	531
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	559
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	Tony Young	NOP		6	664
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	City of Vero Beach		730030	UnderVotes			902	1211
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	Lange Sykes	NOP		1	633
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	533
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	Norman Wells	NOP		3	428
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	Laura Moss	NOP		4	740
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	533
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	Tony Young	NOP		6	674
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	OverVotes			901	9
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	City of Vero Beach		730030	UnderVotes			902	1811
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	Lange Sykes	NOP		1	198
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	166
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	Norman Wells	NOP		3	132
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	Laura Moss	NOP		4	202
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	162
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	Tony Young	NOP		6	193
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	City of Vero Beach		730030	UnderVotes			902	621
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	Lange Sykes	NOP		1	455
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	487
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	Norman Wells	NOP		3	343
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	Laura Moss	NOP		4	512
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	460
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	Tony Young	NOP		6	536
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	OverVotes			901	3
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	City of Vero Beach		730030	UnderVotes			902	1014
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	City of Vero Beach		730030	UnderVotes			902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	Lange Sykes	NOP		1	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	Randolph Bruce Old	NOP		2	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	Norman Wells	NOP		3	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	Laura Moss	NOP		4	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	Sharon Shelton Gorry	NOP		5	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	Tony Young	NOP		6	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	WriteinVotes			900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	OverVotes			901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	City of Vero Beach		730030	UnderVotes			902	0

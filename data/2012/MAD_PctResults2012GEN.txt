@@ -1,0 +1,1100 @@
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	856
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	801
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	14
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	9
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	699
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	895
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	28
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	12
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	50
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	4
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	836
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	718
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	62
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	3
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	63
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	728
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	880
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	78
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	576
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	1027
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	83
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	834
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	790
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	62
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	1203
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	418
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	65
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	225
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	945
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	478
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	37
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	949
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	673
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	64
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	920
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	627
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	139
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	932
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	620
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	134
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	904
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	637
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	145
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	872
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	657
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	157
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	925
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	604
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	157
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	906
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	623
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	157
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	894
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	609
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	182
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	1272
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	42
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	371
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	840
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	718
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	128
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	923
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	668
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	95
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	559
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	997
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	129
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	571
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	977
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	3
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	134
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	484
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	1045
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	156
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	826
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	754
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	104
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	611
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	947
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	3
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	124
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	842
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	745
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	98
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	654
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	913
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	117
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	841
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	742
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	102
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	554
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	1002
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	1	1 Madison Ag Ctr	2248	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	128
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	38
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	295
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	29
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	292
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	2
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	43
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	277
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	6
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	9
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	40
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	285
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	11
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	26
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	299
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	46
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	278
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	12
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	260
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	62
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	14
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	12
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	117
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	204
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	3
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	132
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	186
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	18
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	County Commissioner	 District 3	380030	Ronnie L. Moore	DEM	105269523	59058	293
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	County Commissioner	 District 3	380030	Ted "Bear" Ensminger	NPA	114255790	59063	36
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	7
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	242
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	76
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	18
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	252
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	71
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	13
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	245
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	73
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	18
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	240
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	78
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	18
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	252
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	68
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	16
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	239
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	82
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	15
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	234
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	82
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	262
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	8
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	66
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	107
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	207
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	22
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	158
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	161
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	17
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	105
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	213
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	17
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	100
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	220
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	16
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	97
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	219
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	93
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	228
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	14
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	116
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	199
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	130
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	189
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	17
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	104
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	213
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	133
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	183
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	103
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	214
+MAD	Madison	9547	11/06/2012	2012 General Election	2	2 Madison Rec	461	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1052
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	326
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	5
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	3
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	813
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	498
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	29
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	21
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	39
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	1006
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	273
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	48
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	72
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	885
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	439
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	77
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	741
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	571
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	89
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	993
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	338
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	70
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	1048
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	304
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	3
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	46
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	348
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	856
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	147
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	50
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	957
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	405
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	39
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	County Commissioner	 District 5	380050	Jim Holben	REP	105279576	59082	389
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	County Commissioner	 District 5	380050	Rick Davis	DEM	105270127	59073	609
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	County Commissioner	 District 5	380050	R.E. Dicky Bland	NPA	105268696	59089	180
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	County Commissioner	 District 5	380050	Tommie O. Jonas	NPA	105274915	59076	39
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	County Commissioner	 District 5	380050	Cindy Vees	NPA	113150992	59096	131
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	52
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	616
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	623
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	161
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	604
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	634
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	163
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	614
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	626
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	161
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	626
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	602
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	173
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	651
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	576
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	174
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	631
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	588
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	182
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	639
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	573
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	189
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	1038
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	28
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	334
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	768
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	495
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	136
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	843
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	466
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	92
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	547
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	734
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	120
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	553
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	732
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	115
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	493
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	777
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	131
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	798
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	533
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	70
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	612
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	698
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	91
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	789
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	532
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	80
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	649
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	647
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	104
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	834
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	482
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	85
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	506
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	749
+MAD	Madison	9547	11/06/2012	2012 General Election	3	3 Lee City Hall	1972	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	146
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	220
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	83
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	167
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	124
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	6
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	5
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	213
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	84
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	12
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	175
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	108
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	27
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	151
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	130
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	29
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	209
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	85
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	16
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	243
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	47
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	122
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	129
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	45
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	195
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	96
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	126
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	154
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	128
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	146
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	36
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	123
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	146
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	41
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	124
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	146
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	131
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	139
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	40
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	128
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	142
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	40
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	125
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	145
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	40
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	220
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	8
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	82
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	School Board	 District 4	610004	Bobby Harper	NOP	105269414	59137	146
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	School Board	 District 4	610004	Karen Pickles	NOP	105270956	59124	142
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	22
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	156
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	119
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	35
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	173
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	115
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	22
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	101
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	178
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	31
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	116
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	166
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	29
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	107
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	166
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	38
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	166
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	121
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	24
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	113
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	167
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	31
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	170
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	113
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	28
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	128
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	150
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	33
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	170
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	111
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	103
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	172
+MAD	Madison	9547	11/06/2012	2012 General Election	4	4 Sirmans VH	440	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	36
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	332
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	619
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	4
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	263
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	653
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	11
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	6
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	312
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	622
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	4
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	26
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	265
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	641
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	58
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	201
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	706
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	57
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	356
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	564
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	44
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	771
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	153
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	40
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	152
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	462
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	323
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	27
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	418
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	502
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	44
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	County Commissioner	 District 3	380030	Ronnie L. Moore	DEM	105269523	59058	734
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	County Commissioner	 District 3	380030	Ted "Bear" Ensminger	NPA	114255790	59063	200
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	553
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	317
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	94
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	560
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	305
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	99
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	554
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	313
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	96
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	554
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	316
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	94
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	581
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	292
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	91
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	561
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	310
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	93
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	551
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	292
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	121
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	714
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	19
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	231
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	422
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	447
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	93
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	566
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	316
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	81
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	334
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	540
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	89
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	307
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	560
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	72
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	321
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	535
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	83
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	407
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	480
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	52
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	341
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	549
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	49
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	507
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	391
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	41
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	385
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	500
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	54
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	513
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	383
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	43
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	338
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	539
+MAD	Madison	9547	11/06/2012	2012 General Election	5	5 Greenville SCC	1270	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	62
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	146
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	55
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	117
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	75
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	2
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	142
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	59
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	123
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	67
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	17
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	91
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	97
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	142
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	54
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	11
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	144
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	57
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	6
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	55
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	113
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	31
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	8
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	150
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	51
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	6
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	87
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	93
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	27
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	82
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	96
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	29
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	77
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	99
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	31
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	82
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	95
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	84
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	92
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	31
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	83
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	93
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	31
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	85
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	90
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	32
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	124
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	5
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	78
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	117
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	74
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	16
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	106
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	86
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	15
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	74
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	115
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	18
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	72
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	121
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	14
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	71
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	117
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	119
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	72
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	16
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	86
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	107
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	14
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	104
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	90
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	13
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	78
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	111
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	18
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	97
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	93
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	17
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	61
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	123
+MAD	Madison	9547	11/06/2012	2012 General Election	6	6 Hamburg VFS	271	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	23
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	590
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	289
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	467
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	390
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	11
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	11
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	14
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	45
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	36
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	499
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	237
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	27
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	2
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	46
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	523
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	320
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	50
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	418
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	418
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	57
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	555
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	284
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	54
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	680
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	176
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	37
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	188
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	503
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	172
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	577
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	292
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	24
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	470
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	333
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	90
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	461
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	343
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	89
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	451
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	350
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	92
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	444
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	348
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	101
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	480
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	310
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	103
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	484
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	303
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	106
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	471
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	297
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	125
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	649
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	17
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	226
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	470
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	347
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	76
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	505
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	328
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	60
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	336
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	478
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	79
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	305
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	509
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	73
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	286
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	510
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	91
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	448
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	393
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	46
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	312
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	513
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	61
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	465
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	374
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	48
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	353
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	474
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	60
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	493
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	342
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	52
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	298
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	510
+MAD	Madison	9547	11/06/2012	2012 General Election	7	7 Cherry Lake VH	1229	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	79
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	494
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	272
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	393
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	336
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	15
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	29
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	459
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	230
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	38
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	49
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	411
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	316
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	50
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	347
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	370
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	60
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	456
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	270
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	51
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	557
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	192
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	28
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	151
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	428
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	163
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	34
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	470
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	278
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	29
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	361
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	341
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	75
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	377
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	321
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	79
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	364
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	330
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	83
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	374
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	317
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	86
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	397
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	292
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	88
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	396
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	293
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	88
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	406
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	276
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	95
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	576
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	11
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	190
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	403
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	306
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	68
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	475
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	251
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	51
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	307
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	401
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	69
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	314
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	400
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	60
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	262
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	432
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	80
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	409
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	316
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	48
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	336
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	387
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	50
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	475
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	252
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	47
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	348
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	373
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	53
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	454
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	273
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	47
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	299
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	408
+MAD	Madison	9547	11/06/2012	2012 General Election	8	8 Pinetta VFD	1089	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	67
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	97
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	96
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	3
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	76
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	102
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	3
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	95
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	96
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	78
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	105
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	15
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	80
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	107
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	99
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	83
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	16
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	156
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	29
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	13
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	70
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	91
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	21
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	16
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	89
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	96
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	13
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	93
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	79
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	26
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	93
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	81
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	24
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	82
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	90
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	26
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	90
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	80
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	28
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	93
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	75
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	92
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	76
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	95
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	73
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	30
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	139
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	2
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	57
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	School Board	 District 4	610004	Bobby Harper	NOP	105269414	59137	41
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	School Board	 District 4	610004	Karen Pickles	NOP	105270956	59124	142
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	15
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	95
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	84
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	106
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	72
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	62
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	117
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	67
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	111
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	61
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	110
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	27
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	88
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	90
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	71
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	108
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	98
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	80
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	85
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	94
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	19
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	118
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	60
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	20
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	62
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	113
+MAD	Madison	9547	11/06/2012	2012 General Election	9	9 Eridu RC	260	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	23
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	386
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	764
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	316
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	788
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	20
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	10
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	26
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	182
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	56
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	208
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	635
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	31
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	2
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	40
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	353
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	745
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	65
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	275
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	822
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	65
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	395
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	712
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	55
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	925
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	190
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	48
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	98
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	487
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	545
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	32
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	567
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	542
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	53
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	727
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	357
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	79
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	738
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	333
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	91
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	724
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	351
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	88
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	698
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	368
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	97
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	748
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	320
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	95
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	719
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	352
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	92
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	713
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	340
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	110
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	901
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	18
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	244
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	School Board	 District 4	610004	Bobby Harper	NOP	105269414	59137	384
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	School Board	 District 4	610004	Karen Pickles	NOP	105270956	59124	668
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	111
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	498
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	547
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	118
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	599
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	483
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	81
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	375
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	680
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	108
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	380
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	685
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	94
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	349
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	691
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	120
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	466
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	615
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	78
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	416
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	646
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	98
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	533
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	540
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	87
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	420
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	649
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	91
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	552
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	523
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	85
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	391
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	679
+MAD	Madison	9547	11/06/2012	2012 General Election	10	10 Madison Bd Rm	1634	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	90
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	263
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	576
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	205
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	610
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	7
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	4
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	21
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	271
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	526
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	25
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	25
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	226
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	592
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	28
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	176
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	632
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	38
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	257
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	552
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	37
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Tax Collector	 	355000	Lisa B. Tuten	DEM	105270144	59036	642
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Tax Collector	 	355000	Walter Sims Copeland	NPA	105280986	59031	187
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	17
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Superintendent of Schools	 	360000	Cleveland Davis Barclay	REP	105928057	59146	55
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Superintendent of Schools	 	360000	Doug Brown	DEM	105271245	58989	380
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Superintendent of Schools	 	360000	James A. Ray	NPA	105268451	60095	402
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	9
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Supervisor of Elections	 	375000	Thomas "Tommy" Hardee	REP	105272709	59025	397
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Supervisor of Elections	 	375000	Amy Stewart Kendrick	DEM	105272549	59017	418
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	31
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	County Commissioner	 District 5	380050	Jim Holben	REP	105279576	59082	67
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	County Commissioner	 District 5	380050	Rick Davis	DEM	105270127	59073	360
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	County Commissioner	 District 5	380050	R.E. Dicky Bland	NPA	105268696	59089	50
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	County Commissioner	 District 5	380050	Tommie O. Jonas	NPA	105274915	59076	289
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	County Commissioner	 District 5	380050	Cindy Vees	NPA	113150992	59096	65
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	15
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	491
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	284
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	71
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	517
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	264
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	65
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	517
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	260
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	69
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	502
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	269
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	75
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	521
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	255
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	70
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	459
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	291
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	96
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	478
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	272
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	96
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	643
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	19
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	184
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	394
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	375
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	77
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	457
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	333
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	56
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	285
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	493
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	68
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	272
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	492
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	75
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	237
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	519
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	83
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	322
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	468
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	2
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	47
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	315
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	472
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	51
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	414
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	377
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	48
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	286
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	496
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	57
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	393
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	393
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	53
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	301
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	477
+MAD	Madison	9547	11/06/2012	2012 General Election	11	11 Madison VH	1127	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	61

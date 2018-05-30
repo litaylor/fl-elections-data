@@ -1,0 +1,1070 @@
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	183
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	70
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	146
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	96
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	4
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	164
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	86
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	137
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	101
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	21
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	68
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	188
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	50
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	207
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	36
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	218
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	93
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	155
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	123
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	103
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	33
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	120
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	106
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	33
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	127
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	98
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	34
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	122
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	97
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	39
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	123
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	96
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	40
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	129
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	89
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	41
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	126
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	93
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	40
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	126
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	106
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	27
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	183
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	62
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	98
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	134
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	27
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	99
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	137
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	23
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	91
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	139
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	29
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	143
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	98
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	114
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	126
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	172
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	71
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	16
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	105
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	129
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	25
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	165
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	76
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	102
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	129
+GLA	Glades	9547	11/06/2012	2012 General Election	1	1 American Legion	53	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	28
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	183
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	95
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	148
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	121
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	4
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	182
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	94
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	144
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	126
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	13
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	101
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	176
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	79
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	202
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	54
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	224
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	96
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	178
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	146
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	102
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	35
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	148
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	100
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	35
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	150
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	96
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	37
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	157
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	88
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	38
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	148
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	94
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	41
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	148
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	95
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	40
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	151
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	91
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	41
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	130
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	139
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	182
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	87
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	98
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	163
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	22
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	92
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	173
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	94
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	163
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	26
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	127
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	142
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	13
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	111
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	154
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	173
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	97
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	13
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	112
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	154
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	165
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	103
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	89
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	169
+GLA	Glades	9547	11/06/2012	2012 General Election	2	2 Ortona VFD	70	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	25
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	107
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	80
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	80
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	92
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	7
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	92
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	88
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	10
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	74
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	102
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	30
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	154
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	44
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	141
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	24
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	159
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	52
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	127
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	87
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	76
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	27
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	94
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	71
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	25
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	96
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	65
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	29
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	91
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	70
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	29
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	86
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	74
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	30
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	96
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	65
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	29
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	95
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	66
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	29
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	93
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	82
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	132
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	49
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	84
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	93
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	13
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	71
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	103
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	55
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	118
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	93
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	85
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	13
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	88
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	94
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	122
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	59
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	10
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	88
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	88
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	119
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	60
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	12
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	67
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	105
+GLA	Glades	9547	11/06/2012	2012 General Election	3	3 Moore Haven Doyle Conn Bldg	42	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	90
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	40
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	75
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	51
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	3
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	2
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	81
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	47
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	65
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	60
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	10
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	30
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	100
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	38
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	94
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	19
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	110
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	57
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	71
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	72
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	44
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	66
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	50
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	62
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	52
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	21
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	74
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	38
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	23
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	71
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	42
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	22
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	72
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	40
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	23
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	66
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	46
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	23
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	63
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	61
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	88
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	39
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	8
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	56
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	68
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	57
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	69
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	38
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	81
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	16
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	64
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	62
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	60
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	68
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	82
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	39
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	58
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	66
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	79
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	45
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	51
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	71
+GLA	Glades	9547	11/06/2012	2012 General Election	4	4 Palmdale Comm Center	35	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	13
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	408
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	199
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	3
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	3
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	346
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	226
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	15
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	13
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	21
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	391
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	206
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	24
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	363
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	221
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	37
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	328
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	253
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	40
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	176
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	424
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	21
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	215
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	380
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	26
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	265
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	313
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	43
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	306
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	230
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	85
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	308
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	231
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	82
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	302
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	234
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	85
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	330
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	200
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	91
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	308
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	216
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	97
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	331
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	194
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	96
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	323
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	201
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	97
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	343
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	230
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	48
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	437
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	162
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	22
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	267
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	311
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	43
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	292
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	292
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	37
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	256
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	309
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	56
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	342
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	253
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	26
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	279
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	298
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	44
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	417
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	174
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	30
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	315
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	264
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	42
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	427
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	158
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	36
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	229
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	329
+GLA	Glades	9547	11/06/2012	2012 General Election	5	5 Muse VFD	206	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	63
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	99
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	265
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	89
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	252
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	5
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	2
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	96
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	251
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	U.S. Representative	 District 17	140170	WriteinVotes	 	0	900	1
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	85
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	263
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	54
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	302
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	84
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	272
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	36
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	317
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	12
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	75
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	274
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	16
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	233
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	93
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	39
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	235
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	88
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	42
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	220
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	104
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	41
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	227
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	92
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	46
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	217
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	99
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	49
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	232
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	85
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	48
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	225
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	94
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	46
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	165
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	168
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	32
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	232
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	108
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	25
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	157
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	177
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	31
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	138
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	198
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	29
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	135
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	196
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	34
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	169
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	177
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	187
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	153
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	25
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	228
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	116
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	21
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	166
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	175
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	24
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	213
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	130
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	22
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	165
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	170
+GLA	Glades	9547	11/06/2012	2012 General Election	6	6 Moore Haven Doyle Conn Bldg	83	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	30
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	307
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	159
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	238
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	199
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	12
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	4
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	286
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	170
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	251
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	193
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	29
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	187
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	264
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	22
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	133
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	333
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	119
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	345
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	174
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	285
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	228
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	194
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	51
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	234
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	188
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	51
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	234
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	184
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	55
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	226
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	187
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	60
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	234
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	179
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	60
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	241
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	171
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	61
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	230
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	181
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	62
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	243
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	192
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	38
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	336
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	115
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	22
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	211
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	222
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	40
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	191
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	249
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	33
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	195
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	229
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	49
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	244
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	205
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	24
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	224
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	222
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	27
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	326
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	128
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	228
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	211
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	34
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	328
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	125
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	192
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	237
+GLA	Glades	9547	11/06/2012	2012 General Election	7	7 Lakeport Comm Center	120	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	44
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	434
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	304
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	3
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	6
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	5
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	332
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	373
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	19
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	12
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	30
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	428
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	315
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	24
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	362
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	356
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	49
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	325
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	408
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	34
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	243
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	508
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	16
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	173
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	562
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	32
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	257
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	462
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	48
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	446
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	256
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	65
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	443
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	249
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	75
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	439
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	253
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	75
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	436
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	246
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	85
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	423
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	257
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	87
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	445
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	232
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	90
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	427
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	250
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	90
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	323
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	377
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	67
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	491
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	238
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	38
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	301
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	410
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	56
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	292
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	417
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	56
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	286
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	399
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	80
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	365
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	363
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	37
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	304
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	407
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	54
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	512
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	220
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	33
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	335
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	376
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	54
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	482
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	235
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	48
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	262
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	431
+GLA	Glades	9547	11/06/2012	2012 General Election	8	8 Buckhead Ridge Comm Center	228	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	72
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	46
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	36
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	34
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	37
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	3
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	42
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	37
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	4
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	38
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	39
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	31
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	46
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	18
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	65
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	22
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	59
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	32
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	51
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	45
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	29
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	46
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	28
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	45
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	29
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	42
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	30
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	38
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	34
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	45
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	27
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	42
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	29
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	12
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	41
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	32
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	10
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	60
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	20
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	32
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	41
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	10
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	30
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	50
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	39
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	37
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	42
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	40
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	36
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	42
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	49
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	32
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	42
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	36
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	56
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	24
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	39
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	37
+GLA	Glades	9547	11/06/2012	2012 General Election	9	9 Lakeport Comm Center	18	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	37
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	63
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	31
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	62
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	5
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	2
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	38
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	60
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	4
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	40
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	56
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	13
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	85
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	4
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	20
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	79
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	18
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	78
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	22
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	75
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	68
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	27
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	71
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	24
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	71
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	24
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	70
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	25
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	63
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	32
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	66
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	29
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	65
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	28
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	34
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	62
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	63
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	33
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	38
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	58
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	42
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	55
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	38
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	58
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	41
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	59
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	53
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	46
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	3
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	62
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	39
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	43
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	53
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	57
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	43
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	2
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	34
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	63
+GLA	Glades	9547	11/06/2012	2012 General Election	10	10 Brighton Field Offices	57	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	5
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	215
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	63
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	165
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	100
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	7
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	1
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	176
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	94
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	153
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	112
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	63
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	217
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	4
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	70
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	207
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	50
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	228
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	106
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	169
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	142
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	110
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	32
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	141
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	115
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	28
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	137
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	115
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	32
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	144
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	106
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	34
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	136
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	114
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	34
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	143
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	107
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	34
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	138
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	113
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	33
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	159
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	108
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	182
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	90
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	12
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	124
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	143
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	120
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	145
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	120
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	141
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	23
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	152
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	117
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	137
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	131
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	16
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	178
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	95
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	127
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	142
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	170
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	104
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	10
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	111
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	150
+GLA	Glades	9547	11/06/2012	2012 General Election	11	11 Moore Haven Doyle Conn Bldg	45	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	23
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	1
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	133
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	3
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	114
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	17
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	6
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	121
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	3
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	123
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	8
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	6
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	122
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	29
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	99
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	127
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	16
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	114
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	4
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	90
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	24
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	94
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	21
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	87
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	28
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	19
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	87
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	27
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	86
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	28
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	82
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	34
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	83
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	31
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	68
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	48
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	85
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	34
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	52
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	62
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	73
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	31
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	11
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	47
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	56
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	12
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	79
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	29
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	41
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	66
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	8
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	86
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	23
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	6
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	35
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	71
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	43
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	63
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	37
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	69
+GLA	Glades	9547	11/06/2012	2012 General Election	12	12 Washington Park	8	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	234
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	96
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	216
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	100
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	9
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	2
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	55928	232
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	U.S. Representative	 District 17	140170	William Bronson	DEM	111714616	56776	89
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	State Senator	 District 26	240260	Bill Galvano	REP	105328914	50607	219
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	State Senator	 District 26	240260	Paula House	DEM	117913507	58153	91
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	State Senator	 District 26	240260	UnderVotes	 	0	902	25
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	State Representative	 District 55	260550	Cary Pigman	REP	104562685	55166	156
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	State Representative	 District 55	260550	Crystal Drake	DEM	104281815	55396	161
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Sheriff	 	335000	Robert A. "Tony" Wilson	REP	104283832	59539	99
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Sheriff	 	335000	Stuart Whiddon	DEM	104280781	59538	228
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Property Appraiser	 	340000	Robin Knight McLean	REP	104279861	59639	97
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Property Appraiser	 	340000	Lorie Ward	DEM	104280149	59540	223
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	County Commissioner	 District 3	380030	Cannon Eley	REP	101301415	59550	167
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	County Commissioner	 District 3	380030	Paul Beck	DEM	104280374	59549	147
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	21
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	160
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	140
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	35
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	147
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	155
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	33
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	150
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	150
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	35
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	172
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	125
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	38
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	170
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	126
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	39
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	Yes	NOP	113436526	10	175
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	No	NOP	113436526	20	121
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Charles A. Davis Jr.	Second District Court of Appeal	520203	UnderVotes	 	0	902	39
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	Yes	NOP	110465384	10	170
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	No	NOP	110465384	20	126
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520204	UnderVotes	 	0	902	39
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	184
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	133
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	224
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	96
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	15
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	153
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	160
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	22
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	163
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	158
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	13
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	141
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	167
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	26
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	189
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	136
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	9
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	152
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	164
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	18
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	215
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	105
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	154
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	160
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	20
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	212
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	108
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	14
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	134
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	176
+GLA	Glades	9547	11/06/2012	2012 General Election	13	13 Indian Hills FD	94	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	24

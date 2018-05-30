@@ -1,0 +1,856 @@
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	72
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	190
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	80
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	169
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	14
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	76
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	172
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	19
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	85
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	165
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	23
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	39
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	218
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	94
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	40
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	17
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	37
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	71
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	192
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	65
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	174
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	86
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	13
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	28
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	212
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	17
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	115
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	106
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	52
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	105
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	103
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	64
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	111
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	107
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	55
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	105
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	108
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	60
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	113
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	97
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	63
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	110
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	102
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	61
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	112
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	102
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	59
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	100
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	112
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	61
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	113
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	100
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	60
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	149
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	103
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	188
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	65
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	186
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	59
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	28
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	186
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	54
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	33
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	100
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	79
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	89
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	84
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	93
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	84
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	7
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	80
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	103
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	53
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	125
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	61
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	37
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	37
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	121
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	61
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	114
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	67
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	30
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	145
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	104
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	68
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	15
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	98
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	71
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	18
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	102
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	69
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	15
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	96
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	72
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	19
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	103
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	64
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	103
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	64
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	98
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	67
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	22
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	101
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	65
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	94
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	72
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	116
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	57
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	14
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	124
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	54
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	139
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	35
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	13
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	134
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	36
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	640
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	103
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	592
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	122
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	17
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	7
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	27
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	560
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	140
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	27
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	56
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	400
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	330
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	52
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	246
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	502
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	35
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	294
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	63
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	45
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	61
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	264
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	30
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	448
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	320
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	15
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	528
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	226
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	29
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	167
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	550
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	53
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	12
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	372
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	297
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	113
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	323
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	333
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	126
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	365
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	298
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	120
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	345
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	312
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	126
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	340
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	314
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	129
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	342
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	313
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	128
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	348
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	307
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	128
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	336
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	318
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	129
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	350
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	306
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	127
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	396
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	341
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	46
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	479
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	271
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	33
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	579
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	156
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	47
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	549
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	180
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	54
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	670
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	74
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	606
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	89
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	17
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	41
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	598
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	101
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	49
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	388
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	331
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	50
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	249
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	477
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	41
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	19
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	273
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	75
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	39
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	37
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	317
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	444
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	308
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	18
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	528
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	221
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	182
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	514
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	63
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	285
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	349
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	132
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	252
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	375
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	141
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	283
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	351
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	136
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	274
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	368
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	128
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	276
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	363
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	131
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	271
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	371
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	128
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	274
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	360
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	136
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	266
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	370
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	134
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	281
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	357
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	132
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	417
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	307
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	46
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	440
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	299
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	29
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	567
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	147
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	54
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	490
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	224
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	56
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	388
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	75
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	359
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	84
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	358
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	98
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	12
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	30
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	228
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	248
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	22
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	157
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	314
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	27
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	42
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	177
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	29
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	23
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	128
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	93
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	169
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	320
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	362
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	124
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	12
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	132
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	332
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	26
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	211
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	206
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	79
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	179
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	232
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	87
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	212
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	203
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	82
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	219
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	201
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	78
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	218
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	199
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	81
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	204
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	212
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	82
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	205
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	212
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	81
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	206
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	210
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	82
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	209
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	209
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	80
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	233
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	240
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	25
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	273
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	207
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	18
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	351
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	126
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	294
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	178
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	26
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	438
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	78
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	348
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	132
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	17
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	23
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	356
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	126
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	12
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	35
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	234
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	267
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	31
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	155
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	345
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	32
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	27
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	271
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	45
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	25
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	64
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	93
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	233
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	289
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	361
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	149
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	22
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	114
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	355
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	53
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	10
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	242
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	201
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	89
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	225
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	210
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	97
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	228
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	213
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	91
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	244
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	201
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	87
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	237
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	201
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	94
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	240
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	199
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	93
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	242
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	196
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	94
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	218
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	215
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	98
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	243
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	197
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	92
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	292
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	213
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	27
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	390
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	123
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	19
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	408
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	92
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	31
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	381
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	110
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	41
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	110
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	13
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	96
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	22
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	93
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	24
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	59
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	62
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	36
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	82
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	62
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	12
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	12
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	81
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	43
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	105
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	30
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	88
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	48
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	60
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	45
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	61
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	23
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	47
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	58
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	24
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	49
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	56
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	24
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	54
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	51
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	24
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	53
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	53
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	23
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	50
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	52
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	48
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	56
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	25
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	49
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	55
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	25
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	69
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	51
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	78
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	46
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	96
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	22
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	100
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	13
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	125
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	39
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	120
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	46
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	Basil E. Dalack	NPA	112148742	65789	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	United States Senator	 	120000	UnderVotes	 	0	902	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	64875	109
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	Representative in Congress	 District 2	140020	Walter Dartland	DEM	105019760	68447	52
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	Representative in Congress	 District 2	140020	Rob Lapham	LPF	122931350	65657	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	12
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Pete Williams	REP	105138879	65008	89
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	Jack Campbell	DEM	105032987	64884	78
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Attorney	 2nd Judicial Circuit	200020	UnderVotes	 	0	902	10
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Senator	 District 3	240030	Nancy Miller	REP	106105790	68564	68
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Senator	 District 3	240030	Bill Montford	DEM	104984222	60225	101
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	State Senator	 District 3	240030	UnderVotes	 	0	902	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	John Tadlock	REP	100719389	68348	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	Eddie Joe White	DEM	105265417	68342	62
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	Jimmy Faircloth	NPA	105262898	68344	28
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	Nick Finch	NPA	105266226	68223	15
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	Shane Geiger	NPA	105262972	68352	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	Darrell Johnson II	NPA	108833904	68360	41
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	Leo Marlowe	NPA	104247775	68366	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Property Appraiser	 	340000	Cindy Potter Walker	DEM	105264363	68377	111
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Property Appraiser	 	340000	Hugh C Black	NPA	105262523	68389	62
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 1	380010	Dewayne "Bubba" Branch	DEM	105264657	68460	104
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 1	380010	Teddy Eubanks	NPA	105262883	68462	67
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 3	380030	Michael Richter	REP	105266528	68466	45
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	DEM	105263140	68468	113
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 3	380030	Mike T Yon	NPA	105264376	68471	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	72
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	87
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	18
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	68
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	88
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	73
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	86
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	18
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	78
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	81
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	18
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	84
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	72
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	79
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	79
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	19
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	76
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	81
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	69
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	87
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	21
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	74
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	83
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	20
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	109
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	62
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	130
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	40
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	7
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	144
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	26
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	7
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	137
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	31
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4497	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	9

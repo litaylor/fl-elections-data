@@ -1,0 +1,936 @@
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	849
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	247
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	8
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	16
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	529
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	529
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	18
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	15
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	41
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	710
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	388
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	34
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	625
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	432
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	76
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	400
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	603
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	130
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	650
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	399
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	84
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 1	380010	Pinki C. Jackel	REP	104231525	56057	473
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 1	380010	Tony A. Shiver Sr.	DEM	104224833	56189	232
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	16
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 5	380050	William Massey	DEM	104225191	55989	271
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 5	380050	Hank Garrett	NPA	104224323	56739	120
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	20
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	468
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	450
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	214
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	459
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	424
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	250
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	462
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	442
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	229
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	469
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	423
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	240
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	490
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	388
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	255
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	474
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	411
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	247
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	487
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	395
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	251
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	509
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	426
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	198
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	502
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	466
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	165
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	694
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	302
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	135
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	421
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	525
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	185
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	384
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	544
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	204
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	284
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	591
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	258
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	516
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	431
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	185
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	450
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	498
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	185
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	615
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	339
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	179
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	467
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	448
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	218
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	672
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	302
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	158
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	382
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	538
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	1	Volunteer Fire Department	1591	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	212
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	220
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	101
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	191
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	124
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	207
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	112
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	194
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	120
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	9
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	130
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	179
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	14
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	220
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	94
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	9
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	151
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	136
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	36
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	145
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	133
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	45
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	137
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	148
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	38
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	140
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	138
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	45
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	138
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	132
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	53
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	139
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	138
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	46
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	136
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	138
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	49
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	108
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	165
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	50
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	156
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	148
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	18
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	189
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	120
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	14
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	116
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	185
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	21
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	131
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	168
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	24
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	85
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	207
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	31
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	114
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	184
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	25
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	99
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	205
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	19
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	157
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	144
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	22
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	121
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	173
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	28
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	159
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	144
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	20
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	87
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	206
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	2	Mission by the Sea	374	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	30
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	366
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	552
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	264
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	619
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	16
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	30
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	314
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	604
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	13
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	355
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	537
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	40
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	193
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	657
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	82
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	316
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	568
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	48
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	477
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	309
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	144
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	491
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	278
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	163
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	478
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	298
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	155
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	476
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	301
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	152
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	478
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	292
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	161
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	464
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	307
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	160
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	469
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	303
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	160
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	527
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	265
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	139
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	342
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	502
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	88
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	536
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	319
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	77
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	332
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	508
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	92
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	282
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	517
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	130
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	217
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	547
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	167
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	313
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	477
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	138
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	305
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	504
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	120
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	469
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	341
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	119
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	346
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	452
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	132
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	471
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	337
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	123
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	311
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	478
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	3	Florida National Guard Armory	1206	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	141
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	168
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	128
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	138
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	156
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	161
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	135
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	144
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	142
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	14
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	107
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	160
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	33
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	158
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	134
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	8
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	148
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	101
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	51
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	149
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	95
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	56
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	151
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	97
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	52
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	146
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	98
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	56
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	143
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	99
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	58
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	132
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	110
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	58
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	136
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	106
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	58
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	107
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	143
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	50
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	108
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	166
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	25
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	157
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	125
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	17
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	109
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	164
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	27
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	101
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	163
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	35
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	67
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	188
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	45
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	87
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	182
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	31
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	91
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	180
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	29
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	133
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	143
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	24
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	105
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	159
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	36
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	137
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	140
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	23
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	82
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	177
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	4	American Legion Hall	358	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	41
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	762
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	329
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	9
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	559
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	495
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	21
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	14
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	35
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	686
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	414
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	25
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	644
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	419
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	62
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	447
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	575
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	103
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	678
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	376
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	71
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	County Commissioner	 District 5	380050	William Massey	DEM	104225191	55989	518
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	County Commissioner	 District 5	380050	Hank Garrett	NPA	104224323	56739	118
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	22
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	512
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	424
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	188
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	480
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	422
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	222
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	478
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	443
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	203
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	469
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	445
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	209
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	487
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	407
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	230
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	482
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	424
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	218
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	481
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	417
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	226
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	465
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	479
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	179
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	506
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	484
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	132
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	716
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	305
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	103
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	432
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	552
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	140
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	421
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	560
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	144
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	345
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	587
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	193
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	512
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	456
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	154
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	400
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	569
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	154
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	644
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	350
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	130
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	454
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	511
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	158
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	651
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	344
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	130
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	384
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	570
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	5	Senior Citizens Center	1510	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	171
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	258
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	123
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	211
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	150
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	10
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	11
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	240
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	136
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	5
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	11
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	245
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	135
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	12
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	198
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	167
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	27
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	246
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	130
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	16
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	189
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	149
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	54
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	181
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	151
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	60
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	186
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	150
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	56
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	189
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	143
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	192
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	135
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	65
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	189
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	141
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	62
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	189
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	136
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	67
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	168
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	181
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	43
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	185
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	172
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	35
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	252
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	118
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	22
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	174
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	188
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	30
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	152
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	206
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	34
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	119
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	231
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	42
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	173
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	179
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	39
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	141
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	220
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	30
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	243
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	121
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	28
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	190
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	173
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	29
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	237
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	129
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	26
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	153
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	202
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	6	Chillas Hall	504	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	37
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	424
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	243
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	365
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	291
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	6
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	427
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	236
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	7
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	432
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	216
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	25
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	332
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	302
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	39
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	420
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	227
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	26
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	County Commissioner	 District 1	380010	Pinki C. Jackel	REP	104231525	56057	472
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	County Commissioner	 District 1	380010	Tony A. Shiver Sr.	DEM	104224833	56189	190
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	10
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	353
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	240
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	79
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	350
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	237
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	85
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	344
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	246
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	83
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	344
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	227
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	102
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	361
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	203
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	109
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	357
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	204
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	112
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	345
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	215
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	113
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	281
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	283
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	107
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	323
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	319
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	31
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	413
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	238
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	21
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	273
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	363
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	37
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	282
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	347
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	44
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	210
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	407
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	56
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	295
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	340
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	38
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	248
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	386
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	39
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	361
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	273
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	39
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	281
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	350
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	42
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	368
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	272
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	33
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	246
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	376
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	7	St. George Island Methodist Ch	785	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	51
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	523
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	122
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	364
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	258
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	8
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	23
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	55822	436
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	U.S. Representative	 District 2	140020	Al Lawson	DEM	104987227	55808	208
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	11
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Attorney	 Judicial Circuit 2	200020	Pete Williams	REP	105138879	56265	368
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Attorney	 Judicial Circuit 2	200020	William N. (Willie) Meggs	DEM	104978906	55382	260
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Attorney	 Judicial Circuit 2	200020	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Attorney	 Judicial Circuit 2	200020	UnderVotes	 	0	902	28
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Senator	 District 3	240030	John Shaw	REP	105184311	56451	236
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Senator	 District 3	240030	Bill Montford	DEM	104984222	55100	338
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	82
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	412
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	214
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	30
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	232
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	301
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	123
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	215
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	303
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	138
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	221
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	303
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	131
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	227
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	297
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	132
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	231
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	290
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	135
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	236
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	286
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	134
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	234
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	287
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	135
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Barbara Hobbs	NOP	105069499	55456	260
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	Josefina M. Tamayo	NOP	105168410	55475	273
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Circuit Judge	 Circuit 2 Group 2	550202	UnderVotes	 	0	902	123
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	263
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	306
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	86
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	397
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	194
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	65
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	194
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	368
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	94
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	176
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	369
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	110
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	142
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	382
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	132
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	286
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	258
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	112
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	222
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	331
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	102
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	346
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	217
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	3
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	90
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	247
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	301
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	108
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	336
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	221
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	99
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	195
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	344
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+FRA	Franklin	9547	11/06/2012	2012 General Election	8	American Legion Hall	846	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	117

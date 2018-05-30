@@ -1,0 +1,692 @@
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	719
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	172
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	6
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	4
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	696
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	189
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	6
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	6
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	4
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	14
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	695
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	196
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	13
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	16
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	664
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	200
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	5
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	51
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	406
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	491
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	23
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	432
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	394
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	92
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	391
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	422
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	106
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	408
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	407
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	104
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	410
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	396
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	114
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	410
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	402
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	107
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	402
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	406
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	112
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	400
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	411
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	109
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	399
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	410
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	111
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	409
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	403
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	108
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	514
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	378
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	27
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	544
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	360
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	16
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	729
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	164
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	27
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	660
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	226
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	1A & 1B	1A & 1B	1138	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	34
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	711
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	145
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	4
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	3
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	665
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	143
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	21
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	6
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	2
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	32
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	667
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	156
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	29
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	26
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	643
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	173
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	1
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	62
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	390
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	472
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	17
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	School Board	 District 2	610002	Russell B Gordon Jr	NOP	103736728	68821	440
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	School Board	 District 2	610002	Randall Griffis	NOP	100748873	68817	425
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	14
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	383
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	397
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	99
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	331
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	440
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	108
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	362
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	405
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	112
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	376
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	390
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	113
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	380
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	383
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	116
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	361
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	403
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	115
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	363
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	402
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	114
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	383
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	385
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	110
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	363
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	403
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	113
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	473
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	356
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	50
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	581
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	257
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	40
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	703
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	128
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	48
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	662
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	165
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	2A & 2B	2A & 2B	1090	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	52
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	1037
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	191
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	5
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	8
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	984
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	205
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	27
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	5
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	9
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	3
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	38
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	996
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	231
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	19
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	29
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	964
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	207
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	104
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	727
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	510
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	38
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	County Commissioner	 District 3	380030	James Tallman	REP	108391223	68840	908
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	County Commissioner	 District 3	380030	Eric Hall	DEM	103162054	68773	337
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	30
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	548
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	559
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	167
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	492
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	601
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	182
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	517
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	573
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	185
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	540
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	542
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	192
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	538
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	544
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	193
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	524
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	549
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	201
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	515
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	555
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	3
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	202
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	528
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	548
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	199
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	530
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	549
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	196
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	591
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	619
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	3
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	62
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	815
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	413
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	2
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	45
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	956
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	244
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	75
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	870
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	324
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3A & 3B	3A & 3B	1637	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	81
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	243
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	25
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	1
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	211
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	42
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	2
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	3
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	1
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	10
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	218
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	43
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	5
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	8
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	206
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	46
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	1
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	21
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	138
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	129
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	7
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	County Commissioner	 District 3	380030	James Tallman	REP	108391223	68840	165
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	County Commissioner	 District 3	380030	Eric Hall	DEM	103162054	68773	103
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	6
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	100
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	139
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	35
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	89
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	148
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	37
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	95
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	143
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	36
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	98
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	139
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	37
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	94
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	143
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	37
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	90
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	145
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	39
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	99
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	136
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	39
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	102
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	133
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	38
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	100
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	137
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	37
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	153
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	107
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	14
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	173
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	94
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	7
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	218
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	43
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	13
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	202
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	58
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	3C	3C	338	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	14
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	420
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	130
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	4
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	9
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	411
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	128
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	11
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	4
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	3
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	10
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	405
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	140
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	11
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	13
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	404
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	137
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	28
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	299
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	258
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	County Commissioner	 District 4	380040	Tommy Nettles	REP	108394535	68800	397
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	County Commissioner	 District 4	380040	Chuck Clyatt	DEM	108392189	68797	163
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	9
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	261
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	252
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	56
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	240
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	268
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	61
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	257
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	251
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	2
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	59
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	259
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	244
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	65
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	269
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	232
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	68
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	259
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	239
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	70
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	254
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	245
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	70
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	246
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	253
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	70
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	257
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	243
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	69
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	324
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	220
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	25
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	373
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	176
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	20
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	442
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	98
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	28
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	416
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	121
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4A & 4C	4A & 4C	719	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	32
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	897
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	216
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	5
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	6
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	838
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	228
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	24
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	3
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	11
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	5
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	1
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	37
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	848
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	234
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	35
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	31
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	844
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	235
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	2
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	67
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	577
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	540
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	31
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	County Commissioner	 District 4	380040	Tommy Nettles	REP	108394535	68800	770
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	County Commissioner	 District 4	380040	Chuck Clyatt	DEM	108392189	68797	353
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	24
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	534
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	474
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	2
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	138
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	489
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	514
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	144
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	524
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	471
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	152
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	528
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	456
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	164
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	535
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	447
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	166
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	517
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	464
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	167
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	519
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	459
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	169
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	529
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	453
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	166
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	529
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	455
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	164
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	592
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	508
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	48
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	691
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	424
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	33
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	910
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	193
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	45
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	860
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	230
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	4B	4B	1406	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	58
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	284
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	113
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	2
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	277
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	100
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	4
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	4
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	4
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	1
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	13
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	287
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	94
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	9
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	14
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	258
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	112
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	1
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	34
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	186
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	209
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	10
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	179
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	177
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	49
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	166
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	184
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	54
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	176
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	178
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	51
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	178
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	170
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	180
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	165
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	60
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	178
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	168
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	59
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	173
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	174
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	58
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	176
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	169
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	175
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	171
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	1
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	58
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	230
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	148
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	27
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	260
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	132
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	13
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	322
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	62
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	21
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	317
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	67
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5A & 5C	5A & 5C	582	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	21
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	Trump / Pence	REP	0	65072	257
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	22
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	WriteinVotes	 	0	900	2
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	President of the United States	 	100000	UnderVotes	 	0	902	2
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	Marco Rubio	REP	109340956	65070	231
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	Patrick Murphy	DEM	110225855	65041	29
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	Paul Stanton	LPF	122945407	66374	9
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	Tony Khoury	NPA	109645332	65297	1
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	Bruce Nathan	NPA	105899561	64800	2
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	Steven Machat	NPA	118948766	64869	1
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	WriteinVotes	 	0	900	2
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	United States Senator	 	120000	UnderVotes	 	0	902	10
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	Representative in Congress	 District 3	140030	Ted Yoho	REP	100409333	65182	231
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	Representative in Congress	 District 3	140030	Kenneth "Ken" McGurn	DEM	100392017	68353	43
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	Representative in Congress	 District 3	140030	Tom Wells	NPA	100528026	68345	4
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	7
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	State Representative	 District 19	260190	Bobby Payne	REP	107495730	64619	222
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	State Representative	 District 19	260190	Hubert "Joe" Snodgrass	DEM	110110434	64984	38
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	State Representative	 District 19	260190	WriteinVotes	 	0	900	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7062	State Representative	 District 19	260190	UnderVotes	 	0	902	25
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Kellie H Connell	REP	108394287	65375	164
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Donna Jackson	DEM	108391155	65372	110
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	11
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	Yes	NOP	113445454	10	106
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	No	NOP	113445454	20	145
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Charles T. Canady	Justice of the Supreme Court	500100	UnderVotes	 	0	902	34
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	Yes	NOP	112170657	10	90
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	No	NOP	112170657	20	154
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jorge Labarga	Justice of the Supreme Court	500200	UnderVotes	 	0	902	41
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	Yes	NOP	105012057	10	98
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	No	NOP	105012057	20	148
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ricky L. Polston	Justice of the Supreme Court	500300	UnderVotes	 	0	902	39
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	105
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	140
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Ross Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	107
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	140
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	38
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	Yes	NOP	105059032	10	98
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	No	NOP	105059032	20	149
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Lori S. Rowe	First District Court of Appeal	520103	UnderVotes	 	0	902	38
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	Yes	NOP	0	10	99
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	No	NOP	0	20	148
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Kent Wetherell	First District Court of Appeal	520104	UnderVotes	 	0	902	38
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	107
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	140
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	38
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	Yes	NOP	105004220	10	102
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	No	NOP	105004220	20	144
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Retention of Jim Wolf	First District Court of Appeal	520106	UnderVotes	 	0	902	39
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	Yes for Approval	NOP	0	10	119
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	No for Rejection	NOP	0	20	151
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice	 	900100	UnderVotes	 	0	902	15
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	Yes for Approval	NOP	0	10	164
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	No for Rejection	NOP	0	20	110
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions	 	900200	UnderVotes	 	0	902	11
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	Yes for Approval	NOP	0	10	224
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	No for Rejection	NOP	0	20	46
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders	 	900300	UnderVotes	 	0	902	15
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	Yes for Approval	NOP	0	10	202
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	No for Rejection	NOP	0	20	66
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	OverVotes	 	0	901	0
+UNI	Union	10282	11/08/2016	2016 General Election	5B	5B	342	0	0	7256	Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value	 Low-income, Long-term Residents; Determination of Just Value	900500	UnderVotes	 	0	902	17

@@ -1,0 +1,680 @@
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	560
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	130
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	7
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	443
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	238
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	7
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	8
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	582
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	92
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	13
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	23
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	496
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	184
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	30
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Sheriff	 	335000	Aubrey P Land Sr	REP	104749071	58619	176
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Sheriff	 	335000	Brian Lamb	DEM	104751058	58583	508
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	25
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	451
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	211
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Attorney	 Judicial Circuit 3	200030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	48
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	575
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	13
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	122
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Supervisor of Elections	 	375000	Clay Rigdon	REP	108283641	58663	172
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Supervisor of Elections	 	375000	Travis Hart	DEM	104751569	58654	523
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	15
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 1	380010	Charles Driver	REP	104748693	58766	319
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 1	380010	Lance Lamb	DEM	104750294	58771	379
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	11
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 3	380030	Jeff Mowrey	REP	118430966	58781	250
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 3	380030	Curtis "Donnie" Hamlin	DEM	104748485	58777	433
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	27
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 2	610002	Henry McCray	NOP	104748377	58799	296
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 2	610002	Jeff Walker	NOP	104748858	58803	377
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	37
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 4	610004	Amanda Tidwell Hickman	NOP	104749427	58820	376
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 4	610004	Gary "Butch" Smith	NOP	104748869	58822	270
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	64
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	260
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	376
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	74
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	239
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	373
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	97
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	253
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	382
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	75
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	257
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	376
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	77
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	280
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	342
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	87
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	280
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	348
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	82
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	292
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	344
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	74
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	393
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	268
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	48
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	412
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	265
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	32
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	273
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	384
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	53
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	257
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	381
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	72
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	246
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	375
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	89
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	413
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	228
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	68
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	281
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	360
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	68
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	397
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	249
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	64
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	302
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	338
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	70
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	393
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	264
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	52
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	217
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	414
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	1	DAY COMMUNITY CENTER 1	952	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	78
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	462
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	73
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	355
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	167
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	4
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	7
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	18
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	451
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	70
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	9
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	22
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	390
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	131
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	31
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Sheriff	 	335000	Aubrey P Land Sr	REP	104749071	58619	124
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Sheriff	 	335000	Brian Lamb	DEM	104751058	58583	402
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	26
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	302
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	186
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Attorney	 Judicial Circuit 3	200030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	64
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	432
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	5
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	115
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Supervisor of Elections	 	375000	Clay Rigdon	REP	108283641	58663	108
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Supervisor of Elections	 	375000	Travis Hart	DEM	104751569	58654	437
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	7
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 1	380010	Charles Driver	REP	104748693	58766	190
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 1	380010	Lance Lamb	DEM	104750294	58771	350
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	12
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 3	380030	Jeff Mowrey	REP	118430966	58781	177
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 3	380030	Curtis "Donnie" Hamlin	DEM	104748485	58777	359
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	16
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 2	610002	Henry McCray	NOP	104748377	58799	207
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 2	610002	Jeff Walker	NOP	104748858	58803	318
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	27
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 4	610004	Amanda Tidwell Hickman	NOP	104749427	58820	306
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 4	610004	Gary "Butch" Smith	NOP	104748869	58822	213
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	33
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	200
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	286
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	66
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	180
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	287
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	84
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	179
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	302
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	71
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	190
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	287
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	75
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	187
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	286
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	79
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	204
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	267
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	203
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	274
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	75
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	279
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	208
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	65
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	331
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	181
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	40
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	192
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	298
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	62
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	173
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	306
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	73
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	148
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	322
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	81
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	295
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	188
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	68
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	222
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	266
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	64
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	276
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	218
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	58
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	206
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	277
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	69
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	293
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	204
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	54
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	153
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	330
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	2	LAFAYETTE PUBLIC LIBRARY	758	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	69
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	644
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	116
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	6
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	3
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	521
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	214
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	20
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	6
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	18
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	658
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	77
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	23
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	21
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	570
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	182
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	28
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Sheriff	 	335000	Aubrey P Land Sr	REP	104749071	58619	189
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Sheriff	 	335000	Brian Lamb	DEM	104751058	58583	574
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	17
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	485
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	243
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Attorney	 Judicial Circuit 3	200030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	52
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	624
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	23
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	133
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Supervisor of Elections	 	375000	Clay Rigdon	REP	108283641	58663	205
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Supervisor of Elections	 	375000	Travis Hart	DEM	104751569	58654	557
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	18
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 1	380010	Charles Driver	REP	104748693	58766	273
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 1	380010	Lance Lamb	DEM	104750294	58771	483
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	24
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 3	380030	Jeff Mowrey	REP	118430966	58781	270
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 3	380030	Curtis "Donnie" Hamlin	DEM	104748485	58777	500
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	10
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 2	610002	Henry McCray	NOP	104748377	58799	380
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 2	610002	Jeff Walker	NOP	104748858	58803	354
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	46
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 4	610004	Amanda Tidwell Hickman	NOP	104749427	58820	401
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 4	610004	Gary "Butch" Smith	NOP	104748869	58822	336
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	43
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	285
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	410
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	85
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	268
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	403
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	109
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	268
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	425
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	87
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	285
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	404
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	91
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	287
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	396
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	96
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	294
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	393
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	93
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	301
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	387
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	92
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	437
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	271
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	71
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	471
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	246
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	63
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	288
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	421
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	71
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	282
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	419
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	79
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	234
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	448
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	98
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	430
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	272
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	3
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	75
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	294
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	391
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	95
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	433
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	282
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	64
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	335
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	366
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	79
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	420
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	294
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	66
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	227
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	463
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	3	AIRLINE COMMUNITY CENTER	1005	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	89
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	714
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	156
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	5
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	573
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	260
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	18
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	14
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	22
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	741
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	112
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	14
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	21
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	627
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	219
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	42
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Sheriff	 	335000	Aubrey P Land Sr	REP	104749071	58619	142
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Sheriff	 	335000	Brian Lamb	DEM	104751058	58583	727
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	534
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	292
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Attorney	 Judicial Circuit 3	200030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	62
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	720
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	20
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	147
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Supervisor of Elections	 	375000	Clay Rigdon	REP	108283641	58663	202
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Supervisor of Elections	 	375000	Travis Hart	DEM	104751569	58654	656
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	30
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 1	380010	Charles Driver	REP	104748693	58766	337
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 1	380010	Lance Lamb	DEM	104750294	58771	521
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	29
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 3	380030	Jeff Mowrey	REP	118430966	58781	305
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 3	380030	Curtis "Donnie" Hamlin	DEM	104748485	58777	548
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	35
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 2	610002	Henry McCray	NOP	104748377	58799	314
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 2	610002	Jeff Walker	NOP	104748858	58803	519
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	55
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 4	610004	Amanda Tidwell Hickman	NOP	104749427	58820	458
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 4	610004	Gary "Butch" Smith	NOP	104748869	58822	376
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	54
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	326
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	460
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	102
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	301
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	468
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	118
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	307
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	473
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	108
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	332
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	442
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	114
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	356
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	411
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	121
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	346
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	418
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	123
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	360
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	413
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	115
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	459
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	367
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	61
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	478
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	366
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	42
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	313
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	512
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	62
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	310
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	507
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	71
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	277
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	518
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	92
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	466
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	347
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	74
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	324
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	490
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	73
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	421
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	404
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	63
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	332
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	470
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	86
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	454
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	369
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	65
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	250
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	555
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	4	4TH DIST COMMUNITY CTR 4	1117	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	82
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	288
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	212
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Barnett / Cross	REF	0	60004	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Lindsay / Osorio	PSL	0	60008	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	238
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	240
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	8
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	4
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	21
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	300
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	175
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	9
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	29
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Representative	 District 7	260070	Halsey Beshears	REP	104736116	55748	264
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Representative	 District 7	260070	Robert Hill	DEM	105263077	55772	222
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	27
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Sheriff	 	335000	Aubrey P Land Sr	REP	104749071	58619	118
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Sheriff	 	335000	Brian Lamb	DEM	104751058	58583	382
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	13
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Attorney	 Judicial Circuit 3	200030	Jeff Siegmeister	REP	103192475	55250	223
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Attorney	 Judicial Circuit 3	200030	Bill Brannon	DEM	103180996	59978	244
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Attorney	 Judicial Circuit 3	200030	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	State Attorney	 Judicial Circuit 3	200030	UnderVotes	 	0	902	45
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	Wes Douglas	NOP	103166572	56180	385
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	WriteinVotes	 	0	900	15
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Circuit Judge	 Circuit 3 Group 5	550305	UnderVotes	 	0	902	113
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Supervisor of Elections	 	375000	Clay Rigdon	REP	108283641	58663	80
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Supervisor of Elections	 	375000	Travis Hart	DEM	104751569	58654	422
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	11
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 1	380010	Charles Driver	REP	104748693	58766	144
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 1	380010	Lance Lamb	DEM	104750294	58771	357
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	12
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 3	380030	Jeff Mowrey	REP	118430966	58781	192
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 3	380030	Curtis "Donnie" Hamlin	DEM	104748485	58777	310
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	11
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 2	610002	Henry McCray	NOP	104748377	58799	251
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 2	610002	Jeff Walker	NOP	104748858	58803	242
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	19
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 4	610004	Amanda Tidwell Hickman	NOP	104749427	58820	294
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 4	610004	Gary "Butch" Smith	NOP	104748869	58822	189
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	29
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	248
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	200
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	65
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	245
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	190
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	2
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	76
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	250
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	193
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	70
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	256
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	191
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	66
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	260
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	183
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	69
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	248
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	193
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	71
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	261
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	187
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	269
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	193
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	50
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	304
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	167
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	42
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	204
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	253
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	56
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	170
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	283
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	60
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	170
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	264
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	79
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	260
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	189
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	64
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	225
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	220
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	68
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	266
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	188
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	58
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	217
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	233
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	63
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	286
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	171
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	0
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	56
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	180
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	267
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+LAF	Lafayette	9547	11/06/2012	2012 General Election	5	MAYO COMMUNITY CENTER 5	741	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	65

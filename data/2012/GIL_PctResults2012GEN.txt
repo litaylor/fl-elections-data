@@ -1,0 +1,1130 @@
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	530
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	159
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	410
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	237
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	7
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	28
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	580
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	108
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	531
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	151
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	442
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	246
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	12
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	321
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	366
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	13
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	247
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	438
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	15
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	315
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	376
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	515
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	159
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	460
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	144
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	77
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	19
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	274
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	390
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	36
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	278
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	353
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	69
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	276
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	358
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	66
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	273
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	362
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	65
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	307
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	311
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	81
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	327
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	290
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	82
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	332
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	286
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	82
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	334
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	288
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	78
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	274
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	379
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	47
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	421
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	175
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	104
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	476
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	131
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	93
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	387
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	248
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	65
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	427
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	224
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	49
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	304
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	328
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	68
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	302
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	346
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	52
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	277
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	359
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	63
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	422
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	247
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	268
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	396
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	35
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	416
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	244
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	40
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	324
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	324
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	52
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	422
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	237
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	41
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	231
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	411
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	10	1A Trenton Center	1019	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	58
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	290
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	86
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	219
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	134
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	317
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	57
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	7
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	283
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	95
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	229
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	149
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	171
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	210
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	140
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	239
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	7
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	185
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	193
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	279
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	86
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	21
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	243
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	83
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	44
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	169
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	200
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	17
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	161
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	195
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	159
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	194
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	33
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	159
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	194
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	33
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	192
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	155
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	39
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	192
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	156
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	38
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	192
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	153
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	40
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	193
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	151
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	41
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	143
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	224
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	19
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	226
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	107
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	53
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	235
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	105
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	46
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	214
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	144
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	28
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	235
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	136
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	15
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	145
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	214
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	27
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	155
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	207
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	135
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	216
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	35
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	224
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	150
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	11
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	162
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	204
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	231
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	143
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	12
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	183
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	177
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	238
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	135
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	13
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	144
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	216
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	20	1B County Library	525	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	102
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	147
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	84
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	156
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	135
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	114
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	133
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	117
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	91
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	159
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	68
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	182
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	56
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	190
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	48
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	202
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	223
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	6
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	99
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	122
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	56
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	193
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	6
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	129
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	93
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	33
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	139
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	87
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	29
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	137
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	88
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	135
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	87
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	33
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	141
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	80
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	34
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	135
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	85
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	35
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	139
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	81
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	35
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	93
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	144
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	141
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	63
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	51
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	149
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	62
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	44
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	111
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	120
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	136
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	98
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	88
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	140
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	27
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	96
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	136
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	22
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	89
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	135
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	121
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	122
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	11
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	94
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	144
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	132
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	106
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	93
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	140
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	21
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	120
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	114
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	78
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	151
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	30	1C County Library	378	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	25
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	846
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	223
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	12
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	677
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	358
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	12
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	915
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	145
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	17
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	866
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	202
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	27
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	668
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	397
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	477
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	604
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	14
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	418
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	650
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	27
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	513
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	557
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	25
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	775
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	274
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	46
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	677
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	214
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	169
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	35
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	441
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	608
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	46
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	382
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	612
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	101
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	382
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	608
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	105
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	384
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	609
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	102
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	472
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	504
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	119
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	508
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	467
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	120
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	505
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	466
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	123
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	510
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	467
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	118
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	482
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	533
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	80
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	651
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	303
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	141
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	658
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	299
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	138
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	622
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	374
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	98
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	661
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	366
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	67
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	480
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	518
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	96
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	422
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	591
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	83
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	448
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	546
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	102
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	653
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	389
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	54
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	372
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	656
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	68
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	664
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	375
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	57
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	530
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	489
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	77
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	669
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	367
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	60
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	343
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	659
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	40	2A Donnie Center	1477	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	94
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	844
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	241
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	6
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Goode, / Clymer	CPF	0	59941	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	13
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	638
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	415
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	44
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	928
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	159
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	859
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	235
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	578
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	521
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	25
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	483
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	623
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	468
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	638
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	671
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	439
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	837
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	249
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	38
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	546
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	364
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	187
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	27
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	408
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	668
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	48
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	396
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	615
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	113
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	416
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	596
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	112
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	412
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	597
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	115
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	462
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	532
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	129
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	502
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	494
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	128
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	497
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	497
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	129
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	502
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	494
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	128
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	564
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	475
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	85
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	604
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	375
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	144
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	693
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	273
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	158
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	624
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	400
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	98
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	711
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	349
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	63
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	480
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	540
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	103
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	454
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	564
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	102
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	449
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	548
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	124
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	673
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	396
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	51
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	394
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	661
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	64
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	686
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	378
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	57
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	537
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	504
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	80
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	709
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	348
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	64
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	347
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	682
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	50	3A Bell Community Center	1522	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	92
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	788
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	239
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	Alexander / Mendoza	SOC	0	60006	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	621
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	358
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	12
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	47
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	868
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	161
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	15
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	819
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	220
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	542
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	491
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	482
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	562
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	15
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	448
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	592
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	23
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	649
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	395
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	701
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	325
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	37
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	600
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	290
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	139
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	33
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	428
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	605
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	418
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	575
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	70
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	407
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	585
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	71
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	417
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	573
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	72
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	501
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	481
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	81
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	541
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	444
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	77
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	533
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	450
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	79
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	550
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	434
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	78
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	622
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	362
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	78
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	573
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	358
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	132
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	588
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	325
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	149
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	637
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	356
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	67
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	729
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	285
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	47
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	536
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	467
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	59
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	490
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	519
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	52
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	463
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	520
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	78
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	653
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	369
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	40
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	427
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	592
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	44
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	699
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	328
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	36
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	557
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	454
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	51
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	738
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	282
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	42
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	403
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	591
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	60	4A Cruse Center	1513	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	68
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	439
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	111
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	357
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	174
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	8
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	6
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	454
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	90
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	14
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	7
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	438
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	111
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	303
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	246
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	279
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	276
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	297
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	253
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	15
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	351
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	197
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	17
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	345
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	193
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	27
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	321
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	162
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	56
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	298
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	247
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	189
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	320
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	56
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	195
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	314
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	56
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	191
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	319
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	55
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	244
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	260
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	61
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	255
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	251
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	59
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	263
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	243
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	59
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	250
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	255
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	60
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	315
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	170
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	80
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	267
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	203
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	95
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	312
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	152
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	101
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	347
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	188
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	30
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	405
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	138
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	22
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	257
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	271
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	37
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	239
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	303
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	249
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	280
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	37
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	348
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	208
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	10
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	209
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	339
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	377
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	175
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	14
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	305
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	245
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	409
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	148
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	216
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	318
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	70	5A N Gilchrist Fire Station	780	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	32
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	910
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	238
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	10
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	Anderson / Rodriguez	JPF	0	60019	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	747
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	359
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	16
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	34
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	968
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	161
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	17
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	936
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	205
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	682
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	442
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	42
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	756
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	385
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	655
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	480
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	32
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	734
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	407
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	688
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	404
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	75
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	766
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	230
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	116
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	55
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	648
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	456
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	63
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	439
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	628
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	99
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	435
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	631
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	100
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	427
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	643
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	96
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	548
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	512
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	107
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	596
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	458
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	113
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	594
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	468
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	105
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	605
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	454
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	108
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	726
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	306
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	134
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	601
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	352
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	213
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	628
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	340
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	198
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	701
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	378
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	87
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	797
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	323
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	46
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	563
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	523
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	80
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	513
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	576
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	76
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	488
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	575
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	102
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	746
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	382
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	37
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	470
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	644
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	51
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	743
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	380
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	42
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	643
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	453
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	69
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	826
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	287
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	52
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	398
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	687
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	80	6A Osteen Center	1556	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	80
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	622
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	186
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	Hoefling / Ellis	AIP	0	60016	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	497
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	269
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	13
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	675
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	128
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	15
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	U.S. Representative	 District 3	140030	WriteinVotes	 	0	900	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	661
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	152
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	15
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	508
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	294
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	461
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	349
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	404
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	403
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	21
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	448
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	356
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	24
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	524
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	265
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	38
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	523
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	175
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	101
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	29
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	424
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	354
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	50
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	335
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	416
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	76
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	321
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	432
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	75
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	319
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	434
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	74
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	381
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	361
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	85
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	406
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	336
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	86
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	395
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	346
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	87
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	398
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	345
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	84
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	402
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	342
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	83
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	411
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	278
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	138
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	465
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	238
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	124
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	481
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	288
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	57
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	508
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	284
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	OverVotes	 	0	901	4
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	32
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	373
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	403
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	51
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	350
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	434
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	42
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	306
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	457
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 5: STATE COURTS	 	900500	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	63
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	497
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	298
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	31
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	293
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	497
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	36
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	477
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	316
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	33
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	404
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	380
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	OverVotes	 	0	901	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	40
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	524
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	268
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	34
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	271
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	490
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	90	7A Osceola Center	1153	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	65
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	Romney / Ryan	REP	0	55509	546
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	Obama / Biden	DEM	0	55511	255
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	Stevens / Link	OBJ	0	59923	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	Johnson / Gray	LBT	0	59927	6
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	Stein / Honkala	GRE	0	59982	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	Barr / Sheehan	PFP	0	60010	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	United States Senator	 	120000	Connie Mack	REP	111374199	57690	442
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	56865	323
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	United States Senator	 	120000	Bill Gaylor	NPA	101020732	55682	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	United States Senator	 	120000	Chris Borgia	NPA	101900704	55533	7
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	29
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	55273	648
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	U.S. Representative	 District 3	140030	J.R. Gaillot	DEM	102899877	55831	144
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	U.S. Representative	 District 3	140030	Philip Dodds	NPA	100482356	57253	20
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	9
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	State Representative	 District 21	260210	Keith Perry	REP	100401685	54990	620
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	State Representative	 District 21	260210	Andrew Morey	DEM	100569020	55848	187
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	14
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Clerk of the Circuit Court	 	320000	Todd Newton	REP	104277245	56876	477
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Clerk of the Circuit Court	 	320000	Susan P. Owens	DEM	104269787	56870	315
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	29
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Sheriff	 	335000	Robert C. Roux Jr	REP	104272346	56936	415
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Sheriff	 	335000	Robert (Bobby) Schultz	DEM	105241736	56938	393
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	13
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Tax Collector	 	355000	Tommy Langford	REP	104269571	56968	404
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Tax Collector	 	355000	Barbara J. Merritt	DEM	104273236	56969	398
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	19
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Superintendent of Schools	 	360000	Robert G. "Rob" Rankin	REP	104271494	56960	386
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Superintendent of Schools	 	360000	Christie L. McElroy	DEM	104276905	58104	409
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	26
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 1	380010	Sharon Akins Langford	DEM	104268852	56874	545
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 1	380010	Rosemary B. McDaniel	NPA	104272033	56873	229
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	47
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 3	380030	Todd Gray	REP	104275774	56878	476
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 3	380030	James A Shepherd	DEM	104270264	56881	205
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 3	380030	Rodney W. Brown	NPA	100440342	56877	106
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	34
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 4	380040	Marion C. Poitevint	REP	104275630	56883	404
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 4	380040	John Rance Thomas	DEM	104270438	56884	363
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	54
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	Yes	NOP	105140464	10	348
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	No	NOP	105140464	20	400
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of R. Fred Lewis	Justice of the Supreme Court	500100	UnderVotes	 	0	902	73
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	Yes	NOP	112148662	10	341
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	No	NOP	112148662	20	409
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Barbara J. Pariente	Justice of the Supreme Court	500200	UnderVotes	 	0	902	71
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	Yes	NOP	0	10	363
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	No	NOP	0	20	383
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Peggy A. Quince	Justice of the Supreme Court	500300	UnderVotes	 	0	902	75
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	Yes	NOP	105128806	10	407
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	No	NOP	105128806	20	324
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Simone Marstiller	First District Court of Appeal	520101	UnderVotes	 	0	902	90
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	0	10	433
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	0	20	300
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	88
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	Yes	NOP	107505241	10	441
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	No	NOP	107505241	20	295
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Ron Swanson	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	Yes	NOP	105011721	10	427
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	No	NOP	105011721	20	308
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	85
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	School Board	 District 2	610002	Robert B Clemons	NOP	104274261	56922	383
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	School Board	 District 2	610002	Matthew Rexroat	NOP	104273055	56921	330
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	108
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Don Bennink	NOP	104268959	58732	407
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	Richard F. Esseck	NOP	104275186	58744	255
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	OverVotes	 	0	901	2
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Gilchrist Soil and Water Conservation District	 Group 3	821063	UnderVotes	 	0	902	157
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Brett Crawford	NOP	116052861	58739	460
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	Jean Wonser	NOP	104270700	56941	218
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Gilchrist Soil and Water Conservation District	 Group 5	821065	UnderVotes	 	0	902	143
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	Yes for Approval	NOP	0	10	416
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	No for Rejection	NOP	0	20	331
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 1: HEALTH CARE SERVICES	 	900100	UnderVotes	 	0	902	74
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	Yes for Approval	NOP	0	10	528
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	No for Rejection	NOP	0	20	249
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 2: VETERANS DISABLED DUE TO COMBAT INJURY; HOMESTEAD PROPERTY TAX DISCOUNT	 	900200	UnderVotes	 	0	902	44
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	Yes for Approval	NOP	0	10	358
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	No for Rejection	NOP	0	20	394
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 3: STATE GOVERNMENT REVENUE LIMITATION	 	900300	UnderVotes	 	0	902	69
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	Yes for Approval	NOP	0	10	345
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	No for Rejection	NOP	0	20	418
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 4: PROPERTY TAX LIMITATIONS; PROPERTY VALUE DECLINE; REDUCTION FOR NONHOMESTEAD ASSESSMENT INCREASES; DELAY OF SCHEDULED REPEAL	 	900400	UnderVotes	 	0	902	57
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 5: STATE COURTS	 	900500	Yes for Approval	NOP	0	10	327
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 5: STATE COURTS	 	900500	No for Rejection	NOP	0	20	425
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 5: STATE COURTS	 	900500	UnderVotes	 	0	902	68
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	Yes for Approval	NOP	0	10	434
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	No for Rejection	NOP	0	20	351
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 6: PROHIBITION ON PUBLIC FUNDING OF ABORTIONS; CONSTRUCTION OF ABORTION RIGHTS	 	900600	UnderVotes	 	0	902	35
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	Yes for Approval	NOP	0	10	285
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	No for Rejection	NOP	0	20	484
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 8: RELIGIOUS FREEDOM	 	900800	UnderVotes	 	0	902	51
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	Yes for Approval	NOP	0	10	526
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	No for Rejection	NOP	0	20	254
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 9: HOMESTEAD PROPERTY TAX EXEMPTION FOR SURVIVING SPOUSE OF MILITARY VETERAN OR FIRST RESPONDER	 	900900	UnderVotes	 	0	902	40
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	Yes for Approval	NOP	0	10	393
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	No for Rejection	NOP	0	20	372
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 10: TANGIBLE PERSONAL PROPERTY TAX EXEMPTION	 	901000	UnderVotes	 	0	902	55
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	Yes for Approval	NOP	0	10	557
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	No for Rejection	NOP	0	20	223
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 11: ADDITIONAL HOMESTEAD EXEMPTION; LOW-INCOME SENIORS WHO MAINTAIN LONG-TERM RESIDENCY ON PROPERTY; EQUAL TO ASSESSED VALUE	 	901100	UnderVotes	 	0	902	40
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	Yes for Approval	NOP	0	10	266
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	No for Rejection	NOP	0	20	487
+GIL	Gilchrist	9547	11/06/2012	2012 General Election	100	8A Southeast Center	1205	0	0	0	Amendment No. 12: APPOINTMENT OF STUDENT BODY PRESIDENT TO BOARD OF GOVERNORS OF THE STATE UNIVERSITY SYSTEM	 	901200	UnderVotes	 	0	902	67
